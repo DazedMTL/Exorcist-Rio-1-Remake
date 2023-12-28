@@ -17,7 +17,7 @@
       { "code": 52, "dataId": 5, "value": 0 }
     ],
     "learnings": [],
-    "name": "退魔師",
+    "name": "Demon Hunter",
     "note": "",
     "params": [
       [
@@ -105,7 +105,7 @@
       { "code": 52, "dataId": 6, "value": 0 }
     ],
     "learnings": [],
-    "name": "戦士",
+    "name": "Warrior",
     "note": "",
     "params": [
       [
@@ -199,7 +199,7 @@
       { "code": 52, "dataId": 2, "value": 0 }
     ],
     "learnings": [{ "level": 1, "note": "", "skillId": 9 }],
-    "name": "魔術師",
+    "name": "Magician",
     "note": "",
     "params": [
       [
@@ -293,7 +293,7 @@
       { "code": 52, "dataId": 2, "value": 0 }
     ],
     "learnings": [{ "level": 1, "note": "", "skillId": 8 }],
-    "name": "僧侶",
+    "name": "Cleric",
     "note": "",
     "params": [
       [

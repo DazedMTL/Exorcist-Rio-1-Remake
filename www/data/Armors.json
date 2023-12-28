@@ -3,11 +3,11 @@
   {
     "id": 1,
     "atypeId": 5,
-    "description": "ウサギ好きがばれて付けられた名前。\nただし本人はまんざらでもない。",
+    "description": "A name given away by her love for rabbits. However, she herself is not entirely\ndispleased with it.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 87,
-    "name": "戦場のウサギ",
+    "name": "Battlefield Rabbit",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 300
@@ -15,11 +15,11 @@
   {
     "id": 2,
     "atypeId": 1,
-    "description": "ラビがこっそり部屋で飼っているオスのウサギ。\nしかし仲間は全員知っている。近々メスを飼ってあげる予定。",
+    "description": "Rabi is secretly keeping a male rabbit in her room. However, all her friends\nknow about it. She's planning to get a female rabbit for him soon.",
     "etypeId": 3,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 23,
-    "name": "ウサウサ",
+    "name": "Usausa",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 300
@@ -27,11 +27,11 @@
   {
     "id": 3,
     "atypeId": 1,
-    "description": "イケメンなら寝てやってもいい。\nイライラするとストレス解消にヤりたくなる。",
+    "description": "If he's handsome, I wouldn't mind sleeping with him. When I get irritated, I\nwant to have sex to relieve stress.",
     "etypeId": 4,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 7,
-    "name": "面食い",
+    "name": "Looks Eater",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 300
@@ -39,7 +39,7 @@
   {
     "id": 4,
     "atypeId": 1,
-    "description": "「いじめられて嬉しいとか有り得ねー。」\n・・・とのこと。しかし・・・？",
+    "description": "There's no way I'd be happy about being bullied. ...But still...?",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 5,
@@ -51,11 +51,11 @@
   {
     "id": 5,
     "atypeId": 1,
-    "description": "ラビの愛ナイフ。あると色々便利。",
+    "description": "Rabi's Love Knife. It's quite handy to have around.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 96,
-    "name": "ナイフ",
+    "name": "Knife",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 300
@@ -63,11 +63,11 @@
   {
     "id": 6,
     "atypeId": 1,
-    "description": "[最大HP＋5]\n木彫りのお守り。ささやかな加護がある。",
+    "description": "[Max HP +5] A wooden charm. It offers a modest blessing.",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 147,
-    "name": "体力のお守り",
+    "name": "Amulet of Vitality",
     "note": "<composite:1,i5,1,i6,10,0,0>\n<itemCategory:装備>",
     "params": [5, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -75,11 +75,11 @@
   {
     "id": 7,
     "atypeId": 1,
-    "description": "[攻撃力＋2][最大HP-75][最大術力-200]\n血塗られ過ぎたお守り。代償の方が大きい気がする。",
+    "description": "[Attack Power +2][Max HP -75][Max Magic Power -200] An overly bloodstained\ncharm. It feels like the cost outweighs the benefits.",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 147,
-    "name": "悪魔のお守り",
+    "name": "Demon's Charm",
     "note": "<composite:1,i4,3,i11,5,i12,10,i23,1,i7,5,0,0>\n<itemCategory:装備>",
     "params": [-75, -200, 2, 0, 0, 0, 0, 0],
     "price": 0
@@ -99,11 +99,11 @@
   {
     "id": 9,
     "atypeId": 1,
-    "description": "人とも魔物とも積極的にセッ〇スする筋金入りのビッチ。\n類まれな美貌を自覚しており隙あらば誘惑する。",
+    "description": "A hardcore slut who actively has sex with both humans and monsters. Aware of her\nexceptional beauty, she takes every opportunity to seduce.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
-    "name": "ビッチ",
+    "name": "Bitch",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -111,11 +111,11 @@
   {
     "id": 10,
     "atypeId": 1,
-    "description": "肉体への刺激はほぼ全てに性的快感を感じる肉便器肌。\nまたM気質も強く乱暴に扱われるとより強く快楽を感じる。",
+    "description": "A flesh toilet skin that feels sexual pleasure from almost all physical stimuli.\nAlso has a strong masochistic temperament, feeling even greater pleasure when\ntreated roughly.",
     "etypeId": 3,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
-    "name": "肉便器級",
+    "name": "Meat Toilet Class",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -123,11 +123,11 @@
   {
     "id": 11,
     "atypeId": 1,
-    "description": "エロい行為は基本何でも強い快楽を感じるが\n口、マ〇コ、ア〇ルを同時に責められるとすぐイってしまう",
+    "description": "Lewd acts generally make me feel intense pleasure, but when my mouth, pussy, and\nass are pleasured at the same time, I come immediately.",
     "etypeId": 4,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
-    "name": "二穴、三穴責め",
+    "name": "Double and Triple Penetration Torment",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -135,11 +135,11 @@
   {
     "id": 12,
     "atypeId": 1,
-    "description": "リオの体内(子宮)に施された人、魔物両方に有効な避妊結界。\nほとんどの妊娠を防げるが…例外・弱点も存在する。",
+    "description": "A contraceptive barrier effective against both humans and monsters has been\nplaced inside Rio's body (womb). It can prevent most pregnancies, but... there\nare exceptions and weaknesses.",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 79,
-    "name": "避妊術",
+    "name": "Contraceptive Technique",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -147,11 +147,11 @@
   {
     "id": 13,
     "atypeId": 1,
-    "description": "リオの身体能力を底上げしている強化術。\n成人男性と同等かそれ以上の力と、肉体耐久力を得る。",
+    "description": "An enhancement spell that boosts Rio's physical abilities. It grants her the\nstrength of an adult male or greater, along with increased physical endurance.",
     "etypeId": 6,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 79,
-    "name": "肉体強化術",
+    "name": "Physical Enhancement Technique",
     "note": "<itemCategory:装備>",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -355,7 +355,7 @@
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 0,
-    "name": "■称号■",
+    "name": "■Title■",
     "note": "",
     "params": [0, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -363,11 +363,11 @@
   {
     "id": 31,
     "atypeId": 1,
-    "description": "合法・非合法問わず様々な任務を行う民間企業の工作員。\nラビは特に荒事が得意。【最大HP＋20】",
+    "description": "An operative of a private corporation that carries out various missions, legal\nand illegal alike. Rabi is particularly skilled in rough tasks. [Maximum HP +20]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
-    "name": "【称号】工作員",
+    "name": "[Title] Operative",
     "note": "",
     "params": [20, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -375,11 +375,11 @@
   {
     "id": 32,
     "atypeId": 1,
-    "description": "ペットの名前はウサウサ(オス)。\n近々メスを飼う予定。【最大気力＋20】",
+    "description": "The pet's name is Usausa (male). Planning to get a female soon. [Max Stamina\n+20]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
-    "name": "【称号】うさぎ好き",
+    "name": "[Title] Rabbit Lover",
     "note": "",
     "params": [0, 20, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -387,11 +387,11 @@
   {
     "id": 33,
     "atypeId": 1,
-    "description": "実戦で磨かれた熟練のナイフ捌き。\n【最大体力＋30】【近接攻撃＋15】",
+    "description": "Expert knife handling honed in actual combat. [Max HP +30][Melee Attack +15]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
-    "name": "【称号】ナイファ―",
+    "name": "Knife Wielder",
     "note": "",
     "params": [30, 0, 0, 15, 0, 0, 0, 0],
     "price": 0
@@ -399,11 +399,11 @@
   {
     "id": 34,
     "atypeId": 1,
-    "description": "初遭遇で【首無し】を撃退した。敵はとりあえず撃つ。\n【最大HP＋50】【最大気力＋50】【近・遠攻撃＋5】",
+    "description": "Defeated the [Headless] on our first encounter. For now, shoot the enemy. [Max\nHP +50] [Max Stamina +50] [Close & Ranged Attack +5]",
     "etypeId": 5,
     "traits": [],
     "iconIndex": 72,
-    "name": "【称号】返り討ち",
+    "name": "Counterattacker Title",
     "note": "",
     "params": [50, 50, 5, 5, 0, 0, 0, 0],
     "price": 0
@@ -411,11 +411,11 @@
   {
     "id": 35,
     "atypeId": 1,
-    "description": "あらゆるゾンビに犯された女。ゾンビは貢ぎたい。\n【最大気力＋100】【最大体力-80】【ドロップ率大幅アップ】",
+    "description": "A woman violated by every zombie. Zombies want to offer tribute. [Max Spirit\n+100] [Max Stamina -80] [Significantly increased drop rate]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
-    "name": "【称号】ゾンビの肉便姫",
+    "name": "Zombie Flesh Convenience Princess",
     "note": "",
     "params": [-80, 100, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -423,11 +423,11 @@
   {
     "id": 36,
     "atypeId": 1,
-    "description": "ゾンビを30体倒した！\n【最大体力＋50】【アイテムドロップ率アップ】",
+    "description": "Defeated 30 zombies! [Max HP +50] [Item Drop Rate Increased]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
-    "name": "【称号】ゾンビハンター",
+    "name": "[Title] Zombie Hunter",
     "note": "",
     "params": [50, 0, 0, 0, 0, 0, 0, 0],
     "price": 0
@@ -435,14 +435,14 @@
   {
     "id": 37,
     "atypeId": 1,
-    "description": "戦場を跳ね回って敵を殲滅するラビの異名。\n【最大気力＋80】【全銃の威力が1.2倍】【近接攻撃＋10】",
+    "description": "Rabi's alias as she leaps across the battlefield annihilating enemies. [Max\nSpirit +80] [All gun power increased by 1.2 times] [Melee Attack +10]",
     "etypeId": 5,
     "traits": [
       { "code": 22, "dataId": 1, "value": 0 },
       { "code": 21, "dataId": 2, "value": 1.2 }
     ],
     "iconIndex": 72,
-    "name": "【称号】戦場のうさぎ",
+    "name": "[Title] Battlefield Bunny",
     "note": "",
     "params": [0, 80, 0, 10, 0, 0, 0, 0],
     "price": 0

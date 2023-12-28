@@ -25,7 +25,7 @@
       { "code": 31, "dataId": 1, "value": 0 }
     ],
     "gold": 0,
-    "name": "こうもり",
+    "name": "Bat",
     "note": "",
     "params": [200, 0, 30, 30, 30, 30, 30, 30]
   },
@@ -54,7 +54,7 @@
       { "code": 31, "dataId": 1, "value": 0 }
     ],
     "gold": 0,
-    "name": "スライム",
+    "name": "Slime",
     "note": "",
     "params": [250, 0, 30, 30, 30, 30, 30, 30]
   },
@@ -83,7 +83,7 @@
       { "code": 31, "dataId": 1, "value": 0 }
     ],
     "gold": 0,
-    "name": "オーク",
+    "name": "Orc",
     "note": "",
     "params": [300, 0, 30, 30, 30, 30, 30, 30]
   },
@@ -112,7 +112,7 @@
       { "code": 31, "dataId": 1, "value": 0 }
     ],
     "gold": 0,
-    "name": "ミノタウロス",
+    "name": "Minotaur",
     "note": "<Sensor: 4>",
     "params": [500, 0, 30, 30, 30, 30, 30, 30]
   }

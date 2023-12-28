@@ -3,7 +3,7 @@
   {
     "id": 1,
     "expanded": false,
-    "name": "城外観(撮影用",
+    "name": "Castle Exterior (For Filming)",
     "order": 21,
     "parentId": 35,
     "scrollX": 1062,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "expanded": false,
-    "name": "スタートマップ",
+    "name": "Start Map",
     "order": 2,
     "parentId": 0,
     "scrollX": 1072.6666666666667,
@@ -22,7 +22,7 @@
   {
     "id": 4,
     "expanded": true,
-    "name": "城内",
+    "name": "Inside the castle",
     "order": 3,
     "parentId": 0,
     "scrollX": 1072.6666666666667,
@@ -31,7 +31,7 @@
   {
     "id": 5,
     "expanded": true,
-    "name": "エントランス",
+    "name": "Entrance",
     "order": 4,
     "parentId": 4,
     "scrollX": 1194,
@@ -40,7 +40,7 @@
   {
     "id": 6,
     "expanded": false,
-    "name": "休憩室",
+    "name": "Break Room",
     "order": 5,
     "parentId": 5,
     "scrollX": 1204.6666666666667,
@@ -49,7 +49,7 @@
   {
     "id": 7,
     "expanded": false,
-    "name": "西側廊下",
+    "name": "West Corridor",
     "order": 6,
     "parentId": 5,
     "scrollX": 1062,
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "expanded": false,
-    "name": "宝物庫",
+    "name": "Treasury",
     "order": 7,
     "parentId": 5,
     "scrollX": 1062,
@@ -67,7 +67,7 @@
   {
     "id": 9,
     "expanded": true,
-    "name": "東側廊下",
+    "name": "East Corridor",
     "order": 8,
     "parentId": 5,
     "scrollX": 1062,
@@ -76,7 +76,7 @@
   {
     "id": 10,
     "expanded": false,
-    "name": "1F最東部屋",
+    "name": "1F Far East Room",
     "order": 12,
     "parentId": 5,
     "scrollX": 1379.142857142857,
@@ -85,7 +85,7 @@
   {
     "id": 11,
     "expanded": false,
-    "name": "左の部屋",
+    "name": "The room on the left",
     "order": 9,
     "parentId": 9,
     "scrollX": 1204.6666666666667,
@@ -94,7 +94,7 @@
   {
     "id": 12,
     "expanded": false,
-    "name": "中央の部屋",
+    "name": "The Central Room",
     "order": 10,
     "parentId": 9,
     "scrollX": 1204.6666666666667,
@@ -103,7 +103,7 @@
   {
     "id": 13,
     "expanded": false,
-    "name": "右の部屋",
+    "name": "The room on the right",
     "order": 11,
     "parentId": 9,
     "scrollX": 1214,
@@ -112,7 +112,7 @@
   {
     "id": 14,
     "expanded": true,
-    "name": "地下への梯子",
+    "name": "Ladder to the Basement",
     "order": 13,
     "parentId": 5,
     "scrollX": 1214,
@@ -121,7 +121,7 @@
   {
     "id": 15,
     "expanded": true,
-    "name": "地下1",
+    "name": "Basement 1",
     "order": 14,
     "parentId": 14,
     "scrollX": 1203.3333333333333,
@@ -130,7 +130,7 @@
   {
     "id": 16,
     "expanded": true,
-    "name": "2Fエントランス",
+    "name": "2F Entrance",
     "order": 22,
     "parentId": 4,
     "scrollX": 1379.142857142857,
@@ -139,7 +139,7 @@
   {
     "id": 17,
     "expanded": false,
-    "name": "2F西部屋",
+    "name": "2F West Room",
     "order": 23,
     "parentId": 16,
     "scrollX": 1322,
@@ -148,7 +148,7 @@
   {
     "id": 18,
     "expanded": false,
-    "name": "2F西側廊下",
+    "name": "2F West Side Corridor",
     "order": 24,
     "parentId": 16,
     "scrollX": 1204.6666666666667,
@@ -157,7 +157,7 @@
   {
     "id": 19,
     "expanded": false,
-    "name": "2F蔵書室",
+    "name": "2F Library",
     "order": 25,
     "parentId": 16,
     "scrollX": 1204.6666666666667,
@@ -166,7 +166,7 @@
   {
     "id": 20,
     "expanded": true,
-    "name": "2F東側廊下",
+    "name": "2F East Side Corridor",
     "order": 26,
     "parentId": 16,
     "scrollX": 1062,
@@ -175,7 +175,7 @@
   {
     "id": 21,
     "expanded": false,
-    "name": "2F最東部屋",
+    "name": "2F Easternmost Room",
     "order": 31,
     "parentId": 16,
     "scrollX": 1204.6666666666667,
@@ -184,7 +184,7 @@
   {
     "id": 22,
     "expanded": false,
-    "name": "左の部屋",
+    "name": "The room on the left",
     "order": 27,
     "parentId": 20,
     "scrollX": 1204.6666666666667,
@@ -193,7 +193,7 @@
   {
     "id": 23,
     "expanded": false,
-    "name": "右の部屋",
+    "name": "The room on the right",
     "order": 30,
     "parentId": 20,
     "scrollX": 1204.6666666666667,
@@ -202,7 +202,7 @@
   {
     "id": 24,
     "expanded": true,
-    "name": "中央の部屋",
+    "name": "The central room",
     "order": 28,
     "parentId": 20,
     "scrollX": 1204.6666666666667,
@@ -211,7 +211,7 @@
   {
     "id": 25,
     "expanded": false,
-    "name": "ボス部屋",
+    "name": "Boss Room",
     "order": 32,
     "parentId": 16,
     "scrollX": 1338,
@@ -220,7 +220,7 @@
   {
     "id": 26,
     "expanded": false,
-    "name": "2Fエントランス西部屋",
+    "name": "2F West Entrance Room",
     "order": 33,
     "parentId": 16,
     "scrollX": 1204.6666666666667,
@@ -229,7 +229,7 @@
   {
     "id": 27,
     "expanded": true,
-    "name": "2Fエントランス東部屋",
+    "name": "2F Entrance East Room",
     "order": 34,
     "parentId": 16,
     "scrollX": 1204.6666666666667,
@@ -238,7 +238,7 @@
   {
     "id": 28,
     "expanded": true,
-    "name": "地下2",
+    "name": "Basement Level 2",
     "order": 16,
     "parentId": 14,
     "scrollX": 1078,
@@ -247,7 +247,7 @@
   {
     "id": 29,
     "expanded": false,
-    "name": "触手地獄エリア",
+    "name": "Tentacle Hell Area",
     "order": 17,
     "parentId": 28,
     "scrollX": 1338,
@@ -256,7 +256,7 @@
   {
     "id": 30,
     "expanded": false,
-    "name": "出口",
+    "name": "Exit",
     "order": 18,
     "parentId": 28,
     "scrollX": 1204.6666666666667,
@@ -265,7 +265,7 @@
   {
     "id": 31,
     "expanded": false,
-    "name": "中央の部屋(爆破後",
+    "name": "Central Room (After the Explosion)",
     "order": 29,
     "parentId": 24,
     "scrollX": 1204.6666666666667,
@@ -274,7 +274,7 @@
   {
     "id": 32,
     "expanded": false,
-    "name": "2Fエントランス東部屋(糸除去",
+    "name": "2F Entrance East Room (Thread Removal)",
     "order": 35,
     "parentId": 27,
     "scrollX": 1204.6666666666667,
@@ -283,7 +283,7 @@
   {
     "id": 33,
     "expanded": true,
-    "name": "エントランス(落下イベ用",
+    "name": "Entrance (For Falling Event)",
     "order": 36,
     "parentId": 27,
     "scrollX": 1204.6666666666667,
@@ -292,7 +292,7 @@
   {
     "id": 34,
     "expanded": false,
-    "name": "触手埋もれ場所",
+    "name": "Tentacle Burial Ground",
     "order": 19,
     "parentId": 28,
     "scrollX": 1214,
@@ -301,7 +301,7 @@
   {
     "id": 35,
     "expanded": true,
-    "name": "城外観",
+    "name": "Castle Exterior",
     "order": 20,
     "parentId": 5,
     "scrollX": 1062,
@@ -310,7 +310,7 @@
   {
     "id": 36,
     "expanded": false,
-    "name": "地下1(出産バッド用",
+    "name": "Basement 1 (For Birthing Beds)",
     "order": 15,
     "parentId": 15,
     "scrollX": 1203.3333333333333,
@@ -319,7 +319,7 @@
   {
     "id": 37,
     "expanded": false,
-    "name": "リオ事務所",
+    "name": "Rio's Office",
     "order": 1,
     "parentId": 0,
     "scrollX": 1379.142857142857,
