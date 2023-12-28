@@ -493,12 +493,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1718,17 +1715,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この部屋の中に魔物のボスがいるようだ…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["部屋の中に入りますか？"]
+              "parameters": [
+                "It seems like the boss of the monsters is inside\nthis room... Do you want to enter?"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["入る", "まだ入らない"], 1, 1, 1, 0]
+              "parameters": [["Enter", "Not yet"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "入る"] },
             {
@@ -1742,25 +1736,15 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["※中に入るとボスとの対決が始まり"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
               "parameters": [
-                "※現状況に応じた\\c[18]いずれかのエンディング\\c[0]をむかえます。"
+                "※Entering will initiate the showdown with the\nboss※ and you will face \\c[18]one of the\nendings\\c[0] depending on the current situation.\n※Are you sure you want to enter the room?"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["※本当に部屋に入りますか？"]
             },
             {
               "code": 102,
               "indent": 2,
               "parameters": [
-                ["入って決着をつける", "やっぱりやめる"],
+                ["Enter and settle the score", "On second thought, let's not"],
                 1,
                 1,
                 1,
@@ -1777,18 +1761,21 @@
             { "code": 213, "indent": 3, "parameters": [-1, 8, true] },
             { "code": 356, "indent": 3, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["よし…、"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["さっさと片付けて仕事を終わらせるわよ…！"]
+              "parameters": [
+                "Alright... Let's get this over with and finish the\njob...!"
+              ]
             },
             { "code": 356, "indent": 3, "parameters": ["MWP_INVALID"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["リオは\\c[17]屋敷主人の部屋の鍵\\c[0]を使った。"]
+              "parameters": [
+                "Rio used the \\c[17]mansion master's room key\\c[0]."
+              ]
             },
             {
               "code": 250,
@@ -1915,7 +1902,9 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["もう少し準備してから行こうかな…"]
+              "parameters": [
+                "Maybe I should prepare a little more before going\nin..."
+              ]
             },
             {
               "code": 231,
@@ -1936,7 +1925,9 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["もう少し準備してから行こうかな…"]
+              "parameters": [
+                "Maybe I should prepare a little more before going\nin..."
+              ]
             },
             {
               "code": 231,
@@ -1970,7 +1961,7 @@
             { "code": 230, "indent": 1, "parameters": [10] },
             { "code": 213, "indent": 1, "parameters": [-1, 7, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["鍵が掛かっている…"] },
+            { "code": 401, "indent": 1, "parameters": ["It's locked..."] },
             { "code": 111, "indent": 1, "parameters": [2, "A", 0] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 2"] },
@@ -1978,45 +1969,37 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["親玉はこの部屋にはいるみたいね…、\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["鍵はどこにあるんだろ…。"]
+              "parameters": [
+                "It seems like the boss is in this room... Where\ncould the key be...?"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 2, "parameters": [-1, 8, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["この部屋…"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["すごく強力な魔物の気配がする…"]
+              "parameters": [
+                "This room... There's a very strong presence of a\npowerful monster..."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ここの魔物達の親玉は"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["この部屋の中で間違いなさそう…"]
+              "parameters": [
+                "The boss of these monsters must be inside this\nroom for sure..."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["でも今は入れないみたい…、"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["この部屋の鍵を探してこないと…！"]
+              "parameters": [
+                "But it looks like I can't enter now... I have to\nfind the key to this room...!"
+              ]
             },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2089,12 +2072,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. It doesn't look\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -2905,7 +2905,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ラビの身体にゾンビが群がっていく・・・"]
+              "parameters": ["Zombies are swarming towards Rabi's body..."]
             },
             { "code": 356, "indent": 1, "parameters": ["Egauge set 350"] },
             { "code": 122, "indent": 1, "parameters": [83, 83, 0, 0, 350] },
@@ -3423,7 +3423,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ラビの身体にゾンビが襲いかかっていく…！"]
+              "parameters": ["Zombies are attacking Rabi's body...!"]
             },
             { "code": 356, "indent": 1, "parameters": ["Egauge set 350"] },
             { "code": 122, "indent": 1, "parameters": [83, 83, 0, 0, 350] },
@@ -4006,26 +4006,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]浸食度が\\c[18]100\\c[27]に達した…"]
+              "parameters": [
+                "\\c[27]Corrosion level has\nreached\\c[18]100\\c[27]..."
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["う…うぅ\"…身体が…あ、熱…ぃ\\i[94]"]
+              "parameters": ["Uh... Uhh\"... My body... it's so... hot\\i[94]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ\"っ…あっ…あぁ\"っ…\\i[92]\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "も、もっ…と…\\i[93]メチャ…クチャ…に…\\i[93]\\i[93]"
+                "Ah\"hh... Ahh... Ahh\"hh...\\i[92]More... More...\nMake me...\\i[93]a mess...\\i[93]\\i[93]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4106,16 +4103,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ラビを犯した化け物はどこかへと去っていった…。"]
+              "parameters": [
+                "The monster that violated Rabi has gone\nsomewhere..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [-1, 7, true] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ…はぁ…\\!"] },
-            { "code": 401, "indent": 0, "parameters": ["く…くそっ…ぉ…"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Haa... Haa... D-damn... Ah..."]
+            },
             { "code": 121, "indent": 0, "parameters": [26, 26, 1] },
             { "code": 121, "indent": 0, "parameters": [30, 30, 1] },
             { "code": 121, "indent": 0, "parameters": [171, 171, 1] },
@@ -4234,15 +4236,14 @@
             { "code": 230, "indent": 0, "parameters": [45] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ…はぁ…"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こ、これでも…ダメ…か…っ？"]
+              "parameters": ["Haa... haa... Is this still... not enough...?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["…！"] },
+            { "code": 401, "indent": 0, "parameters": ["...!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
               "code": 205,
@@ -4294,21 +4295,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["化け物は苦しそうにどこかへと逃げ去っていった…！"]
+              "parameters": ["The monster fled in agony...!"]
             },
             { "code": 122, "indent": 0, "parameters": [149, 149, 0, 0, 5] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["あ…！に、逃げた…？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah...! It ran away...?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["は…、ははは…！"] },
+            { "code": 401, "indent": 0, "parameters": ["Ha... hahaha...!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふ、ふん…！アタシの強さ思い知ったか！化け物め！"]
+              "parameters": [
+                "Hmph...! Did you finally get a taste of my\nstrength?! You beast!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 3, true] },
             { "code": 230, "indent": 0, "parameters": [20] },
@@ -4316,23 +4323,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["流石にアイツも懲りたはず…！"]
+              "parameters": ["It must have learned its lesson by now...!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう当分はアタシの前には現れねーだろうな！"]
+              "parameters": [
+                "It probably won't show up in front of me for a\nwhile now! Heh heh... serves you right."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["へへっ…ざまーみろ"] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["あれ…？何だこれ…？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイツが…何か落として行って…"]
+              "parameters": [
+                "What's this...? What is this thing...? It dropped\nsomething..."
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
             {
@@ -4347,17 +4356,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[17]兵器庫の鍵\\c[0]を拾った。"]
+              "parameters": ["\\c[17]Picked up the armory key.\\c[0]"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ふーん…、"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ま、よく分かんねーけど貰っておいてやるか"]
+              "parameters": [
+                "Hmph... Well, I don't really get it, but I'll take\nit anyway."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [94, 94, 0] },
@@ -31227,7 +31237,7 @@
             { "code": 117, "indent": 0, "parameters": [32] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 0 -1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["息絶えている…"] },
+            { "code": 401, "indent": 0, "parameters": ["She's breathless..."] },
             { "code": 117, "indent": 0, "parameters": [33] },
             { "code": 117, "indent": 0, "parameters": [35] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -48338,13 +48348,8 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[29]ショットガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発を見つけた。\\!"
+                "\\c[29]Shotgun shells\\c[0] found \\c[17]\\V[138]\\c[0]\nrounds. ...but I can't carry any more ammo."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["・・・が、もうこれ以上弾を持てない。"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -48360,7 +48365,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[29]ショットガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発手に入れた。"
+                "\\c[29]Shotgun shells\\c[0] acquired\n\\c[17]\\V[138]\\c[0] rounds."
               ]
             },
             { "code": 122, "indent": 2, "parameters": [147, 147, 0, 1, 144] },
@@ -48384,13 +48389,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[29]ショットガンの弾\\c[0]を見つけた。\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "・・・が、\\c[18]ショットガン\\c[0]を持っていない…。"
+                "\\c[29]Shotgun shells\\c[0] found. ...but I don't\nhave a \\c[18]shotgun\\c[0]..."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -48542,13 +48542,8 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[29]ハンドガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発を見つけた。\\!"
+                "\\c[29]Handgun bullets\\c[0] found\n\\c[17]\\V[138]\\c[0] rounds. ...But I can't carry\nany more bullets."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・が、もうこれ以上弾を持てない。"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -48564,7 +48559,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[29]ハンドガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発手に入れた。"
+                "\\c[29]Handgun bullets\\c[0] obtained\n\\c[17]\\V[138]\\c[0] rounds."
               ]
             },
             { "code": 122, "indent": 1, "parameters": [147, 147, 0, 1, 143] },
@@ -48734,13 +48729,8 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[29]マシンガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発を見つけた。\\!"
+                "\\c[29]Found machine gun bullets\\c[0]\n\\c[17]\\V[138]\\c[0] rounds. ...But, I can't carry\nany more bullets."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["・・・が、もうこれ以上弾を持てない。"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
@@ -48756,7 +48746,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[29]マシンガンの弾\\c[0]を\\c[17]\\V[138]\\c[0]発手に入れた。"
+                "\\c[29]Acquired machine gun bullets\\c[0]\n\\c[17]\\V[138]\\c[0] rounds."
               ]
             },
             { "code": 122, "indent": 2, "parameters": [147, 147, 0, 1, 145] },
@@ -48780,13 +48770,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[29]マシンガンの弾\\c[0]を見つけた。\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "・・・が、\\c[18]マシンガン\\c[0]を持っていない…。"
+                "\\c[29]Found machine gun bullets\\c[0]. ...But, I\ndon't have a \\c[18]machine gun\\c[0]..."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },

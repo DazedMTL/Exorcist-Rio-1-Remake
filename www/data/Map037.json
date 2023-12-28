@@ -291,9 +291,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": [
-                "退\\.魔\\.師\\.事\\.務\\.所\\.【\\.あ\\.～\\.る\\.】\\|\\.\\.\\^"
-              ]
+              "parameters": ["Exorcist Office \"R\""]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 204, "indent": 0, "parameters": [8, 10, 3] },
@@ -450,17 +448,19 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n<電話>\\{プルルルルルルル～"]
+              "parameters": ["\\n<Telephone>Ring ring ring ring ring~"]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 2 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["…ピッ！"] },
+            { "code": 401, "indent": 0, "parameters": ["...Click!"] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 2 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はーい、退魔師事務所【あ～る】の\"リオ\"ですー"]
+              "parameters": [
+                "Yes, this is \"Rio\" from Exorcist Office \"R\"\nspeaking-"
+              ]
             },
             {
               "code": 231,
@@ -483,19 +483,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【リオ】　職業：退魔師\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "世界中にはびこる人ならざる化け物、\\c[18]魔物\\c[0]退治を生業とする"
+                "[Rio] Occupation: Exorcist. A top-class (self-\nproclaimed) exorcist who makes a living by\nexterminating the inhuman monsters,\n\\c[18]demons\\c[0], that infest the world."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一流(自称)の退魔師。"]
             },
             { "code": 235, "indent": 0, "parameters": [9] },
             {
@@ -554,44 +544,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["…\\.\\.ふむふむ…\\.\\.山奥の屋敷で…\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["…魔物が…ふむふむ…\\.\\.安否不明…\\.\\."]
+              "parameters": [
+                "...Hmm-hmm... A mansion deep in the mountains...\ndemons... hmm-hmm... missing persons..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["…\\.\\.ふむふむ…\\.\\.捜索と救助…\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["…魔物の…掃討…\\.\\.ふんふん…\\.\\."]
+              "parameters": [
+                "...Hmm-hmm... Search and rescue... extermination\nof... demons... mm-hmm..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 3, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["…はーい、了解～。\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じゃすぐに現場に向かうんで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["報酬はいつもの口座によろしく～♪"]
+              "parameters": [
+                "...Yes, understood~. I'll head to the site right\naway, so please deposit the reward into the usual\naccount~♪"
+              ]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 2 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["…ピッ！"] },
+            { "code": 401, "indent": 0, "parameters": ["...Click!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 235, "indent": 0, "parameters": [10] },
@@ -600,12 +576,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これはとある女性退魔師\"リオ\"の、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ある日のお仕事についての物語・・・。"]
+              "parameters": [
+                "This is the story of a certain female exorcist\n\"Rio,\" and her work on one particular day..."
+              ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 35, 9, 28, 0, 0] },
             {
@@ -647,7 +620,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["～\\{山奥某所\\}～\\|\\.\\.\\^"]
+              "parameters": ["～Somewhere deep in the mountains～"]
             },
             {
               "code": 205,
@@ -768,7 +741,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n<リオ>「・\\.\\.・\\.\\.・\\.\\.ここが今回の現場かー…」"
+                "\\n<Rio>\"...So this is the site for this job-...\""
               ]
             },
             { "code": 222, "indent": 0, "parameters": [] },

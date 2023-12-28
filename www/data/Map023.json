@@ -609,7 +609,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・\\.・\\.・\\.特に何も無い"]
+              "parameters": ["...There's nothing in particular."]
             },
             {
               "code": 231,
@@ -719,19 +719,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[28]火種\\c[0]があれば火を付けられそう…。"]
+              "parameters": [
+                "\\c[28]If there's a spark\\c[0], it seems we could\nstart a fire..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 11] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[28]ライター\\c[0]で火を付けますか？"]
+              "parameters": ["\\c[28]Should we light it with a lighter\\c[0]?"]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["火を付ける", "付けない"], 1, 1, 1, 0]
+              "parameters": [["Light it up", "Do not light"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "火を付ける"] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
@@ -813,12 +815,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -943,7 +942,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・\\.・\\.・\\.特に何も無い"]
+              "parameters": ["...There's nothing in particular."]
             },
             {
               "code": 231,
@@ -1059,7 +1058,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・\\.・\\.・\\.特に何も無い"]
+              "parameters": ["...There's nothing in particular."]
             },
             {
               "code": 231,
@@ -1175,7 +1174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・\\.・\\.・\\.特に何も無い"]
+              "parameters": ["...There's nothing in particular."]
             },
             {
               "code": 231,
@@ -1291,7 +1290,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・\\.・\\.・\\.特に何も無い"]
+              "parameters": ["...There's nothing in particular."]
             },
             {
               "code": 231,
@@ -1401,7 +1400,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["中を調べる", "調べない"], 1, 1, 1, 0]
+              "parameters": [["Look inside", "Don't investigate"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "中を調べる"] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 1"] },
@@ -1409,11 +1408,11 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・\\.\\.・\\.\\.・\\.\\.ん！これなんだろ…？"]
+              "parameters": ["...Hmm! What's this...?"]
             },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID 0 -1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["シェフの日記"] },
+            { "code": 401, "indent": 1, "parameters": ["The chef's diary"] },
             { "code": 356, "indent": 1, "parameters": ["ELM Backtype 1"] },
             { "code": 121, "indent": 1, "parameters": [79, 79, 0] },
             {
@@ -1428,35 +1427,9 @@
             {
               "code": 405,
               "indent": 1,
-              "parameters": ["やばい…金庫の番号を忘れてしまった…"]
-            },
-            { "code": 405, "indent": 1, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 1,
-              "parameters": ["俺は記憶力が悪いからちゃんとメモしておいたのに"]
-            },
-            {
-              "code": 405,
-              "indent": 1,
-              "parameters": ["そのメモすら無くしてしまった…。"]
-            },
-            { "code": 405, "indent": 1, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 1,
-              "parameters": ["1F調理室でメモを書いて…その後は…"]
-            },
-            {
-              "code": 405,
-              "indent": 1,
-              "parameters": ["…ああ…全く思い出せない…。"]
-            },
-            { "code": 405, "indent": 1, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 1,
-              "parameters": ["ご主人様にバレる前に何とか思い出さなくては…！"]
+              "parameters": [
+                "This is bad... I've forgotten the safe's number...\nI have a poor memory, so I made sure to write it\ndown, but now I've even lost that note... I wrote\nthe memo in the 1F kitchen... and after that...\nah... I can't remember at all... I have to recall\nit before the master finds out...!"
+              ]
             },
             { "code": 111, "indent": 1, "parameters": [8, 38] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1575,12 +1548,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

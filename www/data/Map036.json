@@ -702,13 +702,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ…\\.\\.はぁ…\\.\\."]
+              "parameters": ["*panting*...*panting*..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お、お腹が…う゛っ…ぎっ…ぃ\\i[93]"]
+              "parameters": ["My stomach...ugh...gih...\\i[93]"]
             },
             { "code": 243, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
@@ -735,88 +735,58 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「はぁっ…！はぁっ…！う…ぐ…ぅ゛…、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　こ、こんなの…ぜった…い…何かの…ま、まちが…」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]ワーム達の巣へと引きずり込まれ"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "四肢を拘束され身動きを完全に封じられているリオ…。"
+                "\\c[27]\\n<Rio>\"Hah...! Hah...! Ugh...guh...ugh..., this\nis...definitely...some kind of...mis...take...\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]短時間で大きく妊婦のように膨らんだお腹が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["内側からモゾモゾと悍ましく蠢いている…。"]
+              "parameters": [
+                "\\c[27]Dragged into the nest of the worms, Rio is\nrestrained by her limbs, completely immobilized..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]\\{ウゾ…ウゾゾゾ…\\i[93]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「う゛っ…ひぐっ…うぅ゛…、う、動い…て…っ、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いや…だ…やめ…・・・、う、産まれ…ない…で…っ」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]懇願するように、悲痛な声を漏らすリオ。\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それを嘲笑うように\"ナニか\"が"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "リオの子宮内から膣へ、そして体外へと這い出てくる…！"
+                "\\c[27]Her belly, swollen like that of a pregnant\nwoman in a short time, writhes ominously from the\ninside..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「\\{あ゛っ\\}っぎっ！？だ、だめっ…ぇっ！"]
+              "parameters": ["\\c[27]Wriggle...wriggle wriggle...\\i[93]"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["　で…出る…っ！魔物の…子供…産み…・・・っ」"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ugh...hic...ugh..., it's moving...stop...I don't\nwant it...to be born...\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]As Rio lets out a voice of desperate\npleading, \"something\" mocks her by crawling from\nher womb to her vagina, and then out of her\nbody...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Aghh! Gih! No, no good...eh! It's coming out...!\nGiving birth to...a monster's...child...\""
+              ]
             },
             {
               "code": 224,
@@ -834,36 +804,28 @@
             {
               "code": 401,
               "indent": 0,
+              "parameters": ["\\c[27]Ngyurururuuu!!\\i[93]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\c[27]\\n<Rio>\"Aaahh! Aghh! Ahhh!!\\i[93]\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
               "parameters": [
-                "\\c[27]\\{\\{ニ゛ュ゛ル゛\\}ル゛ゥゥ゛ッッ！！\\i[93]"
+                "\\c[27]A young creature of the monster is born from\ninside Rio."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "「\\{あ゛あぁ゛っっぁ゛\\}ぎぁ゛ぁぁっっ！！\\i[93]」"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]リオの体内から魔物の幼体が産まれ落ちる。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]魔物を孕み、産まされたという事実に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "流石のリオも絶望し、身を震わせながら叫び声をあげる…。"
+                "\\c[27]Impregnated and forced to give birth, even\nthe strong-willed Rio despairs, trembling and\nscreaming..."
               ]
             },
             {
@@ -882,58 +844,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{ウゾゾ…ウゾゾゾゾォ…！\\i[93]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あ゛っ…い゛…・・・や…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　も、もう…産まれ…ない…で…・・・ひっ…ぐ…ぅ、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "　おな…か…の中……まだ…動い・・・…ん゛ィ゛っ…\\i[93]」"
+                "\\c[27]Wriggle wriggle...wriggle wriggle\nwriggle...!\\i[93]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]最初の一匹が産まれ落ちたのを皮切りに、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二匹目、三匹目…と次々ワームの幼体が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオの体から這い出てくる…。"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Agh...no...not anymore...don't be\nborn...hic...ugh, inside my stomach...it's still\nmoving...ughh!\\i[93]\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]身動きがとれずなす術の無いリオは、"]
+              "parameters": [
+                "\\c[27]Following the first one, a second and a\nthird...one after another, the worm's offspring\ncrawl out of Rio's body..."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["自分の身に起きているその悍ましい光景を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ眺めている事しか出来ない…。"]
+              "parameters": [
+                "\\c[27]Unable to move and without any means to\nresist, Rio can only watch the ghastly scene\nunfolding before her eyes..."
+              ]
             },
             {
               "code": 224,
@@ -948,112 +885,69 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「はぁー…はぁー…あ゛…は…ぁ…\\i[93]」"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Haa-...haa-...agh...haa...\\i[93]\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]・・・・・・・・・\\!それから少し時が経ち、"
+                "\\c[27]After a while, covered in the creatures she\nhas given birth to, she continues to give birth to\none after another..."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自身が産み落とした魔物に全身を覆われながら…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一匹…また一匹…と出産し続ける…。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]いつしかその瞳からは希望が完全に失われ、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["魔物を産み落とすその行為にすら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオは歪んだ悦楽を得始めていた…。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「はぁー…はぁー…\\i[93]ま、また…産まれ…る…ぅ\\i[93]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　あ…は…魔物…産む…の…き、きもち…ィ゛…\\i[93]」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]身体をビクンビクンッと震わせながら、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "小さく絶頂に達しながら魔物を産み落とし続けるリオ。"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<ワーム>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「…フジュルルル～～\\i[93]」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]孕ませ方を理解したワームが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["妖しく目を輝かせながらそんなリオの様子を眺め…"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]子種を仕込むための生殖器を体から露出させると"
+                "\\c[27]Eventually, all hope fades from her eyes,\nand Rio even begins to find a twisted pleasure in\nthe act of birthing monsters..."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["再びリオへとゆっくりと近づいていった…。"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Haa-...haa-...\\i[93]Again...it's being\nborn...uhh\\i[93]Ah...haa...giving birth to\nmonsters feels...goodd...\\i[93]\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]Her body convulses as she quietly reaches\nclimax while continuing to give birth to monsters."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\c[27]\\n<Worm>\"...Fujurururu~\\i[93]\""]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]The worm, having understood how to\nimpregnate, watches Rio with gleaming eyes as she\ncontinues to give birth..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]Exposing its reproductive organ from its\nbody to plant its seed again, it slowly approaches\nRio once more..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]・・・\\.\\."] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
             { "code": 121, "indent": 0, "parameters": [104, 104, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 242, "indent": 0, "parameters": [5] },
@@ -1072,16 +966,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "     　　　-\\.-\\.-\\.-\\.-\\.-\\.BADEND_\\c[18]NO.5\\c[0][\\c[27]蟲産\\c[0]]-\\.-\\.-\\.-\\.-\\.-\\.\\!"
-              ]
-            },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "                                        　　　　　　　　　　　　~\\c[30]end\\c[0]~\\|\\!"
+                "     ------BADEND_\\c[18]NO.5\\c[0][\\c[27]Insect\nBirth\\c[0]]------\n~\\c[30]end\\c[0]~"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1233,12 +1118,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nto be going out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

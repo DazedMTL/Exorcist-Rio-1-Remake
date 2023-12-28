@@ -491,12 +491,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -561,21 +558,18 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["いた…っ！\\.\\."] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["間違いない…コイツがここのボス…っ…！"]
+              "parameters": [
+                "Ouch...! No doubt about it... This one's the\nboss...!"
+              ]
             },
             { "code": 204, "indent": 0, "parameters": [8, 7, 3] },
             { "code": 230, "indent": 0, "parameters": [180] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Nyyurururururuuu!!"] },
             {
               "code": 205,
               "indent": 0,
@@ -647,22 +641,20 @@
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["お前を倒せば"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["他の魔物も散り散りになるはず…！"]
+              "parameters": [
+                "If I defeat you, the other monsters should\nscatter...!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["って事で恨みはないけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと退魔させてもらうわ…！"]
+              "parameters": [
+                "So, no hard feelings, but I'm going to exorcise\nyou right away...!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 5, true] },
             {
@@ -715,11 +707,7 @@
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Nyyurururururuuu!!"] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             {
               "code": 205,
@@ -994,12 +982,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ニュルルルーーーッッッ！！"]
+              "parameters": ["Nyyurururururuuu! Nyyurururu---!!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             {
@@ -1125,7 +1108,7 @@
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["っっっ\\{！"] },
+            { "code": 401, "indent": 0, "parameters": ["Ghhhh!"] },
             {
               "code": 205,
               "indent": 0,
@@ -1428,11 +1411,12 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ…はぁ…っ、\\!"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ど、どう…？流石に少しは効いたんじゃ…・・・"]
+              "parameters": [
+                "Haa... haa... How about that...? Surely it must\nhave had some effect..."
+              ]
             },
             {
               "code": 205,
@@ -1462,7 +1446,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッーー！！！"]
+              "parameters": ["Nyyurururururuuuu--!!!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, true] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
@@ -1470,18 +1454,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["…ぅ\\!、全然こたえてない…感じ…？"]
+              "parameters": ["...Uh, it doesn't seem to be affected at all...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["な、なるほど…さすがボス格…、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["け、結構手強い…・・・"]
+              "parameters": [
+                "I see... As expected of a boss-level... Quite\ntough indeed... Just as I anticipated..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 4, true] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 3 2"] },
@@ -1489,7 +1470,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\{ニュルルルル～ッ\\i[93]"]
+              "parameters": ["Nyyururururu~\\i[93]"]
             },
             {
               "code": 205,
@@ -1511,7 +1492,7 @@
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["…あっ\\i[93]"] },
+            { "code": 401, "indent": 0, "parameters": ["...Ah\\i[93]"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 203, "indent": 0, "parameters": [0, 0, 25, 17, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 25, 25, 21, 8, 0] },
@@ -1535,94 +1516,62 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]魔物達の親玉がその巨体に似合わぬ素早い動きで"
+                "\\c[27]The boss monster, with its massive body,\nmoved surprisingly quickly, manipulating countless\ntentacles to attack Rio in an instant...!"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["無数の触手を操り一瞬でリオへと襲い掛かった…！"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]避ける間も無くリオの身体が触手に絡みつかれ"
+                "\\c[27]Without a moment to dodge, Rio's body was\nentwined by the tentacles and fixed in a suspended\nstate in the air..."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["宙吊りの状態で固定されてしまう…。"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ん゛っ…く…！さ、さすが…ボス級…っ…、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　中々…手強そう…、予想してた…けどね…\\i[93]」"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ngh... damn...! As expected of a boss-level...\nquite formidable... just as I expected...\\i[93]\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{ニュルル…ニュルルルルッ！"]
+              "parameters": ["\\c[27]Nyyuru... Nyyururururu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]開脚状態で拘束されたリオに向けて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親玉魔物から歪な触手がのびてくる…。"]
+              "parameters": [
+                "\\c[27]As Rio was restrained in a spread-eagle\nposition, a twisted tentacle from the boss monster\nextended towards her..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]長年の経験と、その卑猥な形状を見て"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオがそれをこの魔物の生殖器だと察する。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あっ…は…す…ご…\\i[93]そ、それ…入れるの…？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　すごい…形…\\i[93]どうせ…抵抗出来ない…し…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いいよ…好きにして…\\i[93]」"]
+              "parameters": [
+                "\\c[27]With her years of experience and seeing its\nobscene shape, Rio realized that it was the\nmonster's reproductive organ."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]近づいてくるソレをじっと見つめながら、"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ah... ha... amazing...\\i[93] Are you going to put\nthat in...? Such an incredible shape...\\i[93]\nSince I can't resist anyway... go ahead... do as\nyou like...\\i[93]\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リオは悪戯っぽく微笑を浮かべてそれを受け入れる。"]
+              "parameters": [
+                "\\c[27]Staring intently at it as it approached, Rio\nsmiled mischievously and accepted it."
+              ]
             },
             {
               "code": 224,
@@ -1640,33 +1589,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{\\{ズブッ…！\\}ズププゥッ…！\\i[93]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{ん゛っっ\\}んぅ゛っ！\\i[93]あ゛っ…は…っ！\\i[93]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　すっ…ご…ぃ\\i[93]」"]
+              "parameters": ["\\c[27]Zubu...! Zuppuu...!\\i[93]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]歪な親玉魔物の触手が勢いよく挿入され"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "リオが甘い声を漏らしながら身体をビクンッと震わせる。"
+                "\\c[27]\\n<Rio>\"Nnghhnnn!\\i[93] Ahh... ha...!\\i[93] So\namazing...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1674,73 +1604,47 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\{グチュッ…！ジュブッ！ズププッ…！\\i[93]\\}"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ジュボッ！ジュボッ！ジュボッ！ジュボッ！ジュボッ！\\i[93]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{あ゛っっ\\}ん゛ィ゛っっ！\\i[93]あ゛っはっ…ぁ\\i[93]\\!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "　お、おしり…までっ…ぇ\\i[93]は、はげしっ…\\i[93]」"
+                "\\c[27]The twisted tentacle of the boss monster was\nforcefully inserted, and Rio let out a sweet moan\nas her body shuddered."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]同時に二穴を激しく掻き回されて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオの身体が更に激しく痙攣し絶頂する…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]触手の動きが次第に加速していき、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["絶頂しているリオの身体を何度も突き上げていく…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「\\{あ゛っ！\\i[93]あ゛ぁっ！\\i[93]\\}イ゛っ…ぐっ\\i[93]"
+                "\\c[27]Guchu...! Jubu! Zuppuu...!\\i[93] Jubo! Jubo!\nJubo! Jubo! Jubo!\\i[93]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　も、もうイ゛って…るっ…からっ…ぁ゛\\i[93]\\!"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　あ゛っ\\i[93]あ゛っ\\i[93]あ゛っ\\i[93]あ゛っ\\i[93]あ゛ぁっん゛\\i[93]」"
+                "\\c[27]\\n<Rio>\"Ahhnnnghh!\\i[93] Ahhhaa...\\i[93] Even my butt...\nehh\\i[93] It's so intense...\\i[93]\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]As both her holes were vigorously stirred at\nthe same time, Rio's body convulsed even more\nviolently as she climaxed...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]The movement of the tentacles gradually\naccelerated, thrusting up into the climaxing Rio's\nbody over and over again...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ahh!\\i[93] Ahhaa!\\i[93] I'm cumming...ughh\\i[93]\nI'm already cumming... so stopp...ahh\\i[93]\nAhh\\i[93] Ahh\\i[93] Ahh\\i[93] Ahh\\i[93]\nAhhaannn\\i[93]\""
               ]
             },
             {
@@ -1759,46 +1663,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{ドビュルルルルゥゥゥ…！！\\}"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{あ゛っん゛んっっっぅ゛\\}う゛っっん゛！\\i[93]」"
-              ]
+              "parameters": ["\\c[27]Dobyururururuuuu...!!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]触手の動きが最高潮に達した時、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオを犯す触手が勢いよく大量に射精した…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]その衝撃にリオの身体が大きく跳ね、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ひと際深く絶頂する…。"]
+              "parameters": ["\\c[27]\\n<Rio>\"Ahhnnnnnnuuuuu!\\i[93]\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\{ドビュ\\}ドビュッ…！ビュルルゥゥゥ…ッ\\i[93]"
+                "\\c[27]As the tentacles reached their climax, they\nejaculated forcefully and in large quantities into\nRio...!"
               ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]With the impact, Rio's body bounced greatly,\nclimaxing deeply once more..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\c[27]Dobyudobyu...! Byururuuuu...!\\i[93]"]
             },
             {
               "code": 224,
@@ -1813,67 +1706,39 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「はぁー…はぁー…！\\i[93]す、すごい…量…\\i[93]"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　き…もちい…ぃ゛…\\i[93]何回…イかされ…あは…\\i[93]」"
+                "\\c[27]\\n<Rio>\"Haa-... haa-...!\\i[93] Such an incredible\namount...\\i[93] It feels so goodd...\\i[93] How\nmany times have I cummed now... haha...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]自分の体から溢れ出る精液を眺めながら、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオが蕩けた顔で口元を緩ませる。"]
+              "parameters": [
+                "\\c[27]As she watched the semen overflowing from\nher own body, Rio relaxed her mouth into a melted\nsmile."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]数十秒かけて行われた射精が終わり…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["触手の拘束が一瞬緩む。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]未だにビクンビクンッと絶頂しながらも、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオがその一瞬の隙を見逃さずに拘束から逃れると、"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "素早く地面へと着地し、再び魔物の親玉と対峙した…！"
+                "\\c[27]After several tens of seconds of\nejaculation, the tentacle's restraint momentarily\nloosened."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]Still climaxing with little twitches, Rio\ndidn't miss the brief chance to escape from the\nrestraints. She quickly landed on the ground and\nconfronted the boss monster once again...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]・・・\\.\\."] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
             { "code": 121, "indent": 0, "parameters": [118, 118, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1889,12 +1754,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁー…はぁー…\\i[93]\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さ、さすが…アッチの方も中々…\\i[93]"]
+              "parameters": [
+                "Haa-... haa-...\\i[93] As expected, that side is\nquite something too...\\i[93]"
+              ]
             },
             {
               "code": 108,
@@ -1906,20 +1768,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ふふ、でも…もう十分…満足したでしょ？"]
+              "parameters": ["Hehe, but you must be satisfied by now, right?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これで…\\.\\.終わらせてあげる…！"]
+              "parameters": ["With this... I'll end it for you...!"]
             },
             { "code": 356, "indent": 1, "parameters": ["MWP_INVALID"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リオは\\c[17]スペシャル退魔札\\c[0]を使った！"]
+              "parameters": [
+                "Rio used the \\c[17]Special Exorcism Talisman\\c[0]!"
+              ]
             },
             {
               "code": 250,
@@ -1974,7 +1838,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{ニュッ！？ニュ…ルルルゥッ！？"]
+              "parameters": ["Nyuh!? Nyu... rururuuu!?"]
             },
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
@@ -1982,22 +1846,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["よし…！効いてる…\\.\\.、"]
+              "parameters": [
+                "Alright...! It's working..., now's my chance to\nend this!"
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["今なら…いける！"] },
             { "code": 212, "indent": 1, "parameters": [-1, 46, true] },
             { "code": 230, "indent": 1, "parameters": [45] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["魔力変換完了…\\.\\.！これで…終わりよ！"]
+              "parameters": [
+                "Magic conversion complete...! This is the end for\nyou!"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{精\\.\\.滅\\.\\.破っっ\\.\\.！\\.！\\.！"]
+              "parameters": ["Spirit Annihilation Blast!!!"]
             },
             { "code": 212, "indent": 1, "parameters": [3, 109, false] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -2010,7 +1877,7 @@
             { "code": 230, "indent": 1, "parameters": [120] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…た"] },
+            { "code": 401, "indent": 1, "parameters": ["...Did it"] },
             {
               "code": 241,
               "indent": 1,
@@ -2040,26 +1907,24 @@
               "parameters": [10, 0, 0, 0, 0, 0, 100, 100, 255, 0, 45, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…倒した～～～～っ"] },
+            { "code": 401, "indent": 1, "parameters": ["...I defeated it~~~"] },
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["思ってたより手強くて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ちょっとだけ焦ったけど～"]
+              "parameters": [
+                "It was tougher than I thought and made me panic a\nbit~"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ま、私に掛かればチョロいもんね♪\\.\\."]
+              "parameters": [
+                "Well, it's a piece of cake for someone like me♪\nFufufu~♪"
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["ふふふ～ん♪"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 235, "indent": 1, "parameters": [10] },
             {
@@ -2094,7 +1959,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もう十分…満足したでしょ？"]
+              "parameters": ["You must be satisfied by now, right?"]
             },
             { "code": 212, "indent": 1, "parameters": [-1, 46, true] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -2102,13 +1967,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["じゃあこれで…\\.\\.終わらせてあげる…！"]
+              "parameters": ["Then with this... I'll end it for you...!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{精\\.\\.滅\\.\\.破\\.\\.！\\.！\\.！"]
+              "parameters": ["Spirit Annihilation Blast!!!"]
             },
             { "code": 212, "indent": 1, "parameters": [3, 109, false] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -2127,7 +1992,7 @@
             },
             { "code": 213, "indent": 1, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…ぇ…っ？"] },
+            { "code": 401, "indent": 1, "parameters": ["...Eh...?"] },
             {
               "code": 205,
               "indent": 1,
@@ -2150,16 +2015,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なっ…なんで…？い、生きて…っ？"]
+              "parameters": ["Wha... why...? Is it still alive...?"]
             },
             { "code": 213, "indent": 1, "parameters": [3, 3, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nyurururururuuuu!!!"] },
             {
               "code": 205,
               "indent": 1,
@@ -2207,19 +2068,23 @@
             },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["う゛っ…く…は、放し…"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Ugh... kuh... let go..."]
+            },
             { "code": 213, "indent": 1, "parameters": [3, 4, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{ニュルルルル…\\i[93]"]
+              "parameters": ["Nyururururu...\\i[93]"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ぁ゛……"] },
+            { "code": 401, "indent": 1, "parameters": ["Agh..."] },
             { "code": 243, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -2242,94 +2107,56 @@
               "parameters": [5, "rio1Re_19_01", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・\\.\\."] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["........"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グチュッ…ニュリュ…ヌチュッ…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ジュブッ…ジュボボッ…ジュブッゥ…"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]大量の触手に覆われた部屋の一室に"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "湿った音と、消え入りそうな弱々しい喘ぎ声が響く…。"
+                "\\c[27]Guchu... Nyuryu... Nuchu... Jubu...\nJubobo... Jubu..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]In a corner of the room covered with\ntentacles, wet sounds and faint, feeble moans\necho..."
               ]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「ん゛っ…ぶっぅ…お゛…・・・\\i[93]ん゛…ぁ゛…ぁ\\i[93]"
+                "\\c[27]\\n<Rio>\"Ngh... buu... oh...\\i[93]ngh... ah...\nah\\i[93]oh... ohh... buu... nnngh\\i[93]\""
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　お゛っ…お゛ぉっ…ぶっ…ん゛んっぅ゛っ\\i[93]」"]
-            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]必殺の退魔術が通じず、なす術の無くなったリオを"
+                "\\c[27]The deadly exorcism technique didn't work,\nand Rio, now without any means to resist,\ncontinues to be violated by the tentacles..."
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["大量の触手が犯し続けている…。"]
-            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]既に抵抗を諦めているのか…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それとも長時間の凌辱による消耗か…\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["最早リオがされるがままその身を嬲られている…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グジュッ…ジュボボボッ…"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\}ジュブッジュブッジュブッジュブッジュブッジュブゥ！\\i[93]"
+                "\\c[27]Has she given up on resisting, or is it\nexhaustion from the prolonged torment? Rio is now\nmerely toyed with at their mercy..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Goryu...! Gryu... Jububu...!\nGuchuguchuguchuguchuguchu!!\\i[93]"
               ]
             },
             {
@@ -2345,71 +2172,43 @@
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「\\{ん゛っお゛\\}ぉっ…ぶっ…あ゛ぁ゛っ\\i[93]"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　ん゛っ\\i[93]\\{ん゛\\}っ\\i[93]ん゛ぅっ\\i[93]ん゛む゛っぅ゛！\\i[93]」"
+                "\\c[27]\\n<Rio>\"Ngh ohh... buu... ahh ahh\\i[93]ngh\\i[93]ngh\\i[93]\nnghu\\i[93]nghmu\\i[93]gh!\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]すでにその瞳からは光が失われ、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["玩具のように弄ばれながら絶頂するリオ…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]お腹が歪に膨れ上がる程の"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["苛烈な触手の責めすらも"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["リオはただただ快楽に悶え続ける…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{ゴリュッ…！グリュッ…ジュブブッ…！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\}グチュグチュグチュグチュグチュッ！！\\i[93]"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "「\\{あ゛っ\\}イ゛っ…う゛っ\\i[93]ぎ、ぎもぢ…ィ゛…っ\\i[93]"
+                "\\c[27]The light has already faded from her eyes,\nand Rio climaxes like a toy being played with by\nthe tentacles..."
               ]
             },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　い…イぐっ\\i[93]あ゛…へ…\\i[93]ん゛っ…ぎィ゛…\\i[93]」"
+                "\\c[27]Even the severe torment of the tentacles\nmaking her belly grotesquely swell only makes Rio\ncontinue to writhe in pleasure..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Goryu...! Gryu... Jububu...!\nGuchuguchuguchuguchuguchu!!\\i[93]"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ah! I'm coming... ugh\\i[93]g-gimochi... i-i'm\ncoming\\i[93]ah... heh... ngh... gimochi...\\i[93]\""
               ]
             },
             {
@@ -2428,20 +2227,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]\\{ドビュッ！ビュルルルゥゥゥッ！！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\}ドピュッドピュッドピュピュッ…！"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "「\\{お゛っっ\\}ん゛っぅ゛っ\\i[93]イ゛っ…ぅ゛っ…\\i[93]」"
+                "\\c[27]Dobyu! Byurururuuu!! Dopyudopyudopyupyuu...!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -2449,45 +2236,39 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]まるで作業のように触手達がリオへと射精していく…。"
+                "\\c[27]\\n<Rio>\"Ohhhnghuu\\i[93]I'm coming... ugh...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]何度目か分からない程の射精を身に受けて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["リオの身体が再びビクンッと小さく痙攣する。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グチュッ…ジュププッ…ジュボッ\\i[93]\\}"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "ジュブッジュブッジュブッジュブッジュブッジュブッ…！"
+                "\\c[27]Like clockwork, the tentacles ejaculate onto\nRio..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「\\{お゛っ…ぶっ…\\}ぅ゛\\i[93]ぐっ…むっ…ぅ！"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　ん゛っ！ん゛っ！\\{ん゛\\}っ！ん゛っ！\\{ん゛\\}ぅっ！\\i[93]」"
+                "\\c[27]After countless ejaculations, Rio's body\nconvulses slightly once again."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Guchu... Jupupu...\nJubo\\i[93]Jubujubujubujubujubujubujubu...!"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ohh... buu... ugh\\i[93]guh... muh... u! Ngh! Ngh!\nNgh! Ngh! Nghuu!\\i[93]\""
               ]
             },
             {
@@ -2506,45 +2287,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]射精を終えた触手達が、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["間髪入れずにリオを犯し始めていく…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]敗北し、囚われの身になったリオへ…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["幾度となく繰り返されてきた光景…。"]
+              "parameters": [
+                "\\c[27]The tentacles, having finished ejaculating,\nwaste no time in starting to violate Rio again..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]すでに意識もまばらなリオへの終わりなき凌辱は…"
+                "\\c[27]A scene that has been repeated countless\ntimes to Rio, who has been defeated and\ncaptured..."
               ]
             },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まだまだ始まったばかりだ…。"]
+              "parameters": [
+                "\\c[27]The endless torment for Rio, whose\nconsciousness is already fading, has only just\nbegun..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]・・・\\.\\."] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]........"] },
             { "code": 121, "indent": 1, "parameters": [119, 119, 0] },
             { "code": 356, "indent": 1, "parameters": ["CommonSave save"] },
             { "code": 111, "indent": 1, "parameters": [8, 39] },
@@ -2571,16 +2335,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "     　　　-\\.-\\.-\\.-\\.-\\.-\\.BADEND_\\c[18]NO.5\\c[0][\\c[27]ありふれた結末\\c[0]]-\\.-\\.-\\.-\\.-\\.-\\.\\!"
-              ]
-            },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            { "code": 401, "indent": 1, "parameters": [""] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": [
-                "                                        　　　　　　　　　　　　~\\c[30]end\\c[0]~\\|\\!"
+                "     ------BADEND_\\c[18]NO.5\\c[0][\\c[27]A Common\nConclusion\\c[0]]------\n~\\c[30]end\\c[0]~"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -2659,18 +2414,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物達の気配が散っていってる…"]
+              "parameters": ["The presence of the monsters is dissipating..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ボスが倒された事に気付いて、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["慌てて逃げ始めてるみたいね"]
+              "parameters": [
+                "It seems they've noticed their boss has been\ndefeated and are starting to flee in a panic."
+              ]
             },
             {
               "code": 231,
@@ -2690,12 +2442,14 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 3, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ふぅ…疲れた～"] },
+            { "code": 401, "indent": 0, "parameters": ["Phew... I'm tired~"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さ、後は貰うもの貰って依頼完了～♪"]
+              "parameters": [
+                "Now, let's collect our reward and call this\nrequest complete~♪"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [10] },
@@ -2712,11 +2466,7 @@
             { "code": 243, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [10] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\n<リオ>「・\\.・\\.・\\.・\\.・\\.・\\.？」"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["\\n<Rio>\"......?\""] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -3075,12 +2825,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. It doesn't look\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3138,12 +2885,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3208,21 +2952,16 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["やっぱり…\\."] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こいつが親玉で間違いなさそうね…！"]
+              "parameters": ["As I thought... this one must be the boss...!"]
             },
             { "code": 204, "indent": 0, "parameters": [8, 7, 3] },
             { "code": 230, "indent": 0, "parameters": [180] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Nyurururururuuuu!!"] },
             {
               "code": 205,
               "indent": 0,
@@ -3294,31 +3033,25 @@
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["お前を倒せば"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["他の魔物も散り散りになるはず…！"]
+              "parameters": [
+                "If I defeat you, the other monsters should\nscatter...!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["って事で恨みはないけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと退魔させてもらうわ…！"]
+              "parameters": [
+                "So, no hard feelings, but I'm going to exorcise\nyou right away...!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 5, true] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Nyurururururuuuu!!"] },
             {
               "code": 205,
               "indent": 0,
@@ -3416,99 +3149,62 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]リオに気付いた魔物達の親玉である巨大な触手生物が、"
+                "\\c[27]The boss monster, a giant tentacle creature,\nnoticed Rio and attacked her with a swift movement\nthat belied its massive body, manipulating\ncountless tentacles in an instant...!"
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その巨体に似合わぬ素早い動きで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["無数の触手を操り一瞬でリオへと襲い掛かった…！"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]避ける間も無くリオの身体が触手に絡みつかれ"
+                "\\c[27]Without a moment to dodge, Rio's body was\nentwined by the tentacles and fixed in mid-air..."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["宙吊りの状態で固定されてしまう…。"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「ん゛っ…く…！さ、さすが…ボス級…っ…、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　中々…手強そう…、予想してた…けどね…\\i[93]」"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ngh... damn...! As expected... boss-level...\nquite... tough... I had anticipated this...\\i[93]\""
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{ニュルル…ニュルルルルッ！"]
+              "parameters": ["\\c[27]Nyururu... Nyururururuu!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]開脚状態で拘束されたリオに向けて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親玉魔物から歪な触手がのびてくる…。"]
+              "parameters": [
+                "\\c[27]A twisted tentacle extends towards Rio, who\nis restrained in a spread-eagle position..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]長年の経験と、その卑猥な形状を見て"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオがそれをこの魔物の生殖器だと察する。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「あっ…は…す…ご…\\i[93]そ、それ…入れるの…？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　すごい…形…\\i[93]どうせ…抵抗出来ない…し…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　いいよ…好きにして…\\i[93]」"]
+              "parameters": [
+                "\\c[27]From her years of experience and the obscene\nshape of it, Rio realizes that this tentacle is\nthe monster's reproductive organ."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]近づいてくるソレをじっと見つめながら、"]
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ah... ha... amazing...\\i[93] Are you going to put\nthat in...? Such an incredible shape...\\i[93]\nSince I can't resist anyway... go ahead... do as\nyou like...\\i[93]\""
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リオは悪戯っぽく微笑を浮かべてそれを受け入れる。"]
+              "parameters": [
+                "\\c[27]As it approaches, Rio gazes at it intently\nand accepts it with a mischievous smile."
+              ]
             },
             {
               "code": 224,
@@ -3526,33 +3222,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{\\{ズブッ…！\\}ズププゥッ…！\\i[93]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{ん゛っっ\\}んぅ゛っ！\\i[93]あ゛っ…は…っ！\\i[93]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　すっ…ご…ぃ\\i[93]」"]
+              "parameters": ["\\c[27]Zubu...! Zuppuuu...!\\i[93]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]歪な親玉魔物の触手が勢いよく挿入され"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "リオが甘い声を漏らしながら身体をビクンッと震わせる。"
+                "\\c[27]\\n<Rio>\"Nnghhnnn!\\i[93] Ahh... ha...!\\i[93] So...\namazing...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3560,73 +3237,47 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\{グチュッ…！ジュブッ！ズププッ…！\\i[93]\\}"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "ジュボッ！ジュボッ！ジュボッ！ジュボッ！ジュボッ！\\i[93]"
-              ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{あ゛っっ\\}ん゛ィ゛っっ！\\i[93]あ゛っはっ…ぁ\\i[93]\\!"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "　お、おしり…までっ…ぇ\\i[93]は、はげしっ…\\i[93]」"
+                "\\c[27]The twisted tentacle of the boss monster is\nforcefully inserted, and Rio lets out a sweet moan\nas her body twitches."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]同時に二穴を激しく掻き回されて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオの身体が更に激しく痙攣し絶頂する…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]触手の動きが次第に加速していき、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["絶頂しているリオの身体を何度も突き上げていく…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "「\\{あ゛っ！\\i[93]あ゛ぁっ！\\i[93]\\}イ゛っ…ぐっ\\i[93]"
+                "\\c[27]Guchu...! Jubu! Zuppuu...!\\i[93] Jubo! Jubo!\nJubo! Jubo! Jubo!\\i[93]"
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　も、もうイ゛って…るっ…からっ…ぁ゛\\i[93]\\!"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　あ゛っ\\i[93]あ゛っ\\i[93]あ゛っ\\i[93]あ゛っ\\i[93]あ゛ぁっん゛\\i[93]」"
+                "\\c[27]\\n<Rio>\"Ahhnnnghh!\\i[93] Ahh ha... ah...\\i[93] My butt...\ntoo... ah...\\i[93] It's so fierce...\\i[93]\""
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]As both her holes are vigorously stirred at\nthe same time, Rio's body convulses even more\nviolently and she climaxes...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]The movement of the tentacles accelerates,\nthrusting into the climaxing Rio over and over\nagain...!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ahh!\\i[93] Ahh ahh!\\i[93] I'm cumming...\nughh\\i[93] I'm already cumming... so stopp...\nah\\i[93] Ahh\\i[93] Ahh\\i[93] Ahh\\i[93] Ahh\\i[93]\nAhhnnnghh!\\i[93]\""
               ]
             },
             {
@@ -3645,46 +3296,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]\\{ドビュルルルルゥゥゥ…！！\\}"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "「\\{あ゛っん゛んっっっぅ゛\\}う゛っっん゛！\\i[93]」"
-              ]
+              "parameters": ["\\c[27]Dobyururururuuuu...!!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]触手の動きが最高潮に達した時、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオを犯す触手が勢いよく大量に射精した…！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]その衝撃にリオの身体が大きく跳ね、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ひと際深く絶頂する…。"]
+              "parameters": ["\\c[27]\\n<Rio>\"Ahhnnnghhnnn!!\\i[93]\""]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\{ドビュ\\}ドビュッ…！ビュルルゥゥゥ…ッ\\i[93]"
+                "\\c[27]As the tentacles' movement reaches its\nclimax, they ejaculate forcefully and in large\nquantities into Rio...!"
               ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]The impact makes Rio's body bounce greatly,\nand she climaxes deeply once more."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\c[27]Dobyu dobyu...! Byurururuuuu...!\\i[93]"]
             },
             {
               "code": 224,
@@ -3699,67 +3339,39 @@
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 0, "parameters": [""] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「はぁー…はぁー…！\\i[93]す、すごい…量…\\i[93]"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "　き…もちい…ぃ゛…\\i[93]何回…イかされ…あは…\\i[93]」"
+                "\\c[27]\\n<Rio>\"Haah... haah...!\\i[93] Such an incredible\namount...\\i[93] It feels so goodd...\\i[93] How\nmany times have I cummed now... haha...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[27]自分の体から溢れ出る精液を眺めながら、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオが蕩けた顔で口元を緩ませる。"]
+              "parameters": [
+                "\\c[27]As she watches the semen overflowing from\nher body, Rio relaxes her mouth into a melted\nsmile."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]数十秒かけて行われた射精が終わり…"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["触手の拘束が一瞬緩む。"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[27]未だにビクンビクンッと絶頂しながらも、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リオがその一瞬の隙を見逃さずに拘束から逃れると、"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "素早く地面へと着地し、再び魔物の親玉と対峙した…！"
+                "\\c[27]After tens of seconds of ejaculation, the\ntentacles' restraint momentarily loosens."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[27]Still climaxing with twitches, Rio doesn't\nmiss the brief chance to escape the restraint. She\nquickly lands on the ground and confronts the boss\nmonster once again...!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]・・・\\.\\."] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
             { "code": 121, "indent": 0, "parameters": [118, 118, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3773,7 +3385,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁー…はぁー…\\i[93]"]
+              "parameters": ["Haah-... haah-...\\i[93]"]
             },
             {
               "code": 108,
@@ -3785,20 +3397,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もう十分…満足したでしょ？"]
+              "parameters": ["You must be satisfied by now, right?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これで…\\.\\.終わらせてあげる…！"]
+              "parameters": ["With this, I'll end it for you...!"]
             },
             { "code": 356, "indent": 1, "parameters": ["MWP_INVALID"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リオは\\c[17]スペシャル退魔札\\c[0]を使った！"]
+              "parameters": [
+                "Rio used the \\c[17]Special Exorcism Talisman\\c[0]!"
+              ]
             },
             {
               "code": 250,
@@ -3853,7 +3467,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{ニュッ！？ニュ…ルルルゥッ！？"]
+              "parameters": ["Nyuh!? Nyu... rururuuu!?"]
             },
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
@@ -3861,22 +3475,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["よし…！効いてる…\\.\\.、"]
+              "parameters": [
+                "Good...! It's working, now's my chance to finish\nthis!"
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["今なら…いける！"] },
             { "code": 212, "indent": 1, "parameters": [-1, 46, true] },
             { "code": 230, "indent": 1, "parameters": [45] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["魔力変換完了…\\.\\.！これで…終わりよ！"]
+              "parameters": [
+                "Magic conversion complete...! This is the end for\nyou!"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{精\\.\\.滅\\.\\.破\\.\\.！\\.！\\.！"]
+              "parameters": ["Spirit Annihilation Blast!!!"]
             },
             { "code": 212, "indent": 1, "parameters": [3, 109, false] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -3889,7 +3506,7 @@
             { "code": 230, "indent": 1, "parameters": [120] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…た"] },
+            { "code": 401, "indent": 1, "parameters": ["I've done it."] },
             {
               "code": 241,
               "indent": 1,
@@ -3919,22 +3536,28 @@
               "parameters": [10, 0, 0, 0, 0, 0, 100, 100, 255, 0, 45, true]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…倒した～～～～っ"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["I've defeated it~~~!!"]
+            },
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["思ってたより…"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["大物で少しびっくりしたけど"]
+              "parameters": [
+                "It was a bigger deal than I expected, but I was a\nbit surprised."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ま、私に掛かればチョロいもんね♪\\.\\."]
+              "parameters": [
+                "Well, if it's up to me, it's a piece of cake♪\nHehehe~♪"
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["ふふふ～ん♪"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 235, "indent": 1, "parameters": [10] },
             { "code": 356, "indent": 1, "parameters": ["Light deactivate"] },
@@ -3964,7 +3587,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もう十分…満足したでしょ？"]
+              "parameters": ["You must be satisfied by now, right?"]
             },
             { "code": 212, "indent": 1, "parameters": [-1, 46, true] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -3972,13 +3595,13 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["じゃあこれで…\\.\\.終わらせてあげる…！"]
+              "parameters": ["So with this, I'll end it for you...!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{精\\.\\.滅\\.\\.破\\.\\.！\\.！\\.！"]
+              "parameters": ["Spirit Annihilation Blast!!!"]
             },
             { "code": 212, "indent": 1, "parameters": [3, 109, false] },
             { "code": 230, "indent": 1, "parameters": [45] },
@@ -3997,7 +3620,7 @@
             },
             { "code": 213, "indent": 1, "parameters": [-1, 1, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…ぇ…っ？"] },
+            { "code": 401, "indent": 1, "parameters": ["Eh... what?"] },
             {
               "code": 205,
               "indent": 1,
@@ -4020,16 +3643,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なっ…なんで…？い、生きて…っ？"]
+              "parameters": ["Wha- Why? Are you still alive...?"]
             },
             { "code": 213, "indent": 1, "parameters": [3, 3, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\{ニュルルルルルゥゥッッッ！！！"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["Nyurururururuuuu!!"] },
             {
               "code": 205,
               "indent": 1,
@@ -4077,19 +3696,23 @@
             },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["う゛っ…く…は、放し…"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Ughh... damn it... let go of me..."]
+            },
             { "code": 213, "indent": 1, "parameters": [3, 4, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID 3 1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\{ニュルルルル…\\i[93]"]
+              "parameters": ["Nyururururu...\\i[93]"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["ぁ゛……"] },
+            { "code": 401, "indent": 1, "parameters": ["Ah..."] },
             { "code": 243, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -4112,94 +3735,56 @@
               "parameters": [5, "rio1Re_19_01", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・\\.\\."] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["........"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グチュッ…ニュリュ…ヌチュッ…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ジュブッ…ジュボボッ…ジュブッゥ…"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]大量の触手に覆われた部屋の一室に"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "湿った音と、消え入りそうな弱々しい喘ぎ声が響く…。"
+                "\\c[27]Guchu... Nyuryu... Nuchu... Jubu...\nJubobo... Jubu..."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]In a room covered with a multitude of\ntentacles, wet sounds and faint, feeble moans\necho...."
               ]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "「ん゛っ…ぶっぅ…お゛…・・・\\i[93]ん゛…ぁ゛…ぁ\\i[93]"
+                "\\c[27]\\n<Rio>\"Nn... buu... o...\\i[93]nn... ah... ah\\i[93]o...\nooh... bu... nnnuuu\\i[93]\""
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　お゛っ…お゛ぉっ…ぶっ…ん゛んっぅ゛っ\\i[93]」"]
-            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]必殺の退魔術が通じず、なす術の無くなったリオを"
+                "\\c[27]Her deadly exorcism magic having no effect,\nRio is continuously violated by the countless\ntentacles without any means to resist...."
               ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["大量の触手が犯し続けている…。"]
-            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]既に抵抗を諦めているのか…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それとも長時間の凌辱による消耗か…\\!"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["最早リオがされるがままその身を嬲られている…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グジュッ…ジュボボボッ…"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\}ジュブッジュブッジュブッジュブッジュブッジュブゥ！\\i[93]"
+                "\\c[27]Has she given up on resisting, or is it\nexhaustion from the prolonged torment? Now Rio is\nmerely toyed with as she pleases...."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Gujyu... Jubobobo...\nJubujubujubujubujubujubujubu!\\i[93]"
               ]
             },
             {
@@ -4215,71 +3800,43 @@
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「\\{ん゛っお゛\\}ぉっ…ぶっ…あ゛ぁ゛っ\\i[93]"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　ん゛っ\\i[93]\\{ん゛\\}っ\\i[93]ん゛ぅっ\\i[93]ん゛む゛っぅ゛！\\i[93]」"
+                "\\c[27]\\n<Rio>\"Nn... ooh... bu... aah...\\i[93]nn...\\i[93]nn...\\i\n[93]nuu...\\i[93]nmuu!\\i[93]\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]すでにその瞳からは光が失われ、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["玩具のように弄ばれながら絶頂するリオ…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]お腹が歪に膨れ上がる程の"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["苛烈な触手の責めすらも"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["リオはただただ快楽に悶え続ける…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{ゴリュッ…！グリュッ…ジュブブッ…！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\}グチュグチュグチュグチュグチュッ！！\\i[93]"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "「\\{あ゛っ\\}イ゛っ…う゛っ\\i[93]ぎ、ぎもぢ…ィ゛…っ\\i[93]"
+                "\\c[27]The light has already faded from her eyes,\nand Rio climaxes like a toy being played with...."
               ]
             },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　い…イぐっ\\i[93]あ゛…へ…\\i[93]ん゛っ…ぎィ゛…\\i[93]」"
+                "\\c[27]Even the fierce tentacle assault that makes\nher belly grotesquely swell only makes Rio\ncontinue to writhe in pleasure...."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Goryu...! Gryu... Jububu...!\nGuchuguchuguchuguchuguchu!!\\i[93]"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ah... I'm coming... uv...\\i[93]gi, gimochi...\ni...\\i[93]i... igu... ah... he...\\i[93]nn...\ngi...\\i[93]\""
               ]
             },
             {
@@ -4298,20 +3855,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]\\{ドビュッ！ビュルルルゥゥゥッ！！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\}ドピュッドピュッドピュピュッ…！"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "「\\{お゛っっ\\}ん゛っぅ゛っ\\i[93]イ゛っ…ぅ゛っ…\\i[93]」"
+                "\\c[27]Dobyu! Byurururuuu!! Dopyudopyudopyupyuu...!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -4319,45 +3864,39 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]まるで作業のように触手達がリオへと射精していく…。"
+                "\\c[27]\\n<Rio>\"Ooohhnnuuu! I'm coming... uu...\\i[93]\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]何度目か分からない程の射精を身に受けて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["リオの身体が再びビクンッと小さく痙攣する。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]\\{グチュッ…ジュププッ…ジュボッ\\i[93]\\}"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "ジュブッジュブッジュブッジュブッジュブッジュブッ…！"
+                "\\c[27]The tentacles ejaculate into Rio\nmechanically, one after another...."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]\\n<リオ>"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["「\\{お゛っ…ぶっ…\\}ぅ゛\\i[93]ぐっ…むっ…ぅ！"]
-            },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "　ん゛っ！ん゛っ！\\{ん゛\\}っ！ん゛っ！\\{ん゛\\}ぅっ！\\i[93]」"
+                "\\c[27]After an uncountable number of ejaculations,\nRio's body spasms slightly once again."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]Guchu... Jupupu...\nJubo\\i[93]Jubujubujubujubujubujubujubu...!"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\c[27]\\n<Rio>\"Ooohh... buu... uu\\i[93]guh... muh... u! Nnh!\nNnh! Nnh! Nnh! Nnuh!\\i[93]\""
               ]
             },
             {
@@ -4376,45 +3915,28 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[27]射精を終えた触手達が、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["間髪入れずにリオを犯し始めていく…。"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[27]敗北し、囚われの身になったリオへ…"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["幾度となく繰り返されてきた光景…。"]
+              "parameters": [
+                "\\c[27]Having finished ejaculating, the tentacles\nimmediately begin to violate Rio again without\npause...."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]すでに意識もまばらなリオへの終わりなき凌辱は…"
+                "\\c[27]To Rio, who has been defeated and captured,\nthis scene has been repeated countless times\nbefore...."
               ]
             },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まだまだ始まったばかりだ…。"]
+              "parameters": [
+                "\\c[27]The endless torment for the barely conscious\nRio has only just begun...."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]・・・\\.\\."] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・\\.\\."] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・・・・・・・。"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]........"] },
             { "code": 121, "indent": 1, "parameters": [119, 119, 0] },
             { "code": 356, "indent": 1, "parameters": ["CommonSave save"] },
             { "code": 111, "indent": 1, "parameters": [8, 39] },
@@ -4504,18 +4026,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物達の気配が散っていってる…"]
+              "parameters": ["The presence of the monsters is dissipating..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ボスが倒された事に気付いて、"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["慌てて逃げ始めてるみたいね"]
+              "parameters": [
+                "It seems they've realized their boss has been\ndefeated and are starting to flee in a panic."
+              ]
             },
             {
               "code": 231,
@@ -4535,12 +4054,14 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 3, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ふぅ…疲れた～"] },
+            { "code": 401, "indent": 0, "parameters": ["Phew... I'm tired~"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さ、後は貰うもの貰って依頼完了～♪"]
+              "parameters": [
+                "Now, let's collect our reward and complete the\nrequest~♪"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [10] },

@@ -594,13 +594,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きな穴が空いている…"]
+              "parameters": ["There's a big hole..."]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["飛び込む", "飛び込まない"], 1, 1, 1, 0]
+              "parameters": [["Jump in", "Don't jump in"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "飛び込む"] },
             { "code": 201, "indent": 1, "parameters": [0, 31, 14, 14, 8, 0] },
@@ -611,12 +611,11 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "魔力である程度の物理的衝撃は緩和されるからね…\\.\\."
+                "Magic can mitigate physical shocks to some\nextent... O-Okay...!"
               ]
             },
-            { "code": 401, "indent": 1, "parameters": ["よ、よし…！"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["えい…っ"] },
+            { "code": 401, "indent": 1, "parameters": ["Ei...!"] },
             {
               "code": 205,
               "indent": 1,
@@ -929,7 +928,7 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…痛っ…！"] },
+            { "code": 401, "indent": 1, "parameters": ["...Ouch...!"] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
             {
               "code": 205,
@@ -986,12 +985,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う…うぅ…グスッ…\\.、"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ち、ちょっと高すぎた…かも…"]
+              "parameters": [
+                "Ugh...uhh...*sniffle*...m-maybe that was a bit too\nhigh..."
+              ]
             },
             {
               "code": 231,
@@ -1074,12 +1070,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

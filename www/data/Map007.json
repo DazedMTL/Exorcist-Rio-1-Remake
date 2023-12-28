@@ -546,19 +546,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["う～む…暇じゃのう…\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "ところで本当にワシってキミとエロい事してないよな？"
+                "Hmm... I'm bored... By the way, I haven't done\nanything naughty with you, have I? My memory is\nstill a bit hazy..."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだ記憶がぼんやりしとる…"]
             },
             { "code": 122, "indent": 0, "parameters": [6, 6, 0, 0, 5] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -717,12 +707,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

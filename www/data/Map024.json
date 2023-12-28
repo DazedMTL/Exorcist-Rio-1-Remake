@@ -535,25 +535,27 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物の糸が邪魔でこれ以上進めない…"]
+              "parameters": [
+                "I can't go any further because the monster's\nthreads are in the way..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 16] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[17]鋭利なナイフ\\c[0]を使いますか？"]
+              "parameters": ["\\c[17]Use the sharp knife\\c[0]?"]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["使う", "使わない"], 1, 1, 1, 0]
+              "parameters": [["Use it", "Do not use"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "使う"] },
             { "code": 213, "indent": 2, "parameters": [-1, 9, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["・・・えい！"] },
+            { "code": 401, "indent": 2, "parameters": ["...Ei!"] },
             { "code": 212, "indent": 2, "parameters": [0, 6, false] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 230, "indent": 2, "parameters": [30] },
@@ -589,7 +591,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う～ん…、何か\\c[17]切るモノ\\c[0]でもあれば…"]
+              "parameters": [
+                "Hmm... if only I had something \\c[17]to cut\nwith\\c[0]..."
+              ]
             },
             {
               "code": 231,
@@ -701,7 +705,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["地面がひび割れて脆くなっている…。"]
+              "parameters": ["The ground is cracked and fragile..."]
             },
             { "code": 111, "indent": 0, "parameters": [8, 14] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 2"] },
@@ -709,12 +713,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["そういえば…\\c[17]コレ\\c[0]持ってるけど…"]
+              "parameters": [
+                "Come to think of it... I have \\c[17]this\\c[0] with\nme..."
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["爆弾を使う", "使わない"], 1, 1, 1, 0]
+              "parameters": [["Use the bomb", "I don't use it"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "爆弾を使う"] },
             { "code": 111, "indent": 2, "parameters": [8, 11] },
@@ -723,15 +729,16 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["もうこのお屋敷ボロボロだし、"]
+              "parameters": [
+                "This mansion is already falling apart, so a hole\nor two more won't make much difference, right?♪"
+              ]
             },
+            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["今さら穴ぼこが一つ二つ増えたって別にいいわよね♪"]
+              "parameters": ["...Here goes! Ignition♪"]
             },
-            { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["…えい！着火♪"] },
             { "code": 203, "indent": 3, "parameters": [0, 0, 30, 12, 0] },
             { "code": 123, "indent": 3, "parameters": ["A", 0] },
             { "code": 230, "indent": 3, "parameters": [15] },
@@ -778,7 +785,7 @@
             { "code": 213, "indent": 3, "parameters": [-1, 8, true] },
             { "code": 356, "indent": 3, "parameters": ["MWP_VALID 0 2"] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 3, "parameters": ["…シュゥゥウ！"] },
+            { "code": 401, "indent": 3, "parameters": ["...Whooshhh!"] },
             {
               "code": 224,
               "indent": 3,
@@ -845,21 +852,26 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["うわ…思った以上に大きな穴が…"]
+              "parameters": [
+                "Wow... that hole turned out bigger than I\nthought..."
+              ]
             },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["ま、まぁ…"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["私がやったとは思われないよね…"]
+              "parameters": [
+                "Well, well... No one will think I did it, right..."
+              ]
             },
             { "code": 213, "indent": 3, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 3, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["ここから下の階に降りられそう…かな？"]
+              "parameters": [
+                "Looks like I might be able to get down to the\nlower floor from here... maybe?"
+              ]
             },
             {
               "code": 231,
@@ -879,9 +891,10 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["でも肝心の火種が無くて"]
+              "parameters": [
+                "But I can't light a fire without something to\nignite it with..."
+              ]
             },
-            { "code": 401, "indent": 3, "parameters": ["火が付けれないや…"] },
             {
               "code": 231,
               "indent": 3,
@@ -1020,25 +1033,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物の糸が邪魔でこれ以上進めない…"]
+              "parameters": [
+                "I can't go any further because the monster's\nthreads are in the way..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 16] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[17]鋭利なナイフ\\c[0]を使いますか？"]
+              "parameters": [
+                "Would you like to use a \\c[17]sharp knife\\c[0]?"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["使う", "使わない"], 1, 1, 1, 0]
+              "parameters": [["Use it", "Don't use it"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "使う"] },
             { "code": 213, "indent": 2, "parameters": [-1, 9, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["・・・えい！"] },
+            { "code": 401, "indent": 2, "parameters": ["...Ei!"] },
             { "code": 212, "indent": 2, "parameters": [0, 6, false] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 230, "indent": 2, "parameters": [30] },
@@ -1074,7 +1091,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う～ん…、何か\\c[17]切るモノ\\c[0]でもあれば…"]
+              "parameters": [
+                "Hmm... If only I had something to \\c[17]cut\nwith\\c[0]..."
+              ]
             },
             {
               "code": 231,
@@ -1243,12 +1262,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1308,25 +1324,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物の糸が邪魔でこれ以上進めない…"]
+              "parameters": [
+                "I can't go any further because the monster's\nthreads are in the way..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 16] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[17]鋭利なナイフ\\c[0]を使いますか？"]
+              "parameters": [
+                "Would you like to use the \\c[17]sharp knife\\c[0]?"
+              ]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["使う", "使わない"], 1, 1, 1, 0]
+              "parameters": [["Use it", "Do not use"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "使う"] },
             { "code": 213, "indent": 2, "parameters": [-1, 9, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["・・・えい！"] },
+            { "code": 401, "indent": 2, "parameters": ["...Ei!"] },
             { "code": 212, "indent": 2, "parameters": [0, 6, false] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
             { "code": 230, "indent": 2, "parameters": [30] },
@@ -1362,7 +1382,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う～ん…、何か\\c[17]切るモノ\\c[0]でもあれば…"]
+              "parameters": [
+                "Hmm... if only I had something to \\c[17]cut\nwith\\c[0]..."
+              ]
             },
             {
               "code": 231,
@@ -1474,25 +1496,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["中身が空のツボがある…"]
+              "parameters": ["There's an empty pot..."]
             },
             { "code": 111, "indent": 0, "parameters": [8, 12] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[17]ハンマー\\c[0]で叩き割りますか？"]
+              "parameters": ["\\c[17]Hammer\\c[0] to smash it?"]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["叩き割る", "割らない"], 1, 1, 1, 0]
+              "parameters": [["Smash it open", "Do not break it"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "叩き割る"] },
             { "code": 213, "indent": 2, "parameters": [-1, 9, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["…えい！"] },
+            { "code": 401, "indent": 2, "parameters": ["...Ei!"] },
             {
               "code": 224,
               "indent": 2,
@@ -1557,9 +1579,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う～ん…、何か\\c[17]鈍器\\c[0]とかあれば"]
+              "parameters": [
+                "Hmm... It looks like it could be smashed with some\nkind of \\c[17]blunt instrument\\c[0]..."
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["叩き割れそうだけど…"] },
             {
               "code": 231,
               "indent": 1,

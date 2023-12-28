@@ -488,19 +488,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[28]火種\\c[0]があれば火を付けられそう…。"]
+              "parameters": [
+                "\\c[28]If there's a spark\\c[0], it looks like we\ncould start a fire..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 11] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[28]ライター\\c[0]で火を付けますか？"]
+              "parameters": ["\\c[28]Should we light it with a lighter\\c[0]?"]
             },
             {
               "code": 102,
               "indent": 1,
-              "parameters": [["火を付ける", "付けない"], 1, 1, 1, 0]
+              "parameters": [["Light it up", "Do not light"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 1, "parameters": [0, "火を付ける"] },
             { "code": 123, "indent": 2, "parameters": ["A", 0] },
@@ -581,12 +583,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -646,7 +645,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["金庫があるが鍵が掛かっている…"]
+              "parameters": ["There's a safe, but it's locked..."]
             },
             { "code": 103, "indent": 0, "parameters": [5, 4] },
             { "code": 111, "indent": 0, "parameters": [1, 5, 0, 2012, 0] },
@@ -660,7 +659,11 @@
             { "code": 230, "indent": 1, "parameters": [10] },
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["金庫が開いた…！"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["The safe is open...!"]
+            },
             { "code": 126, "indent": 1, "parameters": [13, 0, 0, 1] },
             {
               "code": 250,
@@ -673,7 +676,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[29]宝物庫のスペアキー\\c[0]を手に入れた。"]
+              "parameters": ["\\c[29]Obtained the treasury's spare key-\\c[0]."]
             },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -696,7 +699,11 @@
             { "code": 230, "indent": 1, "parameters": [10] },
             { "code": 213, "indent": 1, "parameters": [-1, 7, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["番号が違うようだ…"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["It seems the number is different..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             {

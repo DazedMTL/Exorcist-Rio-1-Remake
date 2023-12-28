@@ -665,7 +665,7 @@
             { "code": 235, "indent": 0, "parameters": [10] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID 0 -1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["使用人の日記"] },
+            { "code": 401, "indent": 0, "parameters": ["Servant's Diary"] },
             { "code": 356, "indent": 0, "parameters": ["ELM Backtype 1"] },
             { "code": 121, "indent": 0, "parameters": [79, 79, 0] },
             {
@@ -680,55 +680,9 @@
             {
               "code": 405,
               "indent": 0,
-              "parameters": ["今日で屋敷で働き始めて1週間。"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["少しずつ仕事には慣れ始めたけど"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["屋敷が広くて未だに迷ってしまう事がある。"]
-            },
-            { "code": 405, "indent": 0, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["その事を先輩に相談したら"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["「この屋敷は1階と2階がほぼ同じ構造だから"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["　すぐに慣れるよ」…と言われた。"]
-            },
-            { "code": 405, "indent": 0, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["今まで気にしていなかったけど"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["そう言われれば確かにそうだな、と気づいた。"]
-            },
-            { "code": 405, "indent": 0, "parameters": [""] },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["…でも屋敷東側は確かに同じだけど"]
-            },
-            {
-              "code": 405,
-              "indent": 0,
-              "parameters": ["西側って言う程同じ構造だっけ…？"]
+              "parameters": [
+                "It's been a week since I started working at the\nmansion. I'm gradually getting used to the job,\nbut the mansion is so large that I still find\nmyself getting lost at times. When I consulted a\nsenior about it, they said, \"The first and second\nfloors of this mansion have almost the same\nlayout, so you'll get used to it quickly\"...\nThat's what I was told. I hadn't paid much\nattention to it before, but now that they mention\nit, it's true... But while the east side of the\nmansion is certainly the same, is the west side\nreally that similar in structure...?"
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 37] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -802,12 +756,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. It doesn't look\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

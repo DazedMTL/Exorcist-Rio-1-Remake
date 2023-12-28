@@ -488,12 +488,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["炎が勢いよく燃えている。"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しばらくは消えそうにない。"]
+              "parameters": [
+                "The flames are burning fiercely. They don't seem\nlike they'll go out anytime soon."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -602,13 +599,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きな穴が空いている…"]
+              "parameters": ["There's a big hole..."]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["飛び込む", "飛び込まない"], 1, 1, 1, 0]
+              "parameters": [["Jump in", "I won't jump in"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "飛び込む"] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
@@ -617,15 +614,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁまぁ…多少の高さなら"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["魔力で身体が保護されてるから…平気だから…"]
+              "parameters": [
+                "Well, well... A little height is no problem since\nmagic protects our bodies... so it's fine..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["えい…っ"] },
+            { "code": 401, "indent": 1, "parameters": ["Ei...tch!"] },
             { "code": 111, "indent": 1, "parameters": [6, -1, 2] },
             {
               "code": 205,
@@ -935,7 +929,7 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…痛っ…！"] },
+            { "code": 401, "indent": 1, "parameters": ["...Ouch...!"] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
             {
               "code": 205,
@@ -992,14 +986,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う…うぅ…だ、大丈夫大丈夫…"]
+              "parameters": [
+                "Ugh... uhh... I-I'm okay, I'm okay... This much is\nnothing at all... ugh, but it still hurts..."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["こ、この程度なら全然……\\.\\.、"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["うぅやっぱり痛いぃ…"] },
             {
               "code": 231,
               "indent": 1,
@@ -1082,7 +1072,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物の糸が張り巡らされている…"]
+              "parameters": ["Monstrous threads are strewn all around..."]
             },
             { "code": 111, "indent": 0, "parameters": [8, 16] },
             { "code": 213, "indent": 1, "parameters": [-1, 9, true] },
@@ -1092,7 +1082,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "この\\c[17]鋭利なナイフ\\c[0]を使えば切れるかな？"
+                "Maybe I can cut them with this\\c[17]sharp\nknife\\c[0]?"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -1108,17 +1098,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["チョキ…チョキ…\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　ブチッ…ビリリ…ッ\\.\\."]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["　　　　　　　　　　チョキチョキチョキ…"]
+              "parameters": ["Snip...snip...snap...rip...snip snip snip..."]
             },
             { "code": 201, "indent": 1, "parameters": [0, 32, 27, 18, 8, 0] },
             { "code": 122, "indent": 1, "parameters": [11, 11, 0, 0, 1] },
@@ -1126,12 +1106,16 @@
             { "code": 213, "indent": 1, "parameters": [-1, 3, true] },
             { "code": 356, "indent": 1, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…ふぅ、やっと切れた"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["...Phew, finally cut through."]
+            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この穴は…どこに続いてるのかな"]
+              "parameters": ["This hole... I wonder where it leads."]
             },
             {
               "code": 231,
@@ -1151,7 +1135,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["かなり鋭利な刃物があれば切れる…かも？"]
+              "parameters": [
+                "If the blade is sharp enough, it might cut\nthrough... maybe?"
+              ]
             },
             {
               "code": 231,
@@ -1322,13 +1308,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きな穴が空いている…"]
+              "parameters": ["There's a big hole..."]
             },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 2"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["飛び込む", "飛び込まない"], 1, 1, 1, 0]
+              "parameters": [["Jump in", "I won't jump in"], 1, 1, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "飛び込む"] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
@@ -1337,15 +1323,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁまぁ…多少の高さなら"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["魔力で身体が保護されてるから…平気だから…"]
+              "parameters": [
+                "Well, well... A little height is no problem since\nmagic protects our bodies... so it's fine..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["えい…っ"] },
+            { "code": 401, "indent": 1, "parameters": ["Ei...!"] },
             { "code": 111, "indent": 1, "parameters": [6, -1, 2] },
             {
               "code": 205,
@@ -1637,7 +1620,7 @@
               "parameters": [{ "code": 29, "parameters": [4], "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["…痛っ…！"] },
+            { "code": 401, "indent": 1, "parameters": ["...Ouch...!"] },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
             {
               "code": 205,
@@ -1694,14 +1677,10 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["う…うぅ…だ、大丈夫大丈夫…"]
+              "parameters": [
+                "Ugh... uuu... I-I'm okay, I'm okay... This much is\nnothing at all... ugh, but it really does hurt..."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["こ、この程度なら全然……\\.\\.、"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["うぅやっぱり痛いぃ…"] },
             {
               "code": 231,
               "indent": 1,
