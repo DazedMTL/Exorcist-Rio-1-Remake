@@ -746,7 +746,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\n<Rio>\"Haa-...\\i[93] haa-... it's a bit... early but...\nwell, well... good enough.....?\""
+                "\\c[27]\\n<Rio>\"Haa-...\\i[93] haa-... it's a bit... early but...\nwell, well... good enough...?\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -866,7 +866,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 121, "indent": 0, "parameters": [115, 115, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
@@ -984,7 +984,7 @@
             { "code": 122, "indent": 0, "parameters": [9, 9, 0, 0, 2] },
             { "code": 356, "indent": 0, "parameters": ["MWP_VALID -1 1"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["......eh?"] },
+            { "code": 401, "indent": 0, "parameters": ["...eh?"] },
             {
               "code": 205,
               "indent": 0,
@@ -1076,7 +1076,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, lately there are more monsters who violate\nwomen for reasons other than impregnation so maybe\nthat's the type it is.... perhaps...."
+                "Well, lately there are more monsters who violate\nwomen for reasons other than impregnation so maybe\nthat's the type it is... perhaps..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1084,7 +1084,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What would happen if I were caught by such highly\nperverted monsters and used for their amusement?\nMaybe one day that will happen.... my heart's\nracing just thinking about it....\\i[93]"
+                "What would happen if I were caught by such highly\nperverted monsters and used for their amusement?\nMaybe one day that will happen... my heart's\nracing just thinking about it...\\i[93]"
               ]
             },
             {

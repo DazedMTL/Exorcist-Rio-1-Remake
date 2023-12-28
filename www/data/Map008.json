@@ -1097,7 +1097,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 121, "indent": 1, "parameters": [107, 107, 0] },
             { "code": 356, "indent": 1, "parameters": ["CommonSave save"] },
@@ -1308,21 +1308,21 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Grrr... those damned demons! They've made a mess\nof my mansion…!"
+                "Grrr... those damned demons! They've made a mess\nof my mansion...!"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Muttering… Muttering…"]
+              "parameters": ["Muttering... Muttering..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I hope the insurance will cover everything… At\nleast the treasury seems safe for now… Damn it…\nHow much do they think is worth in this mansion…\nMuttering…"
+                "I hope the insurance will cover everything... At\nleast the treasury seems safe for now... Damn\nit... How much do they think is worth in this\nmansion... Muttering..."
               ]
             },
             { "code": 213, "indent": 1, "parameters": [-1, 8, true] },
@@ -1353,7 +1353,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ah- well anyway… I'll take care of the demons in\nthis mansion, so please evacuate from here…"
+                "Ah- well anyway... I'll take care of the demons in\nthis mansion, so please evacuate from here..."
               ]
             },
             { "code": 213, "indent": 1, "parameters": [1, 1, true] },
@@ -2318,7 +2318,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 235, "indent": 0, "parameters": [4] },
@@ -5664,7 +5664,7 @@
               "parameters": ["The light of hope slowly faded from Rio's eyes."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["......."] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 242, "indent": 0, "parameters": [5] },
@@ -5683,7 +5683,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "     ------BADEND_NO.3[Communal Tentacle\nBath]------\n~end~"
+                "     ------BADEND_NO.3[Communal Tentacle\nBath]------ ~end~"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -8080,7 +8080,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 235, "indent": 0, "parameters": [4] },
@@ -8330,7 +8330,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm in the middle of work right now, so please\nread the room a bit better next time…"
+                "I'm in the middle of work right now, so please\nread the room a bit better next time..."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -10611,7 +10611,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 242, "indent": 0, "parameters": [5] },
@@ -10630,7 +10630,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "     ------BADEND_\\c[18]NO.3\\c[0][\\c[27]Mixed Bath\nTentacle Bath\\c[0]]------\n~\\c[30]end\\c[0]~"
+                "     ------BADEND_\\c[18]NO.3\\c[0][\\c[27]Mixed Bath\nTentacle Bath\\c[0]]------ ~\\c[30]end\\c[0]~"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

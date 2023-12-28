@@ -584,7 +584,7 @@
               "parameters": [5, "rio1Re_19_01", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["........"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
@@ -785,7 +785,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]........"] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -1557,7 +1557,7 @@
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
             { "code": 401, "indent": 1, "parameters": [""] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]......."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -4133,7 +4133,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -4599,7 +4599,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -5217,7 +5217,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]......."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -5673,7 +5673,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -6317,7 +6317,7 @@
               "parameters": ["\\c[27]Those sounds never ceased to echo."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -6697,7 +6697,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\c[27]\\n<Rio>\"Haa-...\\i[93]haa-...\\i[93]it's a bit... early...\nbut, well... it was good.....?\""
+                "\\c[27]\\n<Rio>\"Haa-...\\i[93]haa-...\\i[93]it's a bit... early...\nbut, well... it was good...?\""
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -6817,7 +6817,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -7275,7 +7275,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -7703,7 +7703,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -8151,7 +8151,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -8609,7 +8609,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -9109,7 +9109,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -9623,7 +9623,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]......."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -10089,7 +10089,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -10709,7 +10709,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]......."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -11215,7 +11215,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27]........"] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },
@@ -11867,7 +11867,7 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 1, "parameters": ["\\c[27]..."] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [1] },
             { "code": 235, "indent": 1, "parameters": [4] },

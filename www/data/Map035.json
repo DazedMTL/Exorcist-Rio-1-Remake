@@ -1508,7 +1508,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "  ------GOODEND[\\c[27]The Ecchi and Bitchy Top-\nClass Exorcist\\c[0]]------\\c[27]Thank you for\nplaying !\n\\c[17]to be continued..."
+                "  ------GOODEND[\\c[27]The Ecchi and Bitchy Top-\nClass Exorcist\\c[0]]------\\c[27]Thank you for\nplaying ! \\c[17]to be continued..."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

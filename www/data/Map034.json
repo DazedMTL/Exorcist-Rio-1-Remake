@@ -834,7 +834,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\n<Rio>\"Nghbohhhh.... Eghgohhh.... Aaheehhhh....\nEehhhh....\\i[93] Hihh.... Iiighhhh.... Hih....\nGohhh.... Bohhhh.... Aaheehhhh\\i[93]\""
+                "\\c[27]\\n<Rio>\"Nghbohhhh... Eghgohhh... Aaheehhhh...\nEehhhh...\\i[93] Hihh... Iiighhhh... Hih...\nGohhh... Bohhhh... Aaheehhhh\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -878,7 +878,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[27]\\n<Rio>\"Ohhhh\\i[93]Iiighhhhguuuhhh....!\\i[93]Iiighhhhguuu\nuhhhh....!\\i[93]Aaheehhhh.... Gimojiiii....\nIiiihhhh....!\\i[93]Iiighhhh.... Heh.... Ohhhh my\ninsides are so wet and squishy.... Ohhhh....\nNghhhh.... Hih.... Hih\\i[93]\""
+                "\\c[27]\\n<Rio>\"Ohhhh\\i[93]Iiighhhhguuuhhh...!\\i[93]Iiighhhhguuu\nuhhhh...!\\i[93]Aaheehhhh... Gimojiiii...\nIiiihhhh...!\\i[93]Iiighhhh... Heh... Ohhhh my\ninsides are so wet and squishy... Ohhhh...\nNghhhh... Hih... Hih\\i[93]\""
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -906,7 +906,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 121, "indent": 0, "parameters": [116, 116, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             {

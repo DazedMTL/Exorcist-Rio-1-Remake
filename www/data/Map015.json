@@ -1831,7 +1831,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [103, 103, 0] },
@@ -4270,7 +4270,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [103, 103, 0] },
@@ -5601,7 +5601,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........."] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [103, 103, 0] },

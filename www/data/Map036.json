@@ -947,7 +947,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\c[27]........"] },
+            { "code": 401, "indent": 0, "parameters": ["\\c[27]..."] },
             { "code": 121, "indent": 0, "parameters": [104, 104, 0] },
             { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
             { "code": 242, "indent": 0, "parameters": [5] },
@@ -966,7 +966,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "     ------BADEND_\\c[18]NO.5\\c[0][\\c[27]Insect\nBirth\\c[0]]------\n~\\c[30]end\\c[0]~"
+                "     ------BADEND_\\c[18]NO.5\\c[0][\\c[27]Insect\nBirth\\c[0]]------ ~\\c[30]end\\c[0]~"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

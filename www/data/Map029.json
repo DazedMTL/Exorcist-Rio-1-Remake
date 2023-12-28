@@ -1630,7 +1630,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -3723,7 +3723,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -4066,14 +4066,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Haa… haa… it seems safe, the others haven't\nnoticed yet."
+                "Haa... haa... it seems safe, the others haven't\nnoticed yet."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["I really need to be more careful…"]
+              "parameters": ["I really need to be more careful..."]
             },
             { "code": 122, "indent": 2, "parameters": [13, 13, 1, 0, 1] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -5206,7 +5206,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -6691,7 +6691,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -8233,7 +8233,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -9676,7 +9676,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[27]Countless tentacles and a large amount of\nsemen spewing from her mouth and nose...."
+                "\\c[27]Countless tentacles and a large amount of\nsemen spewing from her mouth and nose..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
@@ -9684,7 +9684,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[27]Her mind is directly stirred and ejaculated\ninto..., such unknown and monstrous pleasure\ncauses Rio to roll her eyes back as she convulses\nviolently again and again...."
+                "\\c[27]Her mind is directly stirred and ejaculated\ninto..., such unknown and monstrous pleasure\ncauses Rio to roll her eyes back as she convulses\nviolently again and again..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
@@ -9700,7 +9700,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "\\c[27]Dripping semen from every hole in her face,\nRio somehow manages to cling to her fading\nconsciousness...."
+                "\\c[27]Dripping semen from every hole in her face,\nRio somehow manages to cling to her fading\nconsciousness..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
@@ -9712,7 +9712,7 @@
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 2, "parameters": ["\\c[27].........."] },
+            { "code": 401, "indent": 2, "parameters": ["\\c[27]..."] },
             { "code": 242, "indent": 2, "parameters": [5] },
             { "code": 121, "indent": 2, "parameters": [112, 112, 0] },
             { "code": 356, "indent": 2, "parameters": ["CommonSave save"] },
@@ -9755,7 +9755,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Why do the monsters here only go for the\nears....\\i[93]"
+                "Why do the monsters here only go for the\nears...\\i[93]"
               ]
             },
             {
@@ -9813,21 +9813,21 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["It's okay..., the others haven't noticed yet...."]
+              "parameters": ["It's okay..., the others haven't noticed yet..."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
               "parameters": [
-                "If I get assaulted again..., I don't know if I can\nendure it...."
+                "If I get assaulted again..., I don't know if I can\nendure it..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["I need to be more careful as I move forward...."]
+              "parameters": ["I need to be more careful as I move forward..."]
             },
             {
               "code": 231,
@@ -9845,13 +9845,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Ah! That's dangerous...."]
+              "parameters": ["Ah! That's dangerous..."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Gotta move before the others notice me....!"]
+              "parameters": ["Gotta move before the others notice me...!"]
             },
             {
               "code": 205,
@@ -9885,7 +9885,7 @@
             { "code": 213, "indent": 2, "parameters": [0, 6, true] },
             { "code": 356, "indent": 2, "parameters": ["MWP_VALID 0 1"] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["Slurp.. slurp~...."] },
+            { "code": 401, "indent": 2, "parameters": ["Slurp.. slurp~..."] },
             {
               "code": 205,
               "indent": 2,
@@ -10055,14 +10055,14 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Haa.. haa.., it's okay.. it seems like the others\nhaven't noticed yet...."
+                "Haa.. haa.., it's okay.. it seems like the others\nhaven't noticed yet..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["I really need to be more careful...."]
+              "parameters": ["I really need to be more careful..."]
             },
             { "code": 122, "indent": 2, "parameters": [13, 13, 1, 0, 1] },
             { "code": 0, "indent": 2, "parameters": [] },
