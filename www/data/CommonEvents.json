@@ -1,0 +1,4587 @@
+[
+  null,
+  {
+    "id": 1,
+    "list": [
+      { "code": 122, "indent": 0, "parameters": [19, 19, 0, 0, 1] },
+      { "code": 312, "indent": 0, "parameters": [0, 0, 1, 0, 5] },
+      { "code": 122, "indent": 0, "parameters": [7, 7, 2, 0, 5] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": ["\\c[27]リオの【乳首責め】！"]
+      },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "Hスキル(乳首責め)",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 2,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 3,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 4,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 5,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 6,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 7,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 8,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 9,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 10,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 11,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 12,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 13,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 14,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 15,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 16,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 17,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 18,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 19,
+    "list": [
+      { "code": 221, "indent": 0, "parameters": [] },
+      { "code": 121, "indent": 0, "parameters": [13, 13, 0] },
+      { "code": 121, "indent": 0, "parameters": [31, 31, 0] },
+      {
+        "code": 241,
+        "indent": 0,
+        "parameters": [
+          { "name": "Dungeon3", "volume": 60, "pitch": 100, "pan": 0 }
+        ]
+      },
+      { "code": 111, "indent": 0, "parameters": [1, 104, 0, 5, 1] },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [1, "backCG", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      {
+        "code": 231,
+        "indent": 1,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 111, "indent": 1, "parameters": [0, 105, 0] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["イベントシーンをスキップしますか？"]
+      },
+      {
+        "code": 102,
+        "indent": 2,
+        "parameters": [["スキップする", "イベントシーンを見る"], 0, 0, 2, 0]
+      },
+      { "code": 402, "indent": 2, "parameters": [0, "スキップする"] },
+      { "code": 222, "indent": 3, "parameters": [] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ラビはゾンビに犯されてしまった…。"]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 402, "indent": 2, "parameters": [1, "イベントシーンを見る"] },
+      { "code": 222, "indent": 3, "parameters": [] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[92]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]次々とゾンビがラビへ襲い掛かっていく…"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\n<ラビ>「ちょっ…ちょっと…待っ…っ…！"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["やめっ…う\"っ…ぐっ…ん\"ぅぅっっ\\i[94]！！」"]
+      },
+      { "code": 225, "indent": 3, "parameters": [5, 5, 60, false] },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a1", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\{グチュッ・・・ズプッ・・・\\}ヌチュッ・・・\\i[93]\\{"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュブッ・・・グチュチュッ\\}・・・チュボッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\{ヌプッ・・・ジュプププッ・・・ッ！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]モゾモゾと蠢くゾンビ達の塊…。\\!"]
+      },
+      { "code": 401, "indent": 3, "parameters": ["その中心で埋もれるように"] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ラビが弄ばれて…犯される…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っぶっ…！\\i[92]ん\"お\"ぉっ…ぉ\"\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "ふっ…ぐ…ぅ\"\\i[94]！ん\"ぎっ…\\i[92]！お\"っ…ぶっ\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]穴という穴は当然の事、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["無理矢理チンポを握らされ…大きな乳房は弄ばれ…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ゾンビ達がラビの身体中を性処理に利用し、犯していく…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ジュップ・・・！ジュププッ！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["グチュッ！ジュボッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\}ジュプッ・・・！ジュプッ・・・！ジュププッ！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{お\"っ…ぶっぅ\"…\\}…\\i[92]ごっ…ふっ…\\i[94]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "ん\"っ…！んん\"っぎっ…ぃ\"っ\\i[92]!\\{ん\"\\}お\"ぉ\"っ\\i[93]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a2", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]深々と挿さったゾンビのチンポが"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["一突き毎に子宮を突き上げて、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["その度ラビが強烈な快感に襲われる…!"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ズプッ・・・！ズプッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ズプッ・・・！ズププッ・・・！！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ…ぎっ\\i[92]！…\\{あ\"\\}っ…ぐっ\\i[93]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\{ん\"\\}っぶ…ぅ\"っ\\i[94]！…\\{お\"\\}っぐ…\\i[92]！\\{ん\"\\}ぉ\"ぉっ…\\i[93]！」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(お\"…ぉ…\\i[92]あ、当たって…る\"ッ…奥\"…ぅ\"っ！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["こ、こんな奴ら…にぃ…子宮口ファック…され…て…\\i[94]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["じょ、冗談じゃ…・・・\\{あ\"\\}ぎぃ\"っ\\i[93])"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]ゾンビの群れに埋もれたラビの身体が、大きく跳ね上がる…。"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]屈辱に震える心とは裏腹に…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["この状況も…苦痛も…全てが快楽へと変わっていき…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["やがて全てを塗りつぶしていく…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ジュボッ・・・！ジュボッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュボッ！ジュボッジュボッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュプッ！ジュプッ！ジュププッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"ぐっう\"ぅぅっっう\"っ！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ぐぶっ…ぉ\"っ\\i[94]！ん\"お\"ぉっ！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ん\"ぎぃぃ\"イぃィ\"っっ……っっ\\i[93]！」"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(な、な\"んでイ\"っ…で…あ、ありえ…な…っひ\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["こ、こんな事が…ぎもちいぃ\"…訳\"ぇ……っ\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["やば…ひぃ\"…・・・とまらな\"っ…イ\"\\i[93])"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]一方的な凌辱に悦んでしまっている自分の身体…、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["それに戸惑いながら絶頂する事を抑えられないラビに"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ゾンビ達の責めはまだまだ終わらない…。"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a3", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ブビュッ・・・！ドビュッ！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ビュルルルルルッッッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\n<ラビ>「\\{ごぼっぉ\"っっ\\i[93]！！\\}」"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]身体の内外構わずゾンビ達から一斉に放たれる精液…！\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["声にならない声を漏らしラビの体が更に大きく跳ねる。"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a4", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(\\{ん\"ィ\"ぃ\"\\}イ\"いィ\"ッッっ！！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "で、出てるっ…ぅ\"！中に…ひ\\i[94]し、子宮の中に…ぃ\\i[92]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["あ、熱いの…が…一杯出て……っ\\i[93])"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 3, "parameters": ["\\c[27]はっきりと感じる、"] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["身体を埋め尽くしていく生暖かいゾンビの精液の感覚…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]おぞましいはずのその感覚すら"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["凌辱に悦び震える身体には甘美な快楽となり…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ラビをより深い絶頂へと誘っていく…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ぐっ…ぶっ…\\i[92]！ごふっ…ぅ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["イ\"っ…ぎっ…ひ\\i[94]ん\"ぉ\"っ…ぉ\"っ…！\\i[93]」"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(こんな…奴らに…中出しされて…イ\"って…るぅ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["イ\"っ…ひ…な、なんで…ぇ\\i[92]き、ぎもぢ…イ\"…\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["イ\"ぐの…が…と、とまん…な\"ひっ…\\i[93])"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]押し寄せる快楽に身体を震わせながら"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["放心状態で絶頂を繰り返すラビ…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]…が、射精したゾンビ達のチンポは硬さを失わず…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["そのまま更に身体を再び動かし始めていく…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\n<ラビ>「\\{ん\"っ…ぶぅ\"っっ\\i[93]！？\\}」"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ジュボッ・・・！ジュボッ・・・！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュボッ・・・！ジュボッ・・・！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\}ジュブッジュブッジュブッジュブッジュブッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]既に限界を超えて絶頂し続けた身体へ、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["無慈悲にも再開されるゾンビ達の凌辱…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]抗う力などあるはずが無いラビの身体を"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ゾンビ達が本能ままに弄び…、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["2度…3度と何度も射精を繰り返していく…！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ごっぼぉ\"っぉ\"っ\\i[93]！ん”ぶっぉ\"っ\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "あ\"ぁあ\"っあ\"ぁっっ\\i[93]！\\}ん\"ぎィ\"ィっっっ\\i[93]！」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(\\{イ\"ぐっイ\"ぐっイ\"ぐっぅ\"ぅぅっ！！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\}じ、じぬっ…ぅ\"っ\\i[92]！イ\"ぎじぬぅ\"っっ\\i[93]！！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "だめだめだめぇ\"っっ\\i[92]！！ああ\"っぁ\"ぁあ\"ぁ\"っ\\i[93]！)"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a5", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{グチュッ・・・！ブビュッ！ズチュッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ドビュッ・・・ビュルルルッ・・・\\i[93]！\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュプッ・・・グチュチュッ・・・ビュチュ\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]壊れた玩具のように…痙攣を繰り返すラビの身体。\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["その肉体へ尚も延々と続けられる凌辱と射精…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]朦朧とした意識の中で…ラビが犯され続ける…。"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ3_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ごっ…ぼ…\\i[92]ぐぶっ…んぶ……ぇ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "あ\"…へ…\\i[92]お\"っ…ぉ……ゴクン……\\i[94]\\{ん”\\}ぼ…ぇ\"…\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]ほとんど無意識に出された精液を全て飲み込んで…\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["それを吐き出しながらまた絶頂する…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]見るに堪えない凌辱はまだまだ終わらない…。\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ゾンビ達が全ての精をラビに吐き出すまで…。"]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 404, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 222, "indent": 2, "parameters": [] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[92]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]次々とゾンビがラビへ襲い掛かっていく…"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\n<ラビ>「ちょっ…ちょっと…待っ…っ…！"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["やめっ…う\"っ…ぐっ…ん\"ぅぅっっ\\i[94]！！」"]
+      },
+      { "code": 225, "indent": 2, "parameters": [5, 5, 60, false] },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a1", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\{グチュッ・・・ズプッ・・・\\}ヌチュッ・・・\\i[93]\\{"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ジュブッ・・・グチュチュッ\\}・・・チュボッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\{ヌプッ・・・ジュプププッ・・・ッ！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]モゾモゾと蠢くゾンビ達の塊…。\\!"]
+      },
+      { "code": 401, "indent": 2, "parameters": ["その中心で埋もれるように"] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ラビが弄ばれて…犯される…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っぶっ…！\\i[92]ん\"お\"ぉっ…ぉ\"\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "ふっ…ぐ…ぅ\"\\i[94]！ん\"ぎっ…\\i[92]！お\"っ…ぶっ\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]穴という穴は当然の事、"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["無理矢理チンポを握らされ…大きな乳房は弄ばれ…"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ゾンビ達がラビの身体中を性処理に利用し、犯していく…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{ジュップ・・・！ジュププッ！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["グチュッ！ジュボッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\}ジュプッ・・・！ジュプッ・・・！ジュププッ！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{お\"っ…ぶっぅ\"…\\}…\\i[92]ごっ…ふっ…\\i[94]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "ん\"っ…！んん\"っぎっ…ぃ\"っ\\i[92]!\\{ん\"\\}お\"ぉ\"っ\\i[93]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a2", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]深々と挿さったゾンビのチンポが"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["一突き毎に子宮を突き上げて、"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["その度ラビが強烈な快感に襲われる…!"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{ズプッ・・・！ズプッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ズプッ・・・！ズププッ・・・！！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ…ぎっ\\i[92]！…\\{あ\"\\}っ…ぐっ\\i[93]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\{ん\"\\}っぶ…ぅ\"っ\\i[94]！…\\{お\"\\}っぐ…\\i[92]！\\{ん\"\\}ぉ\"ぉっ…\\i[93]！」"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(お\"…ぉ…\\i[92]あ、当たって…る\"ッ…奥\"…ぅ\"っ！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["こ、こんな奴ら…にぃ…子宮口ファック…され…て…\\i[94]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["じょ、冗談じゃ…・・・\\{あ\"\\}ぎぃ\"っ\\i[93])"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]ゾンビの群れに埋もれたラビの身体が、大きく跳ね上がる…。"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]屈辱に震える心とは裏腹に…"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["この状況も…苦痛も…全てが快楽へと変わっていき…"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["やがて全てを塗りつぶしていく…！"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{ジュボッ・・・！ジュボッ・・・！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ジュボッ！ジュボッジュボッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ジュプッ！ジュプッ！ジュププッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"ぐっう\"ぅぅっっう\"っ！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ぐぶっ…ぉ\"っ\\i[94]！ん\"お\"ぉっ！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ん\"ぎぃぃ\"イぃィ\"っっ……っっ\\i[93]！」"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(な、な\"んでイ\"っ…で…あ、ありえ…な…っひ\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["こ、こんな事が…ぎもちいぃ\"…訳\"ぇ……っ\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["やば…ひぃ\"…・・・とまらな\"っ…イ\"\\i[93])"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]一方的な凌辱に悦んでしまっている自分の身体…、"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["それに戸惑いながら絶頂する事を抑えられないラビに"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ゾンビ達の責めはまだまだ終わらない…。"]
+      },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a3", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{ブビュッ・・・！ドビュッ！\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ビュルルルルルッッッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\n<ラビ>「\\{ごぼっぉ\"っっ\\i[93]！！\\}」"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]身体の内外構わずゾンビ達から一斉に放たれる精液…！\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["声にならない声を漏らしラビの体が更に大きく跳ねる。"]
+      },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a4", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(\\{ん\"ィ\"ぃ\"\\}イ\"いィ\"ッッっ！！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "で、出てるっ…ぅ\"！中に…ひ\\i[94]し、子宮の中に…ぃ\\i[92]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["あ、熱いの…が…一杯出て……っ\\i[93])"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 2, "parameters": ["\\c[27]はっきりと感じる、"] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["身体を埋め尽くしていく生暖かいゾンビの精液の感覚…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]おぞましいはずのその感覚すら"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["凌辱に悦び震える身体には甘美な快楽となり…"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ラビをより深い絶頂へと誘っていく…！"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ぐっ…ぶっ…\\i[92]！ごふっ…ぅ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["イ\"っ…ぎっ…ひ\\i[94]ん\"ぉ\"っ…ぉ\"っ…！\\i[93]」"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(こんな…奴らに…中出しされて…イ\"って…るぅ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["イ\"っ…ひ…な、なんで…ぇ\\i[92]き、ぎもぢ…イ\"…\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["イ\"ぐの…が…と、とまん…な\"ひっ…\\i[93])"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]押し寄せる快楽に身体を震わせながら"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["放心状態で絶頂を繰り返すラビ…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]…が、射精したゾンビ達のチンポは硬さを失わず…"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["そのまま更に身体を再び動かし始めていく…！"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\n<ラビ>「\\{ん\"っ…ぶぅ\"っっ\\i[93]！？\\}」"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{ジュボッ・・・！ジュボッ・・・！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ジュボッ・・・！ジュボッ・・・！\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\}ジュブッジュブッジュブッジュブッジュブッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]既に限界を超えて絶頂し続けた身体へ、"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["無慈悲にも再開されるゾンビ達の凌辱…！"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]抗う力などあるはずが無いラビの身体を"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ゾンビ達が本能ままに弄び…、"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["2度…3度と何度も射精を繰り返していく…！\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ごっぼぉ\"っぉ\"っ\\i[93]！ん”ぶっぉ\"っ\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "あ\"ぁあ\"っあ\"ぁっっ\\i[93]！\\}ん\"ぎィ\"ィっっっ\\i[93]！」"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(\\{イ\"ぐっイ\"ぐっイ\"ぐっぅ\"ぅぅっ！！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\}じ、じぬっ…ぅ\"っ\\i[92]！イ\"ぎじぬぅ\"っっ\\i[93]！！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "だめだめだめぇ\"っっ\\i[92]！！ああ\"っぁ\"ぁあ\"ぁ\"っ\\i[93]！)"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a5", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]\\{グチュッ・・・！ブビュッ！ズチュッ\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ドビュッ・・・ビュルルルッ・・・\\i[93]！\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ジュプッ・・・グチュチュッ・・・ビュチュ\\i[93]"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]壊れた玩具のように…痙攣を繰り返すラビの身体。\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["その肉体へ尚も延々と続けられる凌辱と射精…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]朦朧とした意識の中で…ラビが犯され続ける…。"]
+      },
+      {
+        "code": 224,
+        "indent": 2,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [2, "a_ゾンビレイプ3_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 2, "parameters": [""] },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ごっ…ぼ…\\i[92]ぐぶっ…んぶ……ぇ\"\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "あ\"…へ…\\i[92]お\"っ…ぉ……ゴクン……\\i[94]\\{ん”\\}ぼ…ぇ\"…\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": [
+          "\\c[27]ほとんど無意識に出された精液を全て飲み込んで…\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["それを吐き出しながらまた絶頂する…。"]
+      },
+      { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["\\c[27]見るに堪えない凌辱はまだまだ終わらない…。\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 2,
+        "parameters": ["ゾンビ達が全ての精をラビに吐き出すまで…。"]
+      },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 122, "indent": 1, "parameters": [122, 122, 1, 0, 5] },
+      { "code": 122, "indent": 1, "parameters": [123, 123, 1, 0, 1] },
+      { "code": 122, "indent": 1, "parameters": [124, 124, 1, 0, 1] },
+      { "code": 122, "indent": 1, "parameters": [125, 125, 1, 2, 20, 40] },
+      { "code": 122, "indent": 1, "parameters": [130, 130, 1, 2, 50, 80] },
+      { "code": 122, "indent": 1, "parameters": [126, 126, 1, 2, 10, 15] },
+      { "code": 326, "indent": 1, "parameters": [0, 0, 0, 0, 8] },
+      { "code": 122, "indent": 1, "parameters": [127, 127, 1, 0, 8] },
+      { "code": 121, "indent": 1, "parameters": [105, 105, 0] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 411, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 1, "parameters": [1, 104, 0, 2, 1] },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [1, "backCG", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      {
+        "code": 231,
+        "indent": 2,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 111, "indent": 2, "parameters": [0, 104, 0] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["イベントシーンをスキップしますか？"]
+      },
+      {
+        "code": 102,
+        "indent": 3,
+        "parameters": [["スキップする", "イベントシーンを見る"], 0, 0, 2, 0]
+      },
+      { "code": 402, "indent": 3, "parameters": [0, "スキップする"] },
+      { "code": 222, "indent": 4, "parameters": [] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビはゾンビに犯されてしまった…。"]
+      },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 402, "indent": 3, "parameters": [1, "イベントシーンを見る"] },
+      { "code": 222, "indent": 4, "parameters": [] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[92]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]・・・更にゾンビがラビへ襲い掛かっていく・・・"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ぐっ…な、何だよ…\\i[94]、1人じゃアタシをイかす自信が…」"
+        ]
+      },
+      { "code": 225, "indent": 4, "parameters": [5, 5, 60, false] },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a1", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\\}ぶっ…\\i[92]！？んむ“っー…！\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]強がるラビをまるで無理やり黙らせるように、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["別のゾンビがその口へとチンポをねじ込んでいく…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{グチュッ・・・！チュボッ・・・ォ！\\i[93]\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ジュプッ\\i[94]・・・グチュチュッ・・・\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["チュボッチュボッチュボッチュボッ・・・\\i[92]！"]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a2", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っぶっ…\\i[94]ぶぉっ…ぉ\"…ぐぷっぅ…」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]しっかりと両腕で掴まれたラビの頭は"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["抗おうとしても動かす事は出来ず…、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["無情にもゾンビのチンポが深々と刺しこまれていく…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{ぐりゅっ・・・！\\}ぐりゅっりゅっ・・・\\i[92]"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ぶ\\}っぉっ…\\i[92]お\"っ……げっ…ぇ…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "ま、ま\"っ…てッ…\\i[92]く、くるっ…じ…\\i[94]ん\"んっー\\i[92]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]喉を擦るゾンビのチンポに口の中に広がる生臭さ…"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]何度もえずきながら必死に耐えるラビを"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["背後のゾンビが容赦無く追い詰めていく…！"]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a3", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{パンッ・・・\\i[92]！パンッ・・・\\i[92]！"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["パンッ・・・\\i[92]！パンッ・・・\\i[92]！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っむ\"っっぅぅぅ…っ！？\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "ふっぐ……っ！ぉ\"っ…\\i[94]ん\"っ…んんっ…ぶっ…！\\i[92]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]肉と肉が激しくぶつかる音が響く…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ぐ…くるっ…し…\\i[92]！きっ…つ…っ\\i[94])"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 4, "parameters": ["\\c[27]背後のゾンビが"] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ラビにしがみ付きながら激しく腰を打ち付けていく…！"]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a4", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ジュプッ・・・！ジュプププッ・・・\\i[93]！！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ…んぶっ…！\\i[92]ん\"っ…ぐっ…ぉ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]苦しそうな、しかし甘く高い声が"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["嗚咽に混じってラビから漏れていく…。"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(や、や…ば…ぃ…\\i[92]アタシが…こんな奴ら…の…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["こ、こんなので……っ\\i[94]い、イ\"…っ…\\i[92])"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]前後を挟む2体のゾンビからの激しい2穴責め…\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["後ろからしつこくマンコを突き上げるチンポと、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["喉の奥を乱暴に犯すチンポによる嗜虐的なセックス…。\\!"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]しかしそんな一方的な凌辱を受けるラビの身体からは"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "大量の愛液が噴き出し口からは甘い声が漏れていく…。\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ\\i[94]！ん\"むっ…！ん\"っ\\i[92]ん\"んっー…\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "ぶっ…ぉ\"\\i[94]ぐぶっ…んぎっ…\\i[94]ん\"ぉっ！お\"ぉっ…\\i[92]！」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{じゅぷっ・・・\\i[93]！じゅぽっ・・・！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\}じゅぷっじゅぷっじゅぷっじゅぷっ\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\{ぐちゅっぅ“\\i[93]！\\}じゅぽっじゅぽっ・・・ぉ\\i[94]"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ぃ\"…ひっ\\i[92]な、何で…こんな…感じ…っ\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["や、やばぃ…やばぃやばぃ…っイ…っぎ…っっっ…\\i[92]}"]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a5", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{ビクビクビクビクッ・・・ッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ん\\{あ\"っっぁぁっ\\}っ…っ！\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]大きな喘ぎと共に、ラビの全身が激しく跳ね上がり"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["足腰が激しくガクガクと痙攣する…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]2体のゾンビによる、一方的な凌辱。\\!"]
+      },
+      { "code": 401, "indent": 4, "parameters": ["ラビの意思を嘲笑うように…"] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["肉体はそれにあっさりと屈服し、深い絶頂へ堕ちる…。"]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [2, "a_ゾンビレイプ2_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{ブビュッ\\}・・・ビュルルッッ・・・\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ドビュビュッ・・・ドピュッドピュッ\\i[92]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ごっ\\}ぼぉっ…！\\i[92]がっ…ふっ…\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ん\"っ…ぶぁっあっ…お\"ご…ぉ…\\i[93]」"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビの絶頂に誘われるように…"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["2体のゾンビも相次いで射精していく…。"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビの膣からは精液が溢れ流れ落ち、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["喉奥へ直接注がれた精液は胃を通り逆流する…。"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{ビクンッ・・・\\i[93]ビクンッ・・・\\i[93]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ざ、ザーメンが喉…通っ…\\i[92]ぅ\"ぶっ…\\i[94])"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ビュル・・・ビュルルッ・・・ゥ\\i[92]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]身体を震わせて\\!、目を裏返しながら…\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["口とマンコからゾンビの精液を流しながら絶頂するラビ…。"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]そこにいつもの強気なラビの面影は欠片も無く…"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ただゾンビの凌辱に屈して"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["絶頂に身体を震わすみじめな姿だけが残っていた…"]
+      },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 404, "indent": 3, "parameters": [] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 411, "indent": 2, "parameters": [] },
+      { "code": 222, "indent": 3, "parameters": [] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[92]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]・・・更にゾンビがラビへ襲い掛かっていく・・・"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ぐっ…な、何だよ…\\i[94]、1人じゃアタシをイかす自信が…」"
+        ]
+      },
+      { "code": 225, "indent": 3, "parameters": [5, 5, 60, false] },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a1", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\\}ぶっ…\\i[92]！？んむ“っー…！\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]強がるラビをまるで無理やり黙らせるように、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["別のゾンビがその口へとチンポをねじ込んでいく…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{グチュッ・・・！チュボッ・・・ォ！\\i[93]\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュプッ\\i[94]・・・グチュチュッ・・・\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["チュボッチュボッチュボッチュボッ・・・\\i[92]！"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a2", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っぶっ…\\i[94]ぶぉっ…ぉ\"…ぐぷっぅ…」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]しっかりと両腕で掴まれたラビの頭は"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["抗おうとしても動かす事は出来ず…、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["無情にもゾンビのチンポが深々と刺しこまれていく…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\{ぐりゅっ・・・！\\}ぐりゅっりゅっ・・・\\i[92]"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ぶ\\}っぉっ…\\i[92]お\"っ……げっ…ぇ…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "ま、ま\"っ…てッ…\\i[92]く、くるっ…じ…\\i[94]ん\"んっー\\i[92]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]喉を擦るゾンビのチンポに口の中に広がる生臭さ…"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]何度もえずきながら必死に耐えるラビを"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["背後のゾンビが容赦無く追い詰めていく…！"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a3", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{パンッ・・・\\i[92]！パンッ・・・\\i[92]！"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["パンッ・・・\\i[92]！パンッ・・・\\i[92]！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っむ\"っっぅぅぅ…っ！？\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "ふっぐ……っ！ぉ\"っ…\\i[94]ん\"っ…んんっ…ぶっ…！\\i[92]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]肉と肉が激しくぶつかる音が響く…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ぐ…くるっ…し…\\i[92]！きっ…つ…っ\\i[94])"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 3, "parameters": ["\\c[27]背後のゾンビが"] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ラビにしがみ付きながら激しく腰を打ち付けていく…！"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a4", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ジュプッ・・・！ジュプププッ・・・\\i[93]！！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ…んぶっ…！\\i[92]ん\"っ…ぐっ…ぉ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]苦しそうな、しかし甘く高い声が"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["嗚咽に混じってラビから漏れていく…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(や、や…ば…ぃ…\\i[92]アタシが…こんな奴ら…の…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["こ、こんなので……っ\\i[94]い、イ\"…っ…\\i[92])"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]前後を挟む2体のゾンビからの激しい2穴責め…\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["後ろからしつこくマンコを突き上げるチンポと、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["喉の奥を乱暴に犯すチンポによる嗜虐的なセックス…。\\!"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]しかしそんな一方的な凌辱を受けるラビの身体からは"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "大量の愛液が噴き出し口からは甘い声が漏れていく…。\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}っ\\i[94]！ん\"むっ…！ん\"っ\\i[92]ん\"んっー…\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "ぶっ…ぉ\"\\i[94]ぐぶっ…んぎっ…\\i[94]ん\"ぉっ！お\"ぉっ…\\i[92]！」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\{じゅぷっ・・・\\i[93]！じゅぽっ・・・！\\i[93]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\}じゅぷっじゅぷっじゅぷっじゅぷっ\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\{ぐちゅっぅ“\\i[93]！\\}じゅぽっじゅぽっ・・・ぉ\\i[94]"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ぃ\"…ひっ\\i[92]な、何で…こんな…感じ…っ\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["や、やばぃ…やばぃやばぃ…っイ…っぎ…っっっ…\\i[92]}"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a5", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ビクビクビクビクッ・・・ッ！！\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ん\\{あ\"っっぁぁっ\\}っ…っ！\\i[93]」"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]大きな喘ぎと共に、ラビの全身が激しく跳ね上がり"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["足腰が激しくガクガクと痙攣する…！"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]2体のゾンビによる、一方的な凌辱。\\!"]
+      },
+      { "code": 401, "indent": 3, "parameters": ["ラビの意思を嘲笑うように…"] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["肉体はそれにあっさりと屈服し、深い絶頂へ堕ちる…。"]
+      },
+      {
+        "code": 224,
+        "indent": 3,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [2, "a_ゾンビレイプ2_a6", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 3, "parameters": [""] },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ブビュッ\\}・・・ビュルルッッ・・・\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ドビュビュッ・・・ドピュッドピュッ\\i[92]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ごっ\\}ぼぉっ…！\\i[92]がっ…ふっ…\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["ん\"っ…ぶぁっあっ…お\"ご…ぉ…\\i[93]」"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ラビの絶頂に誘われるように…"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["2体のゾンビも相次いで射精していく…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ラビの膣からは精液が溢れ流れ落ち、"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["喉奥へ直接注がれた精液は胃を通り逆流する…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]\\{ビクンッ・・・\\i[93]ビクンッ・・・\\i[93]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [
+          "\\c[27]\\n<ラビ>(ざ、ザーメンが喉…通っ…\\i[92]ぅ\"ぶっ…\\i[94])"
+        ]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ビュル・・・ビュルルッ・・・ゥ\\i[92]"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]身体を震わせて\\!、目を裏返しながら…\\!"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["口とマンコからゾンビの精液を流しながら絶頂するラビ…。"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]そこにいつもの強気なラビの面影は欠片も無く…"]
+      },
+      { "code": 101, "indent": 3, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["\\c[27]ただゾンビの凌辱に屈して"]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": ["絶頂に身体を震わすみじめな姿だけが残っていた…"]
+      },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 122, "indent": 2, "parameters": [122, 122, 1, 0, 2] },
+      { "code": 122, "indent": 2, "parameters": [123, 123, 1, 0, 1] },
+      { "code": 122, "indent": 2, "parameters": [125, 125, 1, 2, 5, 20] },
+      { "code": 122, "indent": 2, "parameters": [130, 130, 1, 2, 10, 30] },
+      { "code": 122, "indent": 2, "parameters": [126, 126, 1, 2, 2, 3] },
+      { "code": 326, "indent": 2, "parameters": [0, 0, 0, 0, 4] },
+      { "code": 122, "indent": 2, "parameters": [127, 127, 1, 0, 4] },
+      { "code": 121, "indent": 2, "parameters": [104, 104, 0] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 411, "indent": 1, "parameters": [] },
+      { "code": 111, "indent": 2, "parameters": [1, 104, 0, 1, 0] },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [1, "backCG", 0, 0, 0, 0, 100, 100, 255, 0]
+      },
+      {
+        "code": 231,
+        "indent": 3,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a1",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 111, "indent": 3, "parameters": [0, 103, 0] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["イベントシーンをスキップしますか？"]
+      },
+      {
+        "code": 102,
+        "indent": 4,
+        "parameters": [["スキップする", "イベントシーンを見る"], 0, 0, 2, 0]
+      },
+      { "code": 402, "indent": 4, "parameters": [0, "スキップする"] },
+      { "code": 222, "indent": 5, "parameters": [] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 5, "parameters": [""] },
+      {
+        "code": 224,
+        "indent": 5,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 5,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ラビはゾンビに犯されてしまった…。"]
+      },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 402, "indent": 4, "parameters": [1, "イベントシーンを見る"] },
+      { "code": 222, "indent": 5, "parameters": [] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 5, "parameters": [""] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[94]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ラビが倒れ込んだその一瞬の隙を逃さず、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ここぞとばかりにゾンビがいきり立った肉棒をねじ込む…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ズブ・・・ズブブブ・・・\\i[93]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]\\n<ラビ>「はっ…う\"…っ\\i[92]！く…っそ…、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "な、何で…化け物のくせ…に…こんな…良いチンポ……っ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]変異したゾンビの腕力は常人を上回り…、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["一度捕まれば生身のラビがそれに抗う事は難しく…"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ラビの抵抗にビクともせずに"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ゾンビの肉棒が容赦無くラビの身体を貫く…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]\\{ずぷぷっ・・・\\}\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ぐちゅっ・・・ぐちゅちゅ・・・\\i[92]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ん\"っ…ぉ\"…\\i[92]熱…固…っ…\\i[94]\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "ぐっ…ぅ…た、ただこの程度で…アタシが簡単に…っ\\i[92]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 5,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 5,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 5, "parameters": [""] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\{ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}ぎっ…ぃ\"ぃ\\i[92]！？お\"っ…ちょ、まっ…\\i[94]\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "あ\"っ…\\i[92]ぁ\"っ…\\i[94]あぁ\"っ…\\i[92]ぁあ\"っ…\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["やっ…やめっ…、あ\"っ…ひ…\\i[92]ん\"ぁ\"っっ\\i[93]」"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]強がるラビを打ち砕く様に"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ゾンビが激しく腰を打ち付ける…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]一突き毎にラビの身体が大きく弾かれて、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["変わりに口から小さな喘ぎが漏れていく…。"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\{ぐちゅっ・・・\\i[92]！ぐちゅっ・・・\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["じゅぷっ・・・\\i[94]！じゅぷっ・・・\\i[94]！\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["じゅぼっじゅぼっじゅぼっじゅぼっ・・・\\i[93]！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ぁ\"っ…\\{ひ\\}っ…\\i[93]！…ぜ、全…然…き、気持ちよ…く…っ"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["う\"っ…んんっ…\\i[94]！ちょ…まっ……やば…っ\\i[92]」"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ラビの膣から溢れ出した大量の愛液が"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["腰を打ち付けられる度に地面へと激しく飛び散る…\\i[94]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]単調だが激しい腰使いと逞しいゾンビのチンポ…、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["その両方が徐々にラビを追い詰めていく…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ジュボッ・・・\\i[92]ジュボ・・・\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["グチュッ・・・\\i[94]グチュッ・・・\\i[94]"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ジュプッジュプッジュプッジュプッ・・・！\\i[93]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ア、アタシが…こんな奴らに…何度…も…ぁ\"っ\\i[92]…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "イかさ…れるわけ…ぇ…っ\\i[94]あ\"っ…ぎっ…ぃ\"\\i[92]！\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "や\"っ…め…\\{ん\"\\}ぃぃ\"っ…いっ…ん\"んーーっ\\i[93]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 5,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 5,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 5, "parameters": [""] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\{ビクビクビクビクッッッ\\i[92]・・・ッ！\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「っ\\{\\{あ\"\\}っ\\}っや“っ…っっっ\\i[93]！！」"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]\\{ドビュッ！\\}ドビュッ…ドピュピュッ…！\\i[93]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]耐え切れず絶頂してしまうラビの肉体…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]それを追い打つように流し込まれるゾンビの精液が"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["ラビに更に強烈な快感を与える…！"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ーーっっ！？\\}\\i[92]っ…ば、ばか…っ…\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["だ、出すタイミ…ング…最悪…っ！や…っ…べ…っ\\i[94]、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["…\\{ん“\\}っ…お“ぉ“っ…お“\\i[93]！！」"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\{ビクンッ・・・\\i[93]！ビクンッ・・・！\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]２回、３回…と立て続けにラビの身体が跳ね上がる…。"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ふ\\}っ…ぐっ…ぅ“…っ\\i[92]、はぁー…はぁー…っ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]痙攣する身体を抑え込み、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["何とか必死に呼吸を整えるラビ…"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]どびゅっ・・・びゅるるっ・・・びゅるっ\\i[92]"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「はっ…\\{ん“\\}ぅっ…うっ…\\i[92]はー…はー…\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「こ、こんな…もんか…っ、やっぱ全然…大した事…っ\\i[94]…\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["………\\{あ“\\}っふっ…っ！\\i[93]」"]
+      },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 5, "parameters": ["\\c[27]溢れる精液の感触に"] },
+      { "code": 401, "indent": 5, "parameters": ["最後に１度小さく絶頂して…"] },
+      { "code": 101, "indent": 5, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["\\c[27]ラビはビクンビクンッと身体を震わせながら、"]
+      },
+      {
+        "code": 401,
+        "indent": 5,
+        "parameters": ["その場に力無く崩れ落ちていった…"]
+      },
+      { "code": 0, "indent": 5, "parameters": [] },
+      { "code": 404, "indent": 4, "parameters": [] },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 411, "indent": 3, "parameters": [] },
+      { "code": 222, "indent": 4, "parameters": [] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「う\"っ…\\i[94]！こ、このっ…ふざ…っけ……っ」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビが倒れ込んだその一瞬の隙を逃さず、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ここぞとばかりにゾンビがいきり立った肉棒をねじ込む…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ズブ・・・ズブブブ・・・\\i[93]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\n<ラビ>「はっ…う\"…っ\\i[92]！く…っそ…、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "な、何で…化け物のくせ…に…こんな…良いチンポ……っ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]変異したゾンビの腕力は常人を上回り…、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["一度捕まれば生身のラビがそれに抗う事は難しく…"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビの抵抗にビクともせずに"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ゾンビの肉棒が容赦無くラビの身体を貫く…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{ずぷぷっ・・・\\}\\i[93]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ぐちゅっ・・・ぐちゅちゅ・・・\\i[92]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ん\"っ…ぉ\"…\\i[92]熱…固…っ…\\i[94]\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "ぐっ…ぅ…た、ただこの程度で…アタシが簡単に…っ\\i[92]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a2",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ジュプッ・・・\\i[92]！ジュプッ・・・\\i[92]！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ん\"\\}ぎっ…ぃ\"ぃ\\i[92]！？お\"っ…ちょ、まっ…\\i[94]\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "あ\"っ…\\i[92]ぁ\"っ…\\i[94]あぁ\"っ…\\i[92]ぁあ\"っ…\\i[94]"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["やっ…やめっ…、あ\"っ…ひ…\\i[92]ん\"ぁ\"っっ\\i[93]」"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]強がるラビを打ち砕く様に"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ゾンビが激しく腰を打ち付ける…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]一突き毎にラビの身体が大きく弾かれて、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["変わりに口から小さな喘ぎが漏れていく…。"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{ぐちゅっ・・・\\i[92]！ぐちゅっ・・・\\i[92]！"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["じゅぷっ・・・\\i[94]！じゅぷっ・・・\\i[94]！\\}"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["じゅぼっじゅぼっじゅぼっじゅぼっ・・・\\i[93]！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ぁ\"っ…\\{ひ\\}っ…\\i[93]！…ぜ、全…然…き、気持ちよ…く…っ"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["う\"っ…んんっ…\\i[94]！ちょ…まっ……やば…っ\\i[92]」"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビの膣から溢れ出した大量の愛液が"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["腰を打ち付けられる度に地面へと激しく飛び散る…\\i[94]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]単調だが激しい腰使いと逞しいゾンビのチンポ…、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["その両方が徐々にラビを追い詰めていく…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ジュボッ・・・\\i[92]ジュボ・・・\\i[92]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["グチュッ・・・\\i[94]グチュッ・・・\\i[94]"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ジュプッジュプッジュプッジュプッ・・・！\\i[93]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「ア、アタシが…こんな奴らに…何度…も…ぁ\"っ\\i[92]…"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "イかさ…れるわけ…ぇ…っ\\i[94]あ\"っ…ぎっ…ぃ\"\\i[92]！\\!"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "や\"っ…め…\\{ん\"\\}ぃぃ\"っ…いっ…ん\"んーーっ\\i[93]！」"
+        ]
+      },
+      {
+        "code": 224,
+        "indent": 4,
+        "parameters": [[255, 187, 187, 255], 60, false]
+      },
+      {
+        "code": 231,
+        "indent": 4,
+        "parameters": [
+          2,
+          "a_ゾンビレイプ1ver2_a3",
+          0,
+          0,
+          0,
+          0,
+          100,
+          100,
+          255,
+          0
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 2, 2] },
+      { "code": 401, "indent": 4, "parameters": [""] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{ビクビクビクビクッッッ\\i[92]・・・ッ！\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「っ\\{\\{あ\"\\}っ\\}っや“っ…っっっ\\i[93]！！」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]\\{ドビュッ！\\}ドビュッ…ドピュピュッ…！\\i[93]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]耐え切れず絶頂してしまうラビの肉体…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]それを追い打つように流し込まれるゾンビの精液が"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["ラビに更に強烈な快感を与える…！"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ーーっっ！？\\}\\i[92]っ…ば、ばか…っ…\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["だ、出すタイミ…ング…最悪…っ！や…っ…べ…っ\\i[94]、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["…\\{ん“\\}っ…お“ぉ“っ…お“\\i[93]！！」"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\{ビクンッ・・・\\i[93]！ビクンッ・・・！\\i[93]"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]２回、３回…と立て続けにラビの身体が跳ね上がる…。"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「\\{ふ\\}っ…ぐっ…ぅ“…っ\\i[92]、はぁー…はぁー…っ\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]痙攣する身体を抑え込み、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["何とか必死に呼吸を整えるラビ…"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]どびゅっ・・・びゅるるっ・・・びゅるっ\\i[92]"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「はっ…\\{ん“\\}ぅっ…うっ…\\i[92]はー…はー…\\i[94]」"
+        ]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「こ、こんな…もんか…っ、やっぱ全然…大した事…っ\\i[94]…\\!、"
+        ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["………\\{あ“\\}っふっ…っ！\\i[93]」"]
+      },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      { "code": 401, "indent": 4, "parameters": ["\\c[27]溢れる精液の感触に"] },
+      { "code": 401, "indent": 4, "parameters": ["最後に１度小さく絶頂して…"] },
+      { "code": 101, "indent": 4, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["\\c[27]ラビはビクンビクンッと身体を震わせながら、"]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": ["その場に力無く崩れ落ちていった…"]
+      },
+      { "code": 0, "indent": 4, "parameters": [] },
+      { "code": 412, "indent": 3, "parameters": [] },
+      { "code": 122, "indent": 3, "parameters": [122, 122, 1, 0, 1] },
+      { "code": 122, "indent": 3, "parameters": [123, 123, 1, 0, 1] },
+      { "code": 122, "indent": 3, "parameters": [126, 126, 1, 2, 3, 4] },
+      { "code": 122, "indent": 3, "parameters": [130, 130, 1, 2, 10, 30] },
+      { "code": 326, "indent": 3, "parameters": [0, 0, 0, 0, 1] },
+      { "code": 122, "indent": 3, "parameters": [127, 127, 1, 0, 1] },
+      { "code": 121, "indent": 3, "parameters": [103, 103, 0] },
+      { "code": 0, "indent": 3, "parameters": [] },
+      { "code": 412, "indent": 2, "parameters": [] },
+      { "code": 0, "indent": 2, "parameters": [] },
+      { "code": 412, "indent": 1, "parameters": [] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 356, "indent": 0, "parameters": ["CommonSave save"] },
+      {
+        "code": 108,
+        "indent": 0,
+        "parameters": ["ーーーーー弾薬箱処理ーーーーー"]
+      },
+      { "code": 111, "indent": 0, "parameters": [1, 52, 0, 19, 1] },
+      { "code": 122, "indent": 1, "parameters": [161, 161, 1, 0, 3] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 165, 0] },
+      { "code": 122, "indent": 1, "parameters": [162, 162, 1, 0, 1] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      { "code": 111, "indent": 0, "parameters": [0, 166, 0] },
+      { "code": 122, "indent": 1, "parameters": [163, 163, 1, 0, 5] },
+      { "code": 0, "indent": 1, "parameters": [] },
+      { "code": 412, "indent": 0, "parameters": [] },
+      {
+        "code": 108,
+        "indent": 0,
+        "parameters": ["ーーーーー弾薬箱処理ーーーーー"]
+      },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": ["\\c[27]・・・\\!・・・\\!・・・\\!"]
+      },
+      { "code": 235, "indent": 0, "parameters": [1] },
+      { "code": 235, "indent": 0, "parameters": [2] },
+      { "code": 242, "indent": 0, "parameters": [3] },
+      {
+        "code": 205,
+        "indent": 0,
+        "parameters": [
+          -1,
+          {
+            "list": [{ "code": 39, "indent": null }, { "code": 0 }],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "indent": 0,
+        "parameters": [{ "code": 39, "indent": null }]
+      },
+      { "code": 121, "indent": 0, "parameters": [32, 32, 0] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+      { "code": 401, "indent": 0, "parameters": ["\\c[27]浸食度が上昇した…"] },
+      { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+      {
+        "code": 401,
+        "indent": 0,
+        "parameters": [
+          "\\c[27]\\n<ラビ>「うぅっ・・・、くっそ・・・や・・・め」"
+        ]
+      },
+      { "code": 121, "indent": 0, "parameters": [31, 31, 1] },
+      { "code": 121, "indent": 0, "parameters": [13, 13, 1] },
+      { "code": 244, "indent": 0, "parameters": [] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "エロ(ノーマルゾンビ)",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 20,
+    "list": [
+      { "code": 121, "indent": 0, "parameters": [18, 18, 0] },
+      { "code": 117, "indent": 0, "parameters": [34] },
+      { "code": 117, "indent": 0, "parameters": [32] },
+      { "code": 356, "indent": 0, "parameters": ["ELM Backtype 1"] },
+      { "code": 121, "indent": 0, "parameters": [79, 79, 0] },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          { "name": "Book2", "volume": 80, "pitch": 100, "pan": 0 }
+        ]
+      },
+      { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
+      { "code": 105, "indent": 0, "parameters": [2, false] },
+      { "code": 405, "indent": 0, "parameters": ["【誰かの愚痴】"] },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      { "code": 405, "indent": 0, "parameters": ["あ～あ…面倒くさい…"] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": [
+          "何か知らんが俺が\\c[17]屋上に空いた穴\\c[0]の調査係にされた。"
+        ]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["調査も何もただの老朽化以外無いだろうに…。"]
+      },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["とりあえず穴の回りを囲って鍵掛けといた。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["パスワードは適当に俺の社員番号の末尾3桁。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["別に誰も近づかないだろうし。"]
+      },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["「たぶん老朽化」と適当に報告したら"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["「じゃあ業者呼んで直しておいて」との事。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["…これってただの後始末係だよな。"]
+      },
+      { "code": 117, "indent": 0, "parameters": [33] },
+      { "code": 117, "indent": 0, "parameters": [35] },
+      { "code": 121, "indent": 0, "parameters": [18, 18, 1] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "【メモ】誰かの愚痴",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 21,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 22,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 23,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 24,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 25,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 26,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 27,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 28,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 29,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 30,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 31,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 32,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 33,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 34,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 35,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 36,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 37,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 38,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 39,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 40,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 41,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 42,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 43,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 44,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 45,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 46,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 47,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 48,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 49,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 50,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 51,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 52,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 53,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 54,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 55,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 56,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 57,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 58,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 59,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 60,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 61,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 62,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 63,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 64,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 65,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 66,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 67,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 68,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 69,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 70,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 71,
+    "list": [
+      { "code": 121, "indent": 0, "parameters": [18, 18, 0] },
+      { "code": 117, "indent": 0, "parameters": [34] },
+      { "code": 117, "indent": 0, "parameters": [32] },
+      { "code": 356, "indent": 0, "parameters": ["ELM Backtype 1"] },
+      { "code": 121, "indent": 0, "parameters": [79, 79, 0] },
+      {
+        "code": 250,
+        "indent": 0,
+        "parameters": [
+          { "name": "Book2", "volume": 80, "pitch": 100, "pan": 0 }
+        ]
+      },
+      { "code": 356, "indent": 0, "parameters": ["MWP_INVALID"] },
+      { "code": 105, "indent": 0, "parameters": [2, false] },
+      { "code": 405, "indent": 0, "parameters": ["【誰かの愚痴】"] },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      { "code": 405, "indent": 0, "parameters": ["あ～あ…面倒くさい…"] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": [
+          "何か知らんが俺が\\c[17]屋上に空いた穴\\c[0]の調査係にされた。"
+        ]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["調査も何もただの老朽化以外無いだろうに…。"]
+      },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["とりあえず穴の回りを囲って鍵掛けといた。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["パスワードは適当に俺の社員番号の末尾3桁。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["別に誰も近づかないだろうし。"]
+      },
+      { "code": 405, "indent": 0, "parameters": [""] },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["「たぶん老朽化」と適当に報告したら"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["「じゃあ業者呼んで直しておいて」との事。"]
+      },
+      {
+        "code": 405,
+        "indent": 0,
+        "parameters": ["…これってただの後始末係だよな。"]
+      },
+      { "code": 117, "indent": 0, "parameters": [33] },
+      { "code": 117, "indent": 0, "parameters": [35] },
+      { "code": 121, "indent": 0, "parameters": [18, 18, 1] },
+      { "code": 0, "indent": 0, "parameters": [] }
+    ],
+    "name": "【メモ】誰かの愚痴",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 72,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 73,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 74,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 75,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 76,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 77,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 78,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 79,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 80,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 81,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 82,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 83,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 84,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 85,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 86,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 87,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 88,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 89,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 90,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 91,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 92,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 93,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 94,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 95,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 96,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 97,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 98,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 99,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 100,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 101,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 102,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 103,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 104,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 105,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 106,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 107,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 108,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 109,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 110,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 111,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 112,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 113,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 114,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 115,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 116,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 117,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 118,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 119,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 120,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 121,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 122,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 123,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 124,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 125,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 126,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 127,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 128,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 129,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 130,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 131,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 132,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 133,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 134,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 135,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 136,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 137,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 138,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 139,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 140,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 141,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 142,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 143,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 144,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 145,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 146,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 147,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 148,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 149,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  },
+  {
+    "id": 150,
+    "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+    "name": "",
+    "switchId": 1,
+    "trigger": 0
+  }
+]

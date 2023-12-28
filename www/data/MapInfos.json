@@ -1,0 +1,328 @@
+[
+  null,
+  {
+    "id": 1,
+    "expanded": false,
+    "name": "城外観(撮影用",
+    "order": 21,
+    "parentId": 35,
+    "scrollX": 1062,
+    "scrollY": 800
+  },
+  {
+    "id": 2,
+    "expanded": false,
+    "name": "スタートマップ",
+    "order": 2,
+    "parentId": 0,
+    "scrollX": 1072.6666666666667,
+    "scrollY": 596
+  },
+  null,
+  {
+    "id": 4,
+    "expanded": true,
+    "name": "城内",
+    "order": 3,
+    "parentId": 0,
+    "scrollX": 1072.6666666666667,
+    "scrollY": 596
+  },
+  {
+    "id": 5,
+    "expanded": true,
+    "name": "エントランス",
+    "order": 4,
+    "parentId": 4,
+    "scrollX": 1194,
+    "scrollY": 646.6666666666666
+  },
+  {
+    "id": 6,
+    "expanded": false,
+    "name": "休憩室",
+    "order": 5,
+    "parentId": 5,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 7,
+    "expanded": false,
+    "name": "西側廊下",
+    "order": 6,
+    "parentId": 5,
+    "scrollX": 1062,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 8,
+    "expanded": false,
+    "name": "宝物庫",
+    "order": 7,
+    "parentId": 5,
+    "scrollX": 1062,
+    "scrollY": 772
+  },
+  {
+    "id": 9,
+    "expanded": true,
+    "name": "東側廊下",
+    "order": 8,
+    "parentId": 5,
+    "scrollX": 1062,
+    "scrollY": 770.6666666666666
+  },
+  {
+    "id": 10,
+    "expanded": false,
+    "name": "1F最東部屋",
+    "order": 12,
+    "parentId": 5,
+    "scrollX": 1379.142857142857,
+    "scrollY": 766.2857142857142
+  },
+  {
+    "id": 11,
+    "expanded": false,
+    "name": "左の部屋",
+    "order": 9,
+    "parentId": 9,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 12,
+    "expanded": false,
+    "name": "中央の部屋",
+    "order": 10,
+    "parentId": 9,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 13,
+    "expanded": false,
+    "name": "右の部屋",
+    "order": 11,
+    "parentId": 9,
+    "scrollX": 1214,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 14,
+    "expanded": true,
+    "name": "地下への梯子",
+    "order": 13,
+    "parentId": 5,
+    "scrollX": 1214,
+    "scrollY": 770.6666666666666
+  },
+  {
+    "id": 15,
+    "expanded": true,
+    "name": "地下1",
+    "order": 14,
+    "parentId": 14,
+    "scrollX": 1203.3333333333333,
+    "scrollY": 753.3333333333334
+  },
+  {
+    "id": 16,
+    "expanded": true,
+    "name": "2Fエントランス",
+    "order": 22,
+    "parentId": 4,
+    "scrollX": 1379.142857142857,
+    "scrollY": 766.2857142857142
+  },
+  {
+    "id": 17,
+    "expanded": false,
+    "name": "2F西部屋",
+    "order": 23,
+    "parentId": 16,
+    "scrollX": 1322,
+    "scrollY": 800
+  },
+  {
+    "id": 18,
+    "expanded": false,
+    "name": "2F西側廊下",
+    "order": 24,
+    "parentId": 16,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 19,
+    "expanded": false,
+    "name": "2F蔵書室",
+    "order": 25,
+    "parentId": 16,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 20,
+    "expanded": true,
+    "name": "2F東側廊下",
+    "order": 26,
+    "parentId": 16,
+    "scrollX": 1062,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 21,
+    "expanded": false,
+    "name": "2F最東部屋",
+    "order": 31,
+    "parentId": 16,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 22,
+    "expanded": false,
+    "name": "左の部屋",
+    "order": 27,
+    "parentId": 20,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 23,
+    "expanded": false,
+    "name": "右の部屋",
+    "order": 30,
+    "parentId": 20,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 24,
+    "expanded": true,
+    "name": "中央の部屋",
+    "order": 28,
+    "parentId": 20,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 926.6666666666666
+  },
+  {
+    "id": 25,
+    "expanded": false,
+    "name": "ボス部屋",
+    "order": 32,
+    "parentId": 16,
+    "scrollX": 1338,
+    "scrollY": 800
+  },
+  {
+    "id": 26,
+    "expanded": false,
+    "name": "2Fエントランス西部屋",
+    "order": 33,
+    "parentId": 16,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 27,
+    "expanded": true,
+    "name": "2Fエントランス東部屋",
+    "order": 34,
+    "parentId": 16,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 28,
+    "expanded": true,
+    "name": "地下2",
+    "order": 16,
+    "parentId": 14,
+    "scrollX": 1078,
+    "scrollY": 770.6666666666666
+  },
+  {
+    "id": 29,
+    "expanded": false,
+    "name": "触手地獄エリア",
+    "order": 17,
+    "parentId": 28,
+    "scrollX": 1338,
+    "scrollY": 816
+  },
+  {
+    "id": 30,
+    "expanded": false,
+    "name": "出口",
+    "order": 18,
+    "parentId": 28,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 854.6666666666666
+  },
+  {
+    "id": 31,
+    "expanded": false,
+    "name": "中央の部屋(爆破後",
+    "order": 29,
+    "parentId": 24,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 908
+  },
+  {
+    "id": 32,
+    "expanded": false,
+    "name": "2Fエントランス東部屋(糸除去",
+    "order": 35,
+    "parentId": 27,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 800
+  },
+  {
+    "id": 33,
+    "expanded": true,
+    "name": "エントランス(落下イベ用",
+    "order": 36,
+    "parentId": 27,
+    "scrollX": 1204.6666666666667,
+    "scrollY": 585.3333333333334
+  },
+  {
+    "id": 34,
+    "expanded": false,
+    "name": "触手埋もれ場所",
+    "order": 19,
+    "parentId": 28,
+    "scrollX": 1214,
+    "scrollY": 800
+  },
+  {
+    "id": 35,
+    "expanded": true,
+    "name": "城外観",
+    "order": 20,
+    "parentId": 5,
+    "scrollX": 1062,
+    "scrollY": 844
+  },
+  {
+    "id": 36,
+    "expanded": false,
+    "name": "地下1(出産バッド用",
+    "order": 15,
+    "parentId": 15,
+    "scrollX": 1203.3333333333333,
+    "scrollY": 760
+  },
+  {
+    "id": 37,
+    "expanded": false,
+    "name": "リオ事務所",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 1379.142857142857,
+    "scrollY": 766.2857142857142
+  }
+]

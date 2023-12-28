@@ -1,0 +1,883 @@
+[
+  null,
+  {
+    "id": 1,
+    "animationId": 6,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 97,
+    "name": "剣",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 2
+  },
+  {
+    "id": 2,
+    "animationId": 6,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 99,
+    "name": "斧",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 4
+  },
+  {
+    "id": 3,
+    "animationId": 1,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 101,
+    "name": "杖",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 6
+  },
+  {
+    "id": 4,
+    "animationId": 11,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 102,
+    "name": "弓",
+    "note": "",
+    "params": [0, 0, 10, 0, 0, 0, 0, 0],
+    "price": 500,
+    "wtypeId": 7
+  },
+  {
+    "id": 5,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "----↓スキルツリー用↓----",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 6,
+    "animationId": 0,
+    "description": "基本ステータスを強化します",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 82,
+    "name": "ステータスアップ",
+    "note": "<Set Sts Data>\nskill: 12, 0, 23\nrequired: a.level >= 1\n</Set Sts Data>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 15
+  },
+  {
+    "id": 7,
+    "animationId": 0,
+    "description": "忍術を強化します",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 64,
+    "name": "忍術",
+    "note": "<Set Sts Data>\nskill: 30, 0, 41\nrequired: a.level >= 1\n</Set Sts Data>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 15
+  },
+  {
+    "id": 8,
+    "animationId": 0,
+    "description": "房中術を強化、\nより美味しくおにぎりを食べられる",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 247,
+    "name": "房中術・おにぎり",
+    "note": "<Set Sts Data>\nskill: 38, 0\nrequired: a.level >= 1\n</Set Sts Data>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 15
+  },
+  {
+    "id": 9,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 10,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 11,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 12,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "----↓性格設定用リオRE1↓----",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 13,
+    "animationId": 0,
+    "description": "魔物の精液を魔力に変換して放つリオの必殺退魔術。\n厳密には毎回魔物に犯される必要は特に無い。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 79,
+    "name": "精滅破",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 14,
+    "animationId": 0,
+    "description": "人とも魔物とも積極的にセッ〇スする筋金入りのビッチ。\n類まれな美貌を自覚しており隙あらば誘惑する。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 91,
+    "name": "ビッチ",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 15,
+    "animationId": 0,
+    "description": "肉体への刺激はほぼ全てに性的快感を感じる肉便器肌。\nまたM気質も強く乱暴に体を凌辱されるとより強く快楽を感じる。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 91,
+    "name": "肉便器級",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 16,
+    "animationId": 0,
+    "description": "エロい行為は基本何でも強い快楽を感じるが\n口、マ〇コ、ア〇ルを同時に責められるとすぐイってしまう",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 91,
+    "name": "二穴、三穴責め",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 17,
+    "animationId": 0,
+    "description": "リオの体内(子宮)に施された人、魔物両方に有効な避妊結界。\nほとんどの妊娠を防げるが…例外・弱点も存在する。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 79,
+    "name": "避妊術",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 18,
+    "animationId": 0,
+    "description": "リオの身体能力を底上げしている強化術。\n成人男性と同等かそれ以上の力と、肉体耐久力を得る。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 79,
+    "name": "肉体強化術",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 19,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 41,
+    "name": "術力ブースト",
+    "note": "<itemCategory:装備>",
+    "params": [0, 150, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 20,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 21,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 22,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 23,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 24,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 25,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 26,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 27,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 28,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 29,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 30,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 31,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 32,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 33,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 34,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 35,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 36,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 37,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 38,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 39,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 40,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "▼武器",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 41,
+    "animationId": 0,
+    "description": "ラビの愛銃。癖がなく使いやすい。\n【威力：20】【初期射程：5】",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 104,
+    "name": "ハンドガン",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 19, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 9
+  },
+  {
+    "id": 42,
+    "animationId": 0,
+    "description": "近距離の広範囲に銃弾をばらまく散弾銃。\n【威力：30】【初期射程：2】【放射状に発射】",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 104,
+    "name": "ショットガン",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 29, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 9
+  },
+  {
+    "id": 43,
+    "animationId": 0,
+    "description": "威力は低いが連射性能に優れた銃。\n【威力：15】【初期射程：4】【連射性能に優れる】",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 104,
+    "name": "サブマシンガン",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 14, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 9
+  },
+  {
+    "id": 44,
+    "animationId": 0,
+    "description": "広範囲に高威力の爆発を起こす。ゾンビは死ぬ。\n【威力：300】【初期射程：6】【爆発】",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 118,
+    "name": "ロケットランチャー",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 299, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 9
+  },
+  {
+    "id": 45,
+    "animationId": 0,
+    "description": "ラビの愛ナイフ。あると色々便利。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 96,
+    "name": "ナイフ",
+    "note": "<itemCategory:装備>",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 46,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 47,
+    "animationId": 0,
+    "description": "木材で作った手裏剣。\n殺傷力はかなり低い。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 71,
+    "name": "木製手裏剣",
+    "note": "<composite:1,i6,5,i26,1,0,0>\n<itemCategory:装備>",
+    "params": [0, 0, 1, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 48,
+    "animationId": 0,
+    "description": "鉄製の一般的な手裏剣。\n刺さるとそこそこ痛い。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 71,
+    "name": "手裏剣",
+    "note": "<composite:1,i5,10,i27,1,0,0>\n<itemCategory:装備>",
+    "params": [0, 0, 3, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 49,
+    "animationId": 0,
+    "description": "品質の良い手裏剣。\nワンランク上の忍びへ・・・。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 71,
+    "name": "手裏剣(高品質)",
+    "note": "<composite:1,i5,10,i6,10,i4,5,i28,1,0,0>\n<itemCategory:装備>",
+    "params": [0, 0, 3, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 50,
+    "animationId": 0,
+    "description": "触れるモノ全てを切り裂く呪われし手裏剣。\n扱いが非常に難しい。・・・という噂。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 71,
+    "name": "手裏剣・村正",
+    "note": "<composite:1,i5,20,i4,10,i10,5,i12,5,i29,1,0,0>\n<itemCategory:装備>",
+    "params": [0, 0, 6, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 51,
+    "animationId": 0,
+    "description": "妙に手になじむ金色の手裏剣。\n光速・・・っぽい速度で飛んでいく。",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 71,
+    "name": "金色手裏剣",
+    "note": "<composite:1,i7,5,i4,10,i11,5,i30,1,0,0>\n<itemCategory:装備>",
+    "params": [0, 0, 12, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 52,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 53,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 54,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 55,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      { "code": 31, "dataId": 1, "value": 0 },
+      { "code": 22, "dataId": 0, "value": 0 }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [0, 0, 0, 0, 0, 0, 0, 0],
+    "price": 0,
+    "wtypeId": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  null,
+  {
+    "id": 1,
+    "battlerName": "Actor1_1",
+    "characterIndex": 0,
+    "characterName": "rioRE1_actor1",
+    "classId": 1,
+    "equips": [13, 9, 10, 11, 12, 13],
+    "faceIndex": 0,
+    "faceName": "caraface1",
+    "traits": [
+      { "code": 53, "dataId": 2, "value": 1 },
+      { "code": 53, "dataId": 1, "value": 1 },
+      { "code": 53, "dataId": 3, "value": 1 },
+      { "code": 53, "dataId": 4, "value": 1 },
+      { "code": 53, "dataId": 5, "value": 1 },
+      { "code": 53, "dataId": 6, "value": 1 },
+      { "code": 62, "dataId": 3, "value": 1 }
+    ],
+    "initialLevel": 50,
+    "maxLevel": 50,
+    "name": "リオ",
+    "nickname": "ビッチ",
+    "note": "<CSS_画像:menu_tachi1>\nImage Position 0\n</CSS_画像>\n",
+    "profile": "魔物退魔を生業とする一流(自称)退魔師。\nエロスを好む筋金入りのビッチ。"
+  },
+  {
+    "id": 2,
+    "battlerName": "Actor1_1",
+    "characterIndex": 0,
+    "characterName": "gun_actor6",
+    "classId": 1,
+    "equips": [0, 0, 0, 0, 31],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [
+      { "code": 53, "dataId": 2, "value": 1 },
+      { "code": 53, "dataId": 1, "value": 1 }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 50,
+    "name": "職員の男",
+    "nickname": "眼鏡職員",
+    "note": "<Set Sts Data>\nTreeType: 6, 7\nInit Sp: 0\n</Set Sts Data>\n<stand_picture:menu_tachi1>",
+    "profile": "眼鏡がトレードマークの研究所職員。\n優男だがよく見ると結構イケメン。"
+  },
+  {
+    "id": 3,
+    "battlerName": "Actor1_1",
+    "characterIndex": 0,
+    "characterName": "rio7_actor1",
+    "classId": 1,
+    "equips": [0, 0, 0, 0, 31],
+    "faceIndex": 0,
+    "faceName": "caraface1",
+    "traits": [
+      { "code": 53, "dataId": 2, "value": 1 },
+      { "code": 53, "dataId": 1, "value": 1 },
+      { "code": 62, "dataId": 3, "value": 1 }
+    ],
+    "initialLevel": 50,
+    "maxLevel": 50,
+    "name": "リオ(旧",
+    "nickname": "戦場のウサギ",
+    "note": "<Set Sts Data>\nTreeType: 6, 7\nInit Sp: 0\n</Set Sts Data>\n<stand_picture:menu_tachi1>",
+    "profile": "民間の人材派遣会社所属の女工作員。\n黙っていれば美女だが気性は荒め。"
+  },
+  {
+    "id": 4,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [0, 0, 0, 0, 0],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  }
+]
