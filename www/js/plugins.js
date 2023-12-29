@@ -57,44 +57,41 @@ var $plugins = [
       "Actor Icon Start Index": "320",
       "Reward Popup Delay": "0",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
-      "Get Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[24]手に入れた！",
-      "Lost Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[2]失った・・・",
-      "Get Item Text":
-        "「\\I[_icon]_name」 を\\C[24]手に入れた！\\n\\C[6]_desc1",
+      "Get Gold Text": "Obtained 「\\I[_icon]_num\\C[14]\\G\\C[0]」!",
+      "Lost Gold Text": "Lost 「\\I[_icon]_num\\C[14]\\G\\C[0]」...",
+      "Get Item Text": "Obtained 「\\I[_icon]_name」!\\C[24]\\n\\C[6]_desc1",
       "Lost Item Text": "",
       "Get Item Text Num":
-        "「\\I[_icon]_name」 を\\C[14]_num個\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "Obtained 「\\I[_icon]_name」! \\C[14]_num\\C[24] items!\\n\\C[6]_desc1",
       "Lost Item Text Num":
-        "「\\I[_icon]_name」を\\C[14]_num個\\C[2]使った\\n\\C[6]_desc1",
+        "Used 「\\I[_icon]_name」 \\C[14]_num\\C[2] items!\\n\\C[6]_desc1",
       "Get Skill Text":
-        "_actorは「\\I[_icon]_name」 を\\C[24]覚えた！\\n\\C[6]_desc1",
+        "_actor learned 「\\I[_icon]_name」!\\C[24]\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」を \\C[2]忘れてしまった・・・\\n\\C[6]_desc1",
+        "_actor forgot 「\\I[_icon]_name」...\\C[2]\\n\\C[6]_desc1",
       "Exp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[14]_num\\C[0] \\C[4]_name\\C[0] points!",
       "Exp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[14]_num\\C[0] \\C[4]_name\\C[0] points...\\C[2]",
       "Lv Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num points!",
       "Lv Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num points...\\C[2]",
       "Param Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num points!",
       "Param Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num points...\\C[2]",
       "Abp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[14]_num\\C[0] \\C[4]_name\\C[0] points!",
       "Abp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[14]_num\\C[0] \\C[4]_name\\C[0] points...\\C[2]",
       "Class Lv Up Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_class _name\\C[0] increased by \\C[14]_num points!",
       "Class Lv Down Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_class _name\\C[0] decreased by \\C[14]_num points...\\C[2]",
       "Formation Lv Up Text":
-        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
-      "Formation Lv Max Text": "\\C[4]_name\\C[0]を\\C[14]マスターした！",
+        "\\C[4]_name's proficiency\\C[0] increased by \\C[14]_num points!",
+      "Formation Lv Max Text": "\\C[4]_name\\C[0] mastered!\\C[14]",
     },
   },
   {
@@ -1622,14 +1619,14 @@ var $plugins = [
       "Gauge 0 Color1": "17",
       "Gauge 0 Color2": "6",
       "--Gauge Param 1--": "",
-      "Gauge 1 Display Name": "発情度合",
+      "Gauge 1 Display Name": "Lewdness",
       "Gauge 1 References": "",
       "Gauge 1 Current": "v[42]",
       "Gauge 1 Max": "v[43]",
       "Gauge 1 Color1": "27",
       "Gauge 1 Color2": "30",
       "--Gauge Param 2--": "",
-      "Gauge 2 Display Name": "聖水依存度",
+      "Gauge 2 Display Name": "Holy Power",
       "Gauge 2 References": "",
       "Gauge 2 Current": "v[44]",
       "Gauge 2 Max": "v[45]",
@@ -1643,7 +1640,7 @@ var $plugins = [
       "Gauge 3 Color1": "18",
       "Gauge 3 Color2": "27",
       "--Gauge Param 4--": "",
-      "Gauge 4 Display Name": "口技",
+      "Gauge 4 Display Name": "Oral Skill",
       "Gauge 4 References": "",
       "Gauge 4 Current": "v[51]*10 / v[52]",
       "Gauge 4 Max": "v[52]",
@@ -1657,21 +1654,21 @@ var $plugins = [
       "Gauge 5 Color1": "18",
       "Gauge 5 Color2": "27",
       "--Gauge Param 6--": "",
-      "Gauge 6 Display Name": "膣圧",
+      "Gauge 6 Display Name": "Tightness",
       "Gauge 6 References": "",
       "Gauge 6 Current": "v[55]",
       "Gauge 6 Max": "v[56]",
       "Gauge 6 Color1": "18",
       "Gauge 6 Color2": "27",
       "--Gauge Param 7--": "",
-      "Gauge 7 Display Name": "快楽",
+      "Gauge 7 Display Name": "Pleasure",
       "Gauge 7 References": "",
       "Gauge 7 Current": "v[57]*5 / v[58]",
       "Gauge 7 Max": "v[58]",
       "Gauge 7 Color1": "18",
       "Gauge 7 Color2": "27",
       "--Gauge Param 8--": "",
-      "Gauge 8 Display Name": "聖水",
+      "Gauge 8 Display Name": "Holy Power",
       "Gauge 8 References": "",
       "Gauge 8 Current": "v[59]*5 / v[60]",
       "Gauge 8 Max": "v[60]",
@@ -1698,14 +1695,14 @@ var $plugins = [
     parameters: {
       "--簡易ステータス表示--": "",
       statusList:
-        '["{\\"text\\":\\"image(%1)\\",\\"value\\":\\"\\",\\"x\\":\\"0\\",\\"y\\":\\"0\\",\\"width\\":\\"600\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\{\\\\\\\\c[27]リオ\\\\\\\\c[0] \\\\\\\\}\\\\\\\\}-退魔師-\\",\\"x\\":\\"20\\",\\"y\\":\\"20\\",\\"width\\":\\"200\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}【\\\\\\\\c[27]年齢\\\\\\\\c[0]】10代\\",\\"x\\":\\"20\\",\\"y\\":\\"70\\",\\"width\\":\\"0\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}魔物退治を生業にする\\\\\\\\<br>一流(自称)の退魔師。\\",\\"x\\":\\"20\\",\\"y\\":\\"100\\",\\"width\\":\\"198\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}\\\\\\\\c[27]エッチな事\\\\\\\\c[0]、\\\\\\\\c[27]性的快楽\\\\\\\\c[0]を好む\\\\\\\\c[27]ビッチ\\\\\\\\c[0]。\\\\\\\\<br>その対象は人・魔物を問わない。\\\\\\\\<br>\\\\\\\\<br>一歩間違えれば\\\\\\\\c[18]身の破滅\\\\\\\\c[0]に\\\\\\\\<br>繋がる性生活を送っているが\\\\\\\\<br>本人はそれ込みで楽しんでおり\\\\\\\\<br>\\\\\\\\<br>\\\\\\\\c[18]その日\\\\\\\\c[0]が来るまでこの生き方を\\\\\\\\<br>続けるつもりらしい。\\",\\"x\\":\\"20\\",\\"y\\":\\"400\\",\\"width\\":\\"198\\"}"]',
+        '["{\\"text\\":\\"image(%1)\\",\\"value\\":\\"\\",\\"x\\":\\"0\\",\\"y\\":\\"0\\",\\"width\\":\\"600\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\{\\\\\\\\c[27]Rio\\\\\\\\c[0] \\\\\\\\}\\\\\\\\}-Exorcist-\\",\\"x\\":\\"20\\",\\"y\\":\\"20\\",\\"width\\":\\"200\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}【\\\\\\\\c[27]Age\\\\\\\\c[0]】10th Gen\\",\\"x\\":\\"20\\",\\"y\\":\\"70\\",\\"width\\":\\"0\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}Slaying monsters is the livelihood of \\\\\\\\<br>a self-proclaimed top-notch exorcist.\\",\\"x\\":\\"20\\",\\"y\\":\\"100\\",\\"width\\":\\"198\\"}","{\\"text\\":\\"text(%1)\\",\\"value\\":\\"\\\\\\\\}\\\\\\\\c[27]Loves \\\\\\\\c[27]naughty things \\\\\\\\c[0], \\\\\\\\c[27]sexual pleasure \\\\\\\\c[0], and \\\\\\\\c[27]is promiscuous. \\\\\\\\c[0]\\\\\\\\<br>Their targets include humans and creatures alike. \\\\\\\\<br>\\\\\\\\<br>One misstep could lead to \\\\\\\\c[18]ruin.\\\\\\\\<br>\\\\\\\\c[0]Despite living a reckless\\\\\\\\<br>sexual life, they seem to be enjoying it. \\\\\\\\<br>\\\\\\\\<br>\\\\\\\\c[18] They seem intent on continuing this way of life until \\\\\\\\c[0]that day\\\\\\\\c[0] arrives.\\",\\"x\\":\\"20\\",\\"y\\":\\"400\\",\\"width\\":\\"198\\"}"]',
       "Actor Status Space In Text": "5",
       "--ステータスウィンドウ設定--": "",
       "Enabled Custom Window": "1",
       "Number Max Cols": "1",
       "Cursor Line Number": "2",
       "Cursor Height Space": "100",
-      "Font Size": "22",
+      "Font Size": "24",
       "Window Padding": "0",
       "Window Line Height": "36",
       "Window Opacity": "0",
