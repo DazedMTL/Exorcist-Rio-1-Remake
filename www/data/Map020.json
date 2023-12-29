@@ -670,7 +670,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[28]If there's kindling\\c[0], it looks like we\ncan start a fire..."
+                "\\c[28]If there's a lighter\\c[0], it looks like we\ncan start a fire..."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [8, 11] },
