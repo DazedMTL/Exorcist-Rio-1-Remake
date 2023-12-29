@@ -50,12 +50,12 @@
   "elements": ["", "物理", "炎", "氷", "雷", "水", "土", "風", "光", "闇"],
   "equipTypes": [
     "",
-    "Expert Demon Exorcism Technique",
+    "Exorcism Technique",
     "Personality",
-    "Sexual Sensitivity",
+    "Sensitivity",
     "Weak Point",
-    "Enchantment Magic 1",
-    "Enchantment Magic 2"
+    "Enchantment 1",
+    "Enchantment 2"
   ],
   "gameTitle": "Exorcist Rio RE-1 v1.01",
   "gameoverMe": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
