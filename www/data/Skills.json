@@ -250,7 +250,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Blow flames forward. Activate by holding down the attack (z) button.",
+    "description": "Blow flames forward. Activate by holding down the attack (z)\nbutton.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 64,
@@ -280,7 +280,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Become invisible and erase your presence. Activate with the V key.",
+    "description": "Become invisible and erase your presence. Activate with the\nV key.",
     "effects": [],
     "hitType": 2,
     "iconIndex": 19,
@@ -880,7 +880,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The first strike of a normal attack during the activation of the Hermit\nTechnique deals double damage.",
+    "description": "The first strike of a normal attack during the activation of\nthe Hermit Technique deals double damage.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 78,
@@ -910,7 +910,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The second hit of a normal attack during the activation of the Concealment\nTechnique deals double damage.",
+    "description": "The second hit of a normal attack during the activation of\nthe Concealment Technique deals double damage.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 78,
@@ -940,7 +940,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Normal attack during the activation of the Hermit Technique, the third strike,\ndeals five times the damage.",
+    "description": "Normal attack during the activation of the Hermit Technique,\nthe third strike, deals five times the damage.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 78,
@@ -1090,7 +1090,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The power of the Fire Release technique increases moderately.",
+    "description": "The power of the Fire Release technique increases\nmoderately.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 64,
@@ -1150,7 +1150,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The amount of health restored when eating onigiri becomes 40.",
+    "description": "The amount of health restored when eating onigiri becomes\n40.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 247,
@@ -1180,7 +1180,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Eating onigiri restores 60 health points and 100 magic points.",
+    "description": "Eating onigiri restores 60 health points and 100 magic\npoints.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 247,
@@ -1210,7 +1210,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A secret technique that allows instant travel to that location when using a\nsouvenir.",
+    "description": "A secret technique that allows instant travel to that\nlocation when using a souvenir.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 82,
@@ -1240,7 +1240,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Bombs set and detonated during the activation of the Art of Concealment will\nhave twice the destructive power.",
+    "description": "Bombs set and detonated during the activation of the Art of\nConcealment will have twice the destructive power.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 248,
@@ -1270,7 +1270,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Bombs set and detonated during the activation of the Art of Concealment will\nhave triple the destructive power.",
+    "description": "Bombs set and detonated during the activation of the Art of\nConcealment will have triple the destructive power.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 248,
@@ -1300,7 +1300,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The power of the Fire Release technique increases dramatically.",
+    "description": "The power of the Fire Release technique increases\ndramatically.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 64,
@@ -1480,7 +1480,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "[The next slash attack damage will be tripled for one time only.]",
+    "description": "[The next slash attack damage will be tripled for one time\nonly.]",
     "effects": [{ "code": 44, "dataId": 132, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 76,
@@ -1540,7 +1540,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Replenish the ammunition of the weapons you own to the maximum.",
+    "description": "Replenish the ammunition of the weapons you own to the\nmaximum.",
     "effects": [{ "code": 44, "dataId": 131, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 75,

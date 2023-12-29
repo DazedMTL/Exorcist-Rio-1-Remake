@@ -115,7 +115,7 @@
   {
     "id": 8,
     "animationId": 0,
-    "description": "Enhance the bedroom techniques to enjoy onigiri even more deliciously.",
+    "description": "Enhance the bedroom techniques to enjoy onigiri even more\ndeliciously.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -195,7 +195,7 @@
   {
     "id": 13,
     "animationId": 0,
-    "description": "Rio's ultimate exorcism technique, which converts the essence of monsters into\nmagical energy and releases it. Strictly speaking, there's no particular need to\nbe violated by monsters every time.",
+    "description": "Rio's ultimate exorcism technique, which converts the\nessence of monsters into magical energy and releases it.\nStrictly speaking, there's no particular need to be violated\nby monsters every time.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -211,7 +211,7 @@
   {
     "id": 14,
     "animationId": 0,
-    "description": "A hardcore bitch who actively has sex with both humans and monsters. Aware of\nher exceptional beauty, she tempts at every opportunity.",
+    "description": "A hardcore bitch who actively has sex with both humans and\nmonsters. Aware of her exceptional beauty, she tempts at\nevery opportunity.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -227,7 +227,7 @@
   {
     "id": 15,
     "animationId": 0,
-    "description": "A flesh toilet skin that feels sexual pleasure from almost any physical\nstimulation. Also, with a strong masochistic temperament, the rougher the body\nis violated, the more intense the pleasure felt.",
+    "description": "A flesh toilet skin that feels sexual pleasure from almost\nany physical stimulation. Also, with a strong masochistic\ntemperament, the rougher the body is violated, the more\nintense the pleasure felt.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -243,7 +243,7 @@
   {
     "id": 16,
     "animationId": 0,
-    "description": "Lewd acts generally make me feel intense pleasure, but when my mouth, pussy, and\nass are pleasured at the same time, I come immediately.",
+    "description": "Lewd acts generally make me feel intense pleasure, but when\nmy mouth, pussy, and ass are pleasured at the same time, I\ncome immediately.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -259,7 +259,7 @@
   {
     "id": 17,
     "animationId": 0,
-    "description": "A contraceptive barrier effective against both humans and monsters has been\nplaced inside Rio's body (womb). It can prevent most pregnancies, but... there\nare exceptions and weaknesses.",
+    "description": "A contraceptive barrier effective against both humans and\nmonsters has been placed inside Rio's body (womb). It can\nprevent most pregnancies, but... there are exceptions and\nweaknesses.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -275,7 +275,7 @@
   {
     "id": 18,
     "animationId": 0,
-    "description": "An enhancement technique that boosts Rio's physical abilities. She gains\nstrength equal to or greater than that of an adult male, along with increased\nphysical endurance.",
+    "description": "An enhancement technique that boosts Rio's physical\nabilities. She gains strength equal to or greater than that\nof an adult male, along with increased physical endurance.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -643,7 +643,7 @@
   {
     "id": 41,
     "animationId": 0,
-    "description": "Rabi's beloved gun. Easy to handle with no quirks. 【Power: 20】【Initial Range: 5】",
+    "description": "Rabi's beloved gun. Easy to handle with no quirks. 【Power:\n20】【Initial Range: 5】",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -659,7 +659,7 @@
   {
     "id": 42,
     "animationId": 0,
-    "description": "A shotgun that scatters bullets over a wide area at close range. [Power:\n30][Initial Range: 2][Fires in a radial pattern]",
+    "description": "A shotgun that scatters bullets over a wide area at close\nrange. [Power: 30][Initial Range: 2][Fires in a radial\npattern]",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -675,7 +675,7 @@
   {
     "id": 43,
     "animationId": 0,
-    "description": "A gun with low power but excellent rapid-fire capabilities. 【Power: 15】【Initial\nRange: 4】【Excellent Rapid-Fire Performance】",
+    "description": "A gun with low power but excellent rapid-fire capabilities.\n【Power: 15】【Initial Range: 4】【Excellent Rapid-Fire\nPerformance】",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -691,7 +691,7 @@
   {
     "id": 44,
     "animationId": 0,
-    "description": "Causes a high-powered explosion over a wide area. Zombies will die. 【Power:\n300】【Initial Range: 6】【Explosion】",
+    "description": "Causes a high-powered explosion over a wide area. Zombies\nwill die. 【Power: 300】【Initial Range: 6】【Explosion】",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -755,7 +755,7 @@
   {
     "id": 48,
     "animationId": 0,
-    "description": "A typical iron shuriken. It hurts quite a bit when it sticks.",
+    "description": "A typical iron shuriken. It hurts quite a bit when it\nsticks.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -787,7 +787,7 @@
   {
     "id": 50,
     "animationId": 0,
-    "description": "The cursed shuriken that slices through everything it touches. It's said to be\nextremely difficult to handle... that's the rumor.",
+    "description": "The cursed shuriken that slices through everything it\ntouches. It's said to be extremely difficult to handle...\nthat's the rumor.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
@@ -803,7 +803,7 @@
   {
     "id": 51,
     "animationId": 0,
-    "description": "A golden shuriken that fits oddly well in the hand. It flies at a speed that\nseems almost like the speed of light.",
+    "description": "A golden shuriken that fits oddly well in the hand. It flies\nat a speed that seems almost like the speed of light.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },

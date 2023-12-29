@@ -3,7 +3,7 @@
   {
     "id": 1,
     "atypeId": 5,
-    "description": "A name given away by her love for rabbits. However, she herself is not entirely\ndispleased with it.",
+    "description": "A name given away by her love for rabbits. However, she\nherself is not entirely displeased with it.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 87,
@@ -15,7 +15,7 @@
   {
     "id": 2,
     "atypeId": 1,
-    "description": "Rabi is secretly keeping a male rabbit in her room. However, all her friends\nknow about it. She's planning to get a female rabbit for him soon.",
+    "description": "Rabi is secretly keeping a male rabbit in her room. However,\nall her friends know about it. She's planning to get a\nfemale rabbit for him soon.",
     "etypeId": 3,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 23,
@@ -27,7 +27,7 @@
   {
     "id": 3,
     "atypeId": 1,
-    "description": "If he's handsome, I wouldn't mind sleeping with him. When I get irritated, I\nwant to have sex to relieve stress.",
+    "description": "If he's handsome, I wouldn't mind sleeping with him. When I\nget irritated, I want to have sex to relieve stress.",
     "etypeId": 4,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 7,
@@ -39,7 +39,7 @@
   {
     "id": 4,
     "atypeId": 1,
-    "description": "There's no way I'd be happy about being bullied. ...But still...?",
+    "description": "There's no way I'd be happy about being bullied. ...But\nstill...?",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 5,
@@ -75,7 +75,7 @@
   {
     "id": 7,
     "atypeId": 1,
-    "description": "[Attack Power +2][Max HP -75][Max Magic Power -200] An overly bloodstained\ncharm. It feels like the cost outweighs the benefits.",
+    "description": "[Attack Power +2][Max HP -75][Max Magic Power -200] An\noverly bloodstained charm. It feels like the cost outweighs\nthe benefits.",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 147,
@@ -99,7 +99,7 @@
   {
     "id": 9,
     "atypeId": 1,
-    "description": "A hardcore slut who actively has sex with both humans and monsters. Aware of her\nexceptional beauty, she takes every opportunity to seduce.",
+    "description": "A hardcore slut who actively has sex with both humans and\nmonsters. Aware of her exceptional beauty, she takes every\nopportunity to seduce.",
     "etypeId": 2,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
@@ -111,7 +111,7 @@
   {
     "id": 10,
     "atypeId": 1,
-    "description": "A flesh toilet skin that feels sexual pleasure from almost all physical stimuli.\nAlso has a strong masochistic temperament, feeling even greater pleasure when\ntreated roughly.",
+    "description": "A flesh toilet skin that feels sexual pleasure from almost\nall physical stimuli. Also has a strong masochistic\ntemperament, feeling even greater pleasure when treated\nroughly.",
     "etypeId": 3,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
@@ -123,7 +123,7 @@
   {
     "id": 11,
     "atypeId": 1,
-    "description": "Lewd acts generally make me feel intense pleasure, but when my mouth, pussy, and\nass are pleasured at the same time, I come immediately.",
+    "description": "Lewd acts generally make me feel intense pleasure, but when\nmy mouth, pussy, and ass are pleasured at the same time, I\ncome immediately.",
     "etypeId": 4,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 91,
@@ -135,7 +135,7 @@
   {
     "id": 12,
     "atypeId": 1,
-    "description": "A contraceptive barrier effective against both humans and monsters has been\nplaced inside Rio's body (womb). It can prevent most pregnancies, but... there\nare exceptions and weaknesses.",
+    "description": "A contraceptive barrier effective against both humans and\nmonsters has been placed inside Rio's body (womb). It can\nprevent most pregnancies, but... there are exceptions and\nweaknesses.",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 79,
@@ -147,7 +147,7 @@
   {
     "id": 13,
     "atypeId": 1,
-    "description": "An enhancement spell that boosts Rio's physical abilities. It grants her the\nstrength of an adult male or greater, along with increased physical endurance.",
+    "description": "An enhancement spell that boosts Rio's physical abilities.\nIt grants her the strength of an adult male or greater,\nalong with increased physical endurance.",
     "etypeId": 6,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 79,
@@ -363,7 +363,7 @@
   {
     "id": 31,
     "atypeId": 1,
-    "description": "An operative of a private corporation that carries out various missions, legal\nand illegal alike. Rabi is particularly skilled in rough tasks. [Maximum HP +20]",
+    "description": "An operative of a private corporation that carries out\nvarious missions, legal and illegal alike. Rabi is\nparticularly skilled in rough tasks. [Maximum HP +20]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
@@ -375,7 +375,7 @@
   {
     "id": 32,
     "atypeId": 1,
-    "description": "The pet's name is Usausa (male). Planning to get a female soon. [Max Stamina\n+20]",
+    "description": "The pet's name is Usausa (male). Planning to get a female\nsoon. [Max Stamina +20]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
@@ -387,7 +387,7 @@
   {
     "id": 33,
     "atypeId": 1,
-    "description": "Expert knife handling honed in actual combat. [Max HP +30][Melee Attack +15]",
+    "description": "Expert knife handling honed in actual combat. [Max HP\n+30][Melee Attack +15]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
@@ -399,7 +399,7 @@
   {
     "id": 34,
     "atypeId": 1,
-    "description": "Defeated the [Headless] on our first encounter. For now, shoot the enemy. [Max\nHP +50] [Max Stamina +50] [Close & Ranged Attack +5]",
+    "description": "Defeated the [Headless] on our first encounter. For now,\nshoot the enemy. [Max HP +50] [Max Stamina +50] [Close &\nRanged Attack +5]",
     "etypeId": 5,
     "traits": [],
     "iconIndex": 72,
@@ -411,7 +411,7 @@
   {
     "id": 35,
     "atypeId": 1,
-    "description": "A woman violated by every zombie. Zombies want to offer tribute. [Max Spirit\n+100] [Max Stamina -80] [Significantly increased drop rate]",
+    "description": "A woman violated by every zombie. Zombies want to offer\ntribute. [Max Spirit +100] [Max Stamina -80] [Significantly\nincreased drop rate]",
     "etypeId": 5,
     "traits": [{ "code": 22, "dataId": 1, "value": 0 }],
     "iconIndex": 72,
@@ -435,7 +435,7 @@
   {
     "id": 37,
     "atypeId": 1,
-    "description": "Rabi's alias as she leaps across the battlefield annihilating enemies. [Max\nSpirit +80] [All gun power increased by 1.2 times] [Melee Attack +10]",
+    "description": "Rabi's alias as she leaps across the battlefield\nannihilating enemies. [Max Spirit +80] [All gun power\nincreased by 1.2 times] [Melee Attack +10]",
     "etypeId": 5,
     "traits": [
       { "code": 22, "dataId": 1, "value": 0 },

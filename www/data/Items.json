@@ -11,7 +11,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Favorite item. Restores 50 health points. Use with the S key.",
+    "description": "Favorite item. Restores 50 health points. Use with the S\nkey.",
     "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 50 }],
     "hitType": 0,
     "iconIndex": 247,
@@ -271,7 +271,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A lighter that still seems usable. It could probably be used to light torches\nand such.",
+    "description": "A lighter that still seems usable. It could probably be used\nto light torches and such.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 212,
@@ -297,7 +297,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A small, easy-to-handle hammer. It seems capable of breaking a shabby pot.",
+    "description": "A small, easy-to-handle hammer. It seems capable of breaking\na shabby pot.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 223,
@@ -323,7 +323,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The spare key to the treasure vault somewhere in the mansion. The main key is\nheld by the mansion's master.",
+    "description": "The spare key to the treasure vault somewhere in the\nmansion. The main key is held by the mansion's master.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 195,
@@ -349,7 +349,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A small, domestic-use (?) bomb with limited firepower. Seems capable of breaking\na cracked floor.",
+    "description": "A small, domestic-use (?) bomb with limited firepower. Seems\ncapable of breaking a cracked floor.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 218,
@@ -375,7 +375,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The key to the treasure chest in the treasury. It seems to give you what's\ninside.",
+    "description": "The key to the treasure chest in the treasury. It seems to\ngive you what's inside.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 195,
@@ -401,7 +401,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A luxurious, ornately decorated knife. Very sharp. It seems like it could even\ncut through a monster's thread.",
+    "description": "A luxurious, ornately decorated knife. Very sharp. It seems\nlike it could even cut through a monster's thread.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 224,
@@ -427,7 +427,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A thick rope, like a heavy cord. It seems sturdy enough to hold a person's\nweight.",
+    "description": "A thick rope, like a heavy cord. It seems sturdy enough to\nhold a person's weight.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 208,
@@ -453,7 +453,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Key for the door in the storage room on the east side of the 1st floor.",
+    "description": "Key for the door in the storage room on the east side of the\n1st floor.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 195,
@@ -479,7 +479,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A special contraceptive drug used when contraceptive methods fail or are\ncompromised. It is also effective against eggs implanted in the body.",
+    "description": "A special contraceptive drug used when contraceptive methods\nfail or are compromised. It is also effective against eggs\nimplanted in the body.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 178,
@@ -505,7 +505,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A cheap talisman capable of exorcising weak monsters. It's almost ineffective\nagainst powerful monsters.",
+    "description": "A cheap talisman capable of exorcising weak monsters. It's\nalmost ineffective against powerful monsters.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 191,
@@ -531,7 +531,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A super high-grade exorcism charm that can defeat most demons. Possession\nwithout permission is prohibited.",
+    "description": "A super high-grade exorcism charm that can defeat most\ndemons. Possession without permission is prohibited.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 191,
@@ -557,7 +557,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The key to the master's room in the mansion directly ahead on the 2nd floor. Be\ncautious, as there is a strong presence of a demon within that room.",
+    "description": "The key to the master's room in the mansion directly ahead\non the 2nd floor. Be cautious, as there is a strong presence\nof a demon within that room.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 195,
@@ -895,7 +895,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A note filled with complaints. The reason for writing it is unclear.",
+    "description": "A note filled with complaints. The reason for writing it is\nunclear.",
     "effects": [{ "code": 44, "dataId": 71, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 193,
@@ -921,7 +921,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Presence detected on the 1F west side, not of monsters. There might be\nsurvivors. Strong monster presence on 2F, it seems the boss is on the 2F.",
+    "description": "Presence detected on the 1F west side, not of monsters.\nThere might be survivors. Strong monster presence on 2F, it\nseems the boss is on the 2F.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -947,7 +947,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "It seems the first and second floors of the mansion have almost the same layout.\nIf a path that should be there is missing, maybe it's hidden by something...?",
+    "description": "It seems the first and second floors of the mansion have\nalmost the same layout. If a path that should be there is\nmissing, maybe it's hidden by something...?",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -973,7 +973,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "According to the chef's diary, it seems that after writing a note with the\nsafe's number in the kitchen, it was lost.",
+    "description": "According to the chef's diary, it seems that after writing a\nnote with the safe's number in the kitchen, it was lost.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -999,7 +999,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The boss-level demon can't be defeated with just the Spirit Annihilation\nStrike... If only we had some kind of special demon-slaying tool...",
+    "description": "The boss-level demon can't be defeated with just the Spirit\nAnnihilation Strike... If only we had some kind of special\ndemon-slaying tool...",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -1025,7 +1025,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "The parasitic eggs implanted inside cannot be prevented by Rio's contraception\ntechniques. If left untreated without proper measures, it could lead to\nirreversible consequences...",
+    "description": "The parasitic eggs implanted inside cannot be prevented by\nRio's contraception techniques. If left untreated without\nproper measures, it could lead to irreversible\nconsequences...",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -1051,7 +1051,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Records about the drug [Amnesia R] developed at the laboratory.",
+    "description": "Records about the drug [Amnesia R] developed at the\nlaboratory.",
     "effects": [{ "code": 44, "dataId": 75, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 193,
@@ -1129,7 +1129,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Records about the drug [Amnesia R] developed in the laboratory.",
+    "description": "Records about the drug [Amnesia R] developed in the\nlaboratory.",
     "effects": [{ "code": 44, "dataId": 75, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 193,
@@ -1155,7 +1155,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Records about the drug [Panacea Z] developed in the laboratory.",
+    "description": "Records about the drug [Panacea Z] developed in the\nlaboratory.",
     "effects": [{ "code": 44, "dataId": 76, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 193,
@@ -1389,7 +1389,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "There's a shortcut on the road connecting Orc Castle and Dreyna Village. It\nseems that pink flowers are the landmark.",
+    "description": "There's a shortcut on the road connecting Orc Castle and\nDreyna Village. It seems that pink flowers are the landmark.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 186,
@@ -1415,7 +1415,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "If the Pig Orc Stronghold loses its function, Tatakau Village will be able\nto draw the military forces of Orc Castle.",
+    "description": "If the Pig Orc Stronghold loses its function, Tatakau\nVillage will be able to draw the military forces of Orc\nCastle.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 193,
@@ -1441,7 +1441,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "There's always an open window on the first floor of Orc Castle. It seems to\nbe the room where a sword is hanging.",
+    "description": "There's always an open window on the first floor of Orc\nCastle. It seems to be the room where a sword is hanging.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 193,
@@ -1467,7 +1467,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "There seems to be a hole in the wall on the second floor of the Orc Castle. If\nyou blow up right under the map in the northwest room with a powerful bomb...",
+    "description": "There seems to be a hole in the wall on the second floor of\nthe Orc Castle. If you blow up right under the map in the\nnorthwest room with a powerful bomb...",
     "effects": [],
     "hitType": 0,
     "iconIndex": 193,
@@ -1519,7 +1519,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Thank you for playing the demo! Here's a gift of a useful item to help you out a\nbit!",
+    "description": "Thank you for playing the demo! Here's a gift of a useful\nitem to help you out a bit!",
     "effects": [{ "code": 44, "dataId": 79, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 210,

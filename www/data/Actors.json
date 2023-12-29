@@ -23,7 +23,7 @@
     "name": "Rio",
     "nickname": "Bitch",
     "note": "<CSS_画像:menu_tachi1>\nImage Position 0\n</CSS_画像>\n",
-    "profile": "A top-class (self-proclaimed) exorcist who makes a living by vanquishing demons.\nA hardcore bitch with a fondness for eros."
+    "profile": "A top-class (self-proclaimed) exorcist who makes a living by\nvanquishing demons. A hardcore bitch with a fondness for\neros."
   },
   {
     "id": 2,
@@ -43,7 +43,7 @@
     "name": "Male Staff Member",
     "nickname": "Glasses Staff Member",
     "note": "<Set Sts Data>\nTreeType: 6, 7\nInit Sp: 0\n</Set Sts Data>\n<stand_picture:menu_tachi1>",
-    "profile": "A laboratory staff member whose trademark is glasses. He's a gentle man, but\nupon closer look, he's quite handsome."
+    "profile": "A laboratory staff member whose trademark is glasses. He's a\ngentle man, but upon closer look, he's quite handsome."
   },
   {
     "id": 3,
@@ -64,7 +64,7 @@
     "name": "Rio (Former)",
     "nickname": "Battlefield Rabbit",
     "note": "<Set Sts Data>\nTreeType: 6, 7\nInit Sp: 0\n</Set Sts Data>\n<stand_picture:menu_tachi1>",
-    "profile": "A female operative belonging to a private personnel dispatch company. She's a\nbeauty when silent, but has a rough temperament."
+    "profile": "A female operative belonging to a private personnel dispatch\ncompany. She's a beauty when silent, but has a rough\ntemperament."
   },
   {
     "id": 4,
